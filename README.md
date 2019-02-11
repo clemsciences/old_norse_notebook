@@ -1,7 +1,7 @@
 # Old Norse, Runes, Edda Notebook
-A first presentation about how to use cltk for Old Norse is available.
 
-How to use Germanic runes with Python? A presentation of my module https://github.com/clemsciences/runes-analyzer is also available!
+Install needed packages with **pip**:
 
-Futur notebooks are expected:
-- Analysis of Völuspá
+```bash
+$ pip install -r requirements.txt
+```
