@@ -3,7 +3,7 @@ nltk
 cltk
 -e git+https://github.com/clemsciences/old_norse_texts_heimskringla.git#egg=eddas
 -e git+https://github.com/cltk/old_norse_dictionary_zoega.git#egg=zoegas
--e git+https://github.com/clemsciences/runes-analyzer.git
+-e git+https://github.com/clemsciences/runes-analyzer.git#egg=runesanalyzer
 matplotlib
 requests
 lxml
