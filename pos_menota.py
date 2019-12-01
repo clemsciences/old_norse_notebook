@@ -694,11 +694,15 @@ class POSMenota(POSAbstract):
                 return value
 
 
-def parse(tag):
+def parse(tag, vector=False):
     #     print(tag)
+    if tag is None:
+        return POSFeatures
     if len(tag) > 0:
-        value, features = POSMenota.parse(tag)
+        value = POSMenota.parse(tag.lower(), vector)
     else:
-        value = ""
-        features = POSFeatures
-    return value, features
+        if vector:
+            value = POSFeatures()
+        else:
+            value = ""
+    return value

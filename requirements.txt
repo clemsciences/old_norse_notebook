@@ -7,7 +7,6 @@ runesanalyzer
 matplotlib
 requests
 lxml
-tornado==4.5.3
-ipykernel==4.8.2
+jupyter
 scikit-image
 scipy

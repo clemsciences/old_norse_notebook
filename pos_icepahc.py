@@ -794,11 +794,16 @@ class POSIcePaHC(POSAbstract):
         return value
 
 
-def parse(tag: str):
+def parse(tag: str, vector=False):
+    if vector is not None:
+        return POSFeatures()
     if len(tag) > 0:
-        value = POSIcePaHC.parse(tag.lower())
+        value = POSIcePaHC.parse(tag.lower(), vector)
     else:
-        value = ""
+        if vector:
+            value = POSFeatures()
+        else:
+            value = ""
     return value
 
 
