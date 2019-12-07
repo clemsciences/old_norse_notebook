@@ -14,7 +14,7 @@ import os
 from lxml import etree
 
 konungsbok_filename = "GKS-2365-4to-Vsp.xml"
-hausbok_filename = "AM-544-4to-Vsp.xml"
+# hausbok_filename = "AM-544-4to-Vsp.xml"
 menota_directory = "menota"
 
 stringify = etree.XPath("string()")
