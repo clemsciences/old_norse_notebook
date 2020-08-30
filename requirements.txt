@@ -10,3 +10,5 @@ lxml
 jupyter
 scikit-image
 scipy
+tensorflow
+tensorboard
