@@ -1,6 +1,7 @@
 """
 
 """
+import codecs
 
 import pos_icepahc
 import pos_menota
@@ -45,17 +46,21 @@ pos_text = [[[word.get('{http://www.menota.org/ns/1.0}msa') for word in line] fo
             for stanza in pos_lines]
 #
 menota_tags = []
+text1 = []
 # for i, stanza in enumerate([pos_text[0]]):
 for i, stanza in enumerate(pos_text):
     for j, line in enumerate(stanza):
         for k, pos in enumerate(line):
             try:
                 menota_tags.append((normalized_text[i][j][k], pos_menota.parse(pos, True)))
-            except:
+                text1.append(normalized_text[i][j][k])
+            except IndexError:
                 print(i, j, k, pos_text[i][j], normalized_text[i][j])
             # print(normalized_text[i][j][k]+" ["+lemmata_text[i][j][k]+"]"+" : "+pos)
 
 print(len(menota_tags))
+with codecs.open("text1.txt", "w", encoding="utf-8") as f:
+    f.write("\n".join(text1))
 # endregion
 
 
@@ -65,16 +70,23 @@ from eddas import reader
 
 # print(reader.poetic_edda_titles)
 pos_reader_clkt = reader.PoeticEddaPOSTaggedReader("Völuspá")
-print(pos_reader_clkt.tagged_paras()[0])
+# print(pos_reader_clkt.tagged_paras()[0])
 
 icepahc_tags = []
+text2 = []
 for sents in pos_reader_clkt.tagged_paras():
     # print(sents)
     for sent in sents:
         for word, tag in sent:
-            if tag.lower() != "ta":
+            if tag.lower() not in ["ta", 'p', "", "-", "?", "-", ";", ".", ":", "!"]:
                 icepahc_tags.append((word, pos_icepahc.parse(tag, True)))
+                text2.append(word)
 
+with codecs.open("text2.txt", "w", encoding="utf-8") as f:
+    f.write("\n".join(text2))
+
+
+print(icepahc_tags[:20])
 print(len(icepahc_tags))
 
 # endregion

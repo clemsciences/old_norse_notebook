@@ -794,8 +794,8 @@ class POSIcePaHC(POSAbstract):
         return value
 
 
-def parse(tag: str, vector=False):
-    if vector is not None:
+def parse_icepahc(tag: str, vector=False):
+    if vector:
         return POSFeatures()
     if len(tag) > 0:
         value = POSIcePaHC.parse(tag.lower(), vector)
