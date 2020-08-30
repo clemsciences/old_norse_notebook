@@ -1,0 +1,3009 @@
+Hljóðs bið ek allar
+Hljóðs [hlióð] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+bið [biðia] -> verb finite present indicative first singular active strong : xVB fF tPS mIN p1 nS vA iST
+ek [ek] -> pronoun neuter : xPD cN
+allar [allr] -> adjective positive feminine plural feminine indefinite : xAJ rP gF nP cA sI
+
+
+kindir
+kindir [kind] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+
+
+meiri ok minni
+meiri [mikill] -> adjective comparative feminine plural feminine definite : xAJ rC gF nP cA sD
+ok [ok] -> conjunction or subjunction : xCU
+minni [lítill] -> adjective comparative feminine plural feminine definite : xAJ rC gF nP cA sD
+
+
+mögu Heimdalar
+mögu [mǫgr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+Heimdalar [Heimdallr] -> proper noun masculine genitive indefinite : xNP gM cG sI
+
+
+vildu að ek Valföðr
+vildu [vilia] -> verb finite present indicative second singular active weak : xVB fF tPS mIN p2 nS vA iWK
+að [at] -> conjunction or subjunction : xCU
+ek [ek] -> pronoun neuter : xPD cN
+Valföðr [Valfǫðr] -> common noun masculine singular nominative : xNC gM nS cN
+
+
+vel fyr telja
+vel [vel] -> adverb positive : xAV rP
+fyr [fyr] -> adverb positive : xAV rP
+telja [telia] -> verb finite present subjunctive first singular active weak : xVB fF tPS mSU p1 nS vA iWK
+
+
+forn spjöll fira
+forn [forn] -> adjective positive neuter plural feminine indefinite : xAJ rP gN nP cA sI
+spjöll [spiall] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+fira [firar] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+þau er fremst um man .
+þau [sá] -> pronoun neuter plural feminine : xPD gN nP cA
+er [er] -> conjunction or subjunction : xCU
+fremst [framr] -> adjective superlative neuter plural feminine indefinite : xAJ rS gN nP cA sI
+um [um] -> adverb positive : xAV rP
+man [muna] -> verb finite present indicative first singular active preterito-present : xVB fF tPS mIN p1 nS vA iPP
+
+
+Ek man jötna
+Ek [ek] -> pronoun neuter : xPD cN
+man [muna] -> verb finite present indicative first singular active preterito-present : xVB fF tPS mIN p1 nS vA iPP
+jötna [iǫtunn] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+ár um borna
+ár [ár] -> adverb positive : xAV rP
+um [um] -> adverb positive : xAV rP
+borna [bera] -> verb participle preterite masculine plural feminine indefinite strong : xVB fP tPT gM nP cA sI iST
+
+
+þá er forðum mik
+þá [sá] -> pronoun masculine plural feminine : xPD gM nP cA
+er [er] ->  : xRP
+forðum [forðum] -> adverb positive : xAV rP
+mik [ek] -> pronoun feminine : xPD cA
+
+
+fædda höfðu .
+fædda [fǿða] -> verb participle preterite feminine singular feminine indefinite weak : xVB fP tPT gF nS cA sI iWK
+höfðu [hafa] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+Níu man ek heima
+Níu [níu] -> cardinal unspecified unspecified unspecified unspecified : xNA gU nU cU sU
+man [muna] -> verb finite present indicative first singular active preterito-present : xVB fF tPS mIN p1 nS vA iPP
+ek [ek] -> pronoun neuter : xPD cN
+heima [heimr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+níu íviðjur
+níu [níu] -> cardinal unspecified unspecified unspecified unspecified : xNA gU nU cU sU
+íviðjur [UNK] -> UNK : UNK
+
+
+mjötvið mæran
+mjötvið [mjǫtviðr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+mæran [mǽrr] -> adjective positive masculine singular feminine indefinite : xAJ rP gM nS cA sI
+
+
+fyr mold neðan .
+fyr [fyr] ->  : xAP yA
+mold [mold] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+neðan [neðan] -> adverb positive : xAV rP
+
+
+Ár var alda
+Ár [ár] -> adverb positive : xAV rP
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+alda [ǫld] -> common noun feminine plural genitive indefinite : xNC gF nP cG sI
+
+
+þar er Ýmis byggði
+þar [þar] -> adverb positive : xAV rP
+er [er] ->  : xRP
+Ýmis [Ýmir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+byggði [byggia] -> verb finite preterite indicative third singular active weak : xVB fF tPT mIN p3 nS vA iWK
+
+
+var-a sandr né sær
+var-a [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+sandr [sandr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+né [ne] -> adverb positive : xAV rP
+sær [sǽr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+né svalar unnir
+né [ne] -> adverb positive : xAV rP
+svalar [svalr] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+unnir [unnr] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+
+
+jörð fannz æva
+jörð [iǫrð] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+fannz [finna] -> verb finite preterite indicative third singular reflexive strong : xVB fF tPT mIN p3 nS vR iST
+æva [æva] -> adverb positive : xAV rP
+
+
+ne upphiminn
+ne [ne] -> adverb positive : xAV rP
+upphiminn [upphiminn] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+gap var ginnunga
+gap [gap] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+ginnunga [UNK] -> UNK : UNK
+
+
+en gras hvergi .
+en [en] -> conjunction or subjunction : xCU
+gras [gras] -> common noun neuter singular nominative indefinite : xNC gN nS cN sI
+hvergi [hvergi] -> adverb positive : xAV rP
+
+
+Áðr Burs synir
+Áðr [áðr] -> conjunction or subjunction : xCU
+Burs [Burr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+synir [sonr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+bjöðum um yppðu
+bjöðum [biǫð] -> common noun neuter plural dative indefinite : xNC gN nP cD sI
+um [um] -> adverb positive : xAV rP
+yppðu [yppa] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+þeir er Miðgarð
+þeir [sá] -> pronoun masculine plural nominative : xPD gM nP cN
+er [er] ->  : xRP
+Miðgarð [Miðgarðr] -> proper noun masculine singular feminine indefinite : xNP gM nS cA sI
+
+
+mæran skópu .
+mæran [mǽrr] -> adjective positive masculine singular feminine indefinite : xAJ rP gM nS cA sI
+skópu [skapa] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+Sól skein sunnan
+Sól [sól] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+skein [skína] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+sunnan [sunnan] -> adverb positive : xAV rP
+
+
+á salar steina
+á [á] ->  : xAP yA
+salar [salr] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+steina [steinn] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+þá var grund gróin
+þá [þá] -> adverb positive : xAV rP
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+grund [grund] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+gróin [gróa] -> verb participle preterite feminine singular nominative indefinite reduplicating : xVB fP tPT gF nS cN sI iRD
+
+
+grænum lauki .
+grænum [grǿnn] -> adjective positive masculine singular dative indefinite : xAJ rP gM nS cD sI
+lauki [laukr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Sól varp sunnan
+Sól [sól] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+varp [verpa] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+sunnan [sunnan] -> adverb positive : xAV rP
+
+
+sinni mána
+sinni [sinni] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+mána [máni] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+
+
+hendi inni hægri
+hendi [hǫnd] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+inni [inn] -> article feminine singular dative : xAT gF nS cD sI
+hægri [hǿgri] -> adjective comparative feminine singular dative definite : xAJ rC gF nS cD sD
+
+
+um himin jódýr .
+um [um] ->  : xAP yA
+himin [himinn] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+jódýr [iódýr] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+
+
+Sól það né vissi
+Sól [sól] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+það [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+né [ne] -> adverb positive : xAV rP
+vissi [vita] -> verb finite preterite indicative third singular active preterito-present : xVB fF tPT mIN p3 nS vA iPP
+
+
+hvar hon sali átti
+hvar [hvar] -> adverb positive : xAV rP
+hon [hon] -> pronoun neuter : xPD cN
+sali [salr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+átti [eiga] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+stjörnur það né vissu
+stjörnur [stiarna] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+það [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+né [ne] -> adverb positive : xAV rP
+vissu [vita] -> verb finite preterite indicative third plural active preterito-present : xVB fF tPT mIN p3 nP vA iPP
+
+
+hvar þær staði áttu
+hvar [hvar] -> adverb positive : xAV rP
+þær [sá] -> pronoun feminine plural nominative : xPD gF nP cN
+staði [staðr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+áttu [eiga] -> verb finite preterite indicative third plural active preterito-present : xVB fF tPT mIN p3 nP vA iPP
+
+
+máni þaðan né vissi
+máni [máni] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+þaðan [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+né [ne] -> adverb positive : xAV rP
+vissi [vita] -> verb finite preterite indicative third singular active preterito-present : xVB fF tPT mIN p3 nS vA iPP
+
+
+hvað hann megins átti .
+hvað [hvat] -> pronoun neuter feminine : xPD gN cA
+hann [hann] -> pronoun neuter : xPD cN
+megins [megin] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+átti [eiga] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+Þá gengu regin öll
+Þá [þá] -> adverb positive : xAV rP
+gengu [ganga] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+regin [regin] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+öll [allr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+
+
+á rökstóla
+á [á] ->  : xAP yA
+rökstóla [rǫkstóll] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+ginnheilög goð
+ginnheilög [ginnheilagr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+goð [goð] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+
+
+ok um það gættuz
+ok [ok] -> conjunction or subjunction : xCU
+um [um] ->  : xAP yA
+það [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+gættuz [gæta] -> verb finite preterite indicative third plural reflexive weak : xVB fF tPT mIN p3 nP vR iWK
+
+
+nótt ok niðjum
+nótt [nátt] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+ok [ok] -> conjunction or subjunction : xCU
+niðjum [niðr] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+
+
+nöfn um gáfu
+nöfn [nafn] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+um [um] -> adverb positive : xAV rP
+gáfu [gefa] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+morgin hétu
+morgin [morginn] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+hétu [heita] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+
+
+ok miðjan dag
+ok [ok] -> conjunction or subjunction : xCU
+miðjan [miðr] -> adjective positive masculine singular feminine indefinite : xAJ rP gM nS cA sI
+dag [dagr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+undorn ok aftann
+undorn [undorn] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+ok [ok] -> conjunction or subjunction : xCU
+aftann [aptann] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+árum at telja .
+árum [ár] -> common noun neuter plural dative indefinite : xNC gN nP cD sI
+at [at] ->  : xIM
+telja [telia] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+Hittuz æsir
+Hittuz [hitta] -> verb finite preterite indicative third plural reflexive weak : xVB fF tPT mIN p3 nP vR iWK
+æsir [áss] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+á Iðavelli
+á [á] ->  : xAP yD
+Iðavelli [Iðavǫllr] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+þeir er hörg ok hof
+þeir [sá] -> pronoun masculine plural nominative : xPD gM nP cN
+er [er] ->  : xRP
+hörg [hǫrgr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+ok [ok] -> conjunction or subjunction : xCU
+hof [hof] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+
+
+hátimbruðu .
+hátimbruðu [hátimbra] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+afla lögðu
+afla [afl] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+lögðu [leggia] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+auð smíðuðu
+auð [auðr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+smíðuðu [smíða] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+tangir skópu
+tangir [tǫng] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+skópu [skapa] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+ok tól gjörðu .
+ok [ok] -> conjunction or subjunction : xCU
+tól [tól] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+gjörðu [gera] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+Teflðu í túni
+Teflðu [tefla] -> verb finite preterite indicative third plural active : xVB fF tPT mIN p3 nP vA
+í [í] ->  : xAP yD
+túni [tún] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+teitir vóru .
+teitir [teitr] -> adjective positive masculine plural nominative definite : xAJ rP gM nP cN sD
+vóru [vera] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+var þeim vettergis
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+þeim [sá] -> pronoun masculine plural dative : xPD gM nP cD
+vettergis [vættki] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+
+
+vant ór gulli .
+vant [vanr] -> adjective positive neuter singular nominative indefinite : xAJ rP gN nS cN sI
+ór [ór] ->  : xAP yD
+gulli [gull] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+unz iii kvómu
+unz [unz] -> conjunction or subjunction : xCU
+iii [3] -> cardinal unspecified unspecified unspecified unspecified : xNA gU nU cU sU
+kvómu [koma] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+þursa meyjar
+þursa [þurs] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+meyjar [mǽr] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+
+
+ámátkar mjök
+ámátkar [ámáttigr] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+mjök [miǫk] -> adverb positive : xAV rP
+
+
+ór jötunheimum .
+ór [ór] ->  : xAP yD
+jötunheimum [Iǫtunheimar] -> proper noun masculine plural dative indefinite : xNP gM nP cD sI
+
+
+Þá gengu regin öll
+Þá [þá] -> adverb positive : xAV rP
+gengu [ganga] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+regin [regin] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+öll [allr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+
+
+á rökstóla
+á [á] ->  : xAP yA
+rökstóla [rǫkstóll] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+ginnheilög goð
+ginnheilög [ginnheilagr] -> adjective positive neuter plural nominative definite : xAJ rP gN nP cN sD
+goð [goð] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+
+
+ok um það gættuz
+ok [ok] -> conjunction or subjunction : xCU
+um [um] ->  : xAP yA
+það [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+gættuz [gæta] -> verb finite preterite indicative third plural reflexive weak : xVB fF tPT mIN p3 nP vR iWK
+
+
+hverr skyldi dverga
+hverr [hverr] -> pronoun masculine singular nominative : xPD gM nS cN
+skyldi [skulu] -> verb finite preterite subjunctive third singular active preterito-present : xVB fF tPT mSU p3 nS vA iPP
+dverga [dvergr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+dróttin skepja
+dróttin [dróttinn] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+skepja [skepia] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+ór Brimis blóði
+ór [ór] ->  : xAP yD
+Brimis [Brimir] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+blóði [blóð] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+ok ór blám leggjum .
+ok [ok] -> conjunction or subjunction : xCU
+ór [ór] ->  : xAP yD
+blám [blár] -> adjective positive masculine plural dative indefinite : xAJ rP gM nP cD sI
+leggjum [leggr] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+
+
+Þar Mótsognir
+Þar [þar] -> adverb positive : xAV rP
+Mótsognir [Mótsognir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+mæztr um orðinn
+mæztr [mǽtr] -> adjective superlative masculine singular nominative indefinite : xAJ rS gM nS cN sI
+um [um] -> adverb positive : xAV rP
+orðinn [verða] -> verb participle preterite masculine singular nominative indefinite strong : xVB fP tPT gM nS cN sI iST
+
+
+dverga allra
+dverga [dvergr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+allra [allr] -> adjective positive masculine plural genitive indefinite : xAJ rP gM nP cG sI
+
+
+en Durinn annarr
+en [en] -> conjunction or subjunction : xCU
+Durinn [Durinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+annarr [annarr] -> pronoun masculine singular nominative : xPD gM nS cN
+
+
+þeir mannlíkun
+þeir [sá] -> pronoun masculine plural nominative : xPD gM nP cN
+mannlíkun [mannlíkan] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+
+
+mörg um gjörðu
+mörg [margr] -> adjective positive neuter plural feminine indefinite : xAJ rP gN nP cA sI
+um [um] -> adverb positive : xAV rP
+gjörðu [gera] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+dvergar ór jörðu
+dvergar [dvergr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+ór [ór] ->  : xAP yD
+jörðu [iǫrð] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+
+
+sem Durinn sagði .
+sem [sem] -> conjunction or subjunction : xCU
+Durinn [Durinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+sagði [segia] -> verb finite preterite indicative third singular active weak : xVB fF tPT mIN p3 nS vA iWK
+
+
+Nýi . ok Niði
+Nýi [Nýi] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+. [ok] -> conjunction or subjunction : xCU
+ok [Niði] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Norðri ok Suðri
+Norðri [Norðri] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Suðri [Suðri] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Austri ok Vestri
+Austri [Austri] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Vestri [Vestri] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Alþjófr Dvalinn .
+Alþjófr [Alþiófr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Dvalinn [Dvalinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Bífurr Báfurr
+Bífurr [Bífurr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Báfurr [Báfurr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Bamburr Nóri
+Bamburr [Bǫmburr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Nóri [Nóri] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Ánn ok Ánarr
+Ánn [Ánn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Ánarr [Ánarr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Ái Mjöðvitnir .
+Ái [Ái] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Mjöðvitnir [Mjǫðvitnir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Veigri ok Gandalfr
+Veigri [UNK] -> UNK : UNK
+ok [ok] -> conjunction or subjunction : xCU
+Gandalfr [Gandalfr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Vindalfr Þráinn
+Vindalfr [Vindalfr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Þráinn [Þráinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Þekkr ok Þorinn
+Þekkr [Þekkr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Þorinn [Þorinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Þrór Vitr ok Litr
+Þrór [Þrór] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Vitr [Vitr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Litr [Litr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+ok Nár ok Nýráðr
+ok [ok] -> conjunction or subjunction : xCU
+Nár [Nár] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Nýráðr [Nýráðr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+nú hefi ek dverga
+nú [nú] -> adverb positive : xAV rP
+hefi [hafa] -> verb finite present indicative first singular active weak : xVB fF tPS mIN p1 nS vA iWK
+ek [ek] -> pronoun neuter : xPD cN
+dverga [dvergr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+Reginn ok Ráðsviðr
+Reginn [Reginn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Ráðsviðr [Ráðsviðr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+rétt um talða .
+rétt [réttr] -> adverb positive : xAV rP
+um [um] -> adverb positive : xAV rP
+talða [telia] -> verb participle preterite masculine plural feminine indefinite weak : xVB fP tPT gM nP cA sI iWK
+
+
+Fíli , Kíli ,
+Fíli [Fíli] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+, [Kíli] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Fundinn , Náli ,
+Fundinn [Fundinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+, [Náli] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Hefti , Víli ,
+Hefti [Hefti] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+, [Víli] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Hanarr , Svíurr ,
+Hanarr [Hanarr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+, [Svíurr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Frár Hornbori ,
+Frár [Frár] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Hornbori [Hornbori] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Frægr ok Lóni ,
+Frægr [Frǽgr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Lóni [Lóni] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Aurvangr , Jari
+Aurvangr [Aurvangr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+, [Iari] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Eikinskjaldi .
+Eikinskjaldi [Eikinskjaldi] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Mál er dverga
+Mál [mál] -> common noun neuter singular nominative indefinite : xNC gN nS cN sI
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+dverga [dvergr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+í Dvalins liði
+í [í] ->  : xAP yD
+Dvalins [Dvalinn] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+liði [lið] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+ljóna kindum
+ljóna [lión] -> common noun neuter plural genitive indefinite : xNC gN nP cG sI
+kindum [kind] -> common noun feminine plural dative indefinite : xNC gF nP cD sI
+
+
+til Lofars telja .
+til [til] ->  : xAP yG
+Lofars [Lofarr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+telja [telia] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+Þeir er sóttu
+Þeir [sá] -> pronoun masculine plural nominative : xPD gM nP cN
+er [er] ->  : xRP
+sóttu [sǿkia] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+Frára salar steini
+Frára [Frár] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+salar [salr] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+steini [steinn] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+aurvanga sjöt
+aurvanga [aurvangr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+sjöt [siǫt] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+
+
+til jöruvalla .
+til [til] ->  : xAP yG
+jöruvalla [Iǫruvellir] -> proper noun masculine plural genitive indefinite : xNP gM nP cG sI
+
+
+Þar var Draupnir
+Þar [þar] -> adverb positive : xAV rP
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+Draupnir [Draupnir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+ok Dólgþrasir
+ok [ok] -> conjunction or subjunction : xCU
+Dólgþrasir [Dolgþrasir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Hárr Haugspori
+Hárr [Hárr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Haugspori [Haugspori] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Hlévangr Glói .
+Hlévangr [Hlévangr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+Glói [Glói] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Skirfir . Virfir .
+Skirfir [Skirfir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+. [Virfir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Skáfiðr . Ái .
+Skáfiðr [Skáfiðr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+. [Ái] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Álfr ok Yngvi
+Álfr [Alfr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Yngvi [Yngvi] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Eikinskjaldi .
+Eikinskjaldi [Eikinskjaldi] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Fjalarr ok Frosti
+Fjalarr [Fialarr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Frosti [Frosti] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Finnr ok Ginnarr .
+Finnr [Finnr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Ginnarr [Ginnarr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Það mun uppi
+Það [sá] -> pronoun neuter singular nominative : xPD gN nS cN
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+uppi [uppi] -> adverb positive : xAV rP
+
+
+meðan öld lifir
+meðan [meðan] -> conjunction or subjunction : xCU
+öld [ǫld] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+lifir [lifa] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+
+
+langniðja tal
+langniðja [langniðr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+tal [tal] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+Lofars hafað .
+Lofars [Lofarr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+hafað [hafa] -> verb participle preterite active weak : xVB fP tPT vA iWK
+
+
+Unz þrír kvómu
+Unz [unz] -> conjunction or subjunction : xCU
+þrír [þrír] -> cardinal masculine plural nominative indefinite : xNA gM nP cN sI
+kvómu [koma] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+ór því liði
+ór [ór] ->  : xAP yD
+því [sá] -> pronoun neuter singular dative : xPD gN nS cD
+liði [lið] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+öflgir ok ástgir
+öflgir [ǫflugr] -> adjective positive masculine plural nominative indefinite : xAJ rP gM nP cN sI
+ok [ok] -> conjunction or subjunction : xCU
+ástgir [ástugr] -> adjective positive masculine plural nominative indefinite : xAJ rP gM nP cN sI
+
+
+æsir að húsi .
+æsir [áss] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+að [at] ->  : xAP yD
+húsi [hús] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+fundu á landi
+fundu [finna] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+á [á] ->  : xAP yD
+landi [land] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+lítt megandi
+lítt [lítt] -> adverb positive : xAV rP
+megandi [UNK] -> UNK : UNK
+
+
+Ask ok Emblu
+Ask [Askr] -> proper noun masculine singular feminine indefinite : xNP gM nS cA sI
+ok [ok] -> conjunction or subjunction : xCU
+Emblu [Embla] -> proper noun feminine singular feminine indefinite : xNP gF nS cA sI
+
+
+örlöglausa
+örlöglausa [ørlǫglauss] -> adjective positive masculine plural feminine indefinite : xAJ rP gM nP cA sI
+
+
+Önd þau né áttu
+Önd [ǫnd] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+þau [sá] -> pronoun neuter plural nominative : xPD gN nP cN
+né [ne] -> adverb positive : xAV rP
+áttu [eiga] -> verb finite preterite indicative third plural active preterito-present : xVB fF tPT mIN p3 nP vA iPP
+
+
+óð þau né höfðu
+óð [óðr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+þau [sá] -> pronoun neuter plural nominative : xPD gN nP cN
+né [UNK] -> UNK : UNK
+höfðu [UNK] -> UNK : UNK
+
+
+lá né læti
+lá [lá] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+né [UNK] -> UNK : UNK
+læti [UNK] -> UNK : UNK
+
+
+né litu góða .
+né [né] -> adverb positive : xAV rP
+litu [litr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+góða [góðr] -> adjective positive masculine plural feminine indefinite : xAJ rP gM nP cA sI
+
+
+Önd gaf Óðinn
+Önd [ǫnd] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+gaf [gefa] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+Óðinn [Óðinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+óð gaf Hænir
+óð [óðr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+gaf [UNK] -> UNK : UNK
+Hænir [UNK] -> UNK : UNK
+
+
+lá gaf Lóðurr
+lá [lá] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+gaf [gefa] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+Lóðurr [Lóðurr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+ok litu góða .
+ok [ok] -> conjunction or subjunction : xCU
+litu [litr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+góða [góðr] -> adjective positive masculine plural feminine indefinite : xAJ rP gM nP cA sI
+
+
+Ask veit ek standa
+Ask [askr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+veit [vita] -> verb finite present indicative first singular active preterito-present : xVB fF tPS mIN p1 nS vA iPP
+ek [ek] -> pronoun neuter : xPD cN
+standa [standa] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+heitir Yggdrasill
+heitir [heita] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+Yggdrasill [Yggdrasill] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+hár baðmr ausinn
+hár [UNK] -> adjective positive masculine singular nominative definite : xAJ rP gM nS cN sD
+baðmr [UNK] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+ausinn [ausa] -> verb participle preterite masculine singular nominative indefinite : xVB fP tPT gM nS cN sI vA iST
+
+
+hvíta auri ,
+hvíta [hvítr] -> adjective positive masculine singular dative definite : xAJ rP gM nS cD sD
+auri [aurr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+þaðan koma döggvar
+þaðan [þaðan] -> adverb positive : xAV rP
+koma [koma] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+döggvar [dǫgg] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+
+
+þærs í dala falla
+þærs [sá] -> pronoun feminine plural nominative : xPD gF nP cN
+í [í] ->  : xAP yA
+dala [dalr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+falla [falla] -> verb infinite present active reduplicating : xVB fI tPS vA iRD
+
+
+stendr æ yfir grænn
+stendr [standa] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+æ [ǽ] -> adverb positive : xAV rP
+yfir [yfir] ->  : xAP yD
+grænn [grǿnn] -> adjective positive masculine singular nominative definite : xAJ rP gM nS cN sD
+
+
+Urðar brunni .
+Urðar [Urðr] -> proper noun feminine singular genitive indefinite : xNP gF nS cG sI
+brunni [brunnr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Þaðan koma meyjar
+Þaðan [þaðan] -> adverb positive : xAV rP
+koma [koma] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+meyjar [mǽr] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+
+
+margs vitandi
+margs [margr] -> adjective positive neuter singular genitive indefinite : xAJ rP gN nS cG sI
+vitandi [vita] -> verb participle present feminine plural nominative indefinite preterito-present : xVB fP tPS gF nP cN sI iPP
+
+
+þrjár ór þeim sæ
+þrjár [þrír] -> cardinal feminine plural nominative indefinite : xNA gF nP cN sI
+ór [ór] ->  : xAP yD
+þeim [sá] -> pronoun masculine singular dative : xPD gM nS cD
+sæ [siór] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+er und þolli stendr
+er [er] ->  : xRP
+und [und] ->  : xAP yD
+þolli [þollr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+stendr [standa] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+
+
+Urð hétu eina
+Urð [Urðr] -> proper noun feminine singular feminine indefinite : xNP gF nS cA sI
+hétu [heita] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+eina [einn] -> pronoun feminine singular feminine : xPD gF nS cA
+
+
+aðra Verðandi
+aðra [annarr] -> pronoun feminine singular feminine : xPD gF nS cA
+Verðandi [Verðandi] -> proper noun feminine singular feminine indefinite : xNP gF nS cA sI
+
+
+skáru á skíði
+skáru [skera] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+á [á] ->  : xAP yA
+skíði [skíð] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+Skuld ena þriðju ;
+Skuld [Skuld] -> proper noun feminine singular feminine indefinite : xNP gF nS cA sI
+ena [inn] -> article feminine singular feminine : xAT gF nS cA sI
+þriðju [þriði] -> ordinal feminine singular feminine unspecified : xNO gF nS cA sU
+
+
+þær lög lögðu
+þær [sá] -> pronoun feminine plural nominative : xPD gF nP cN
+lög [lǫg] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+lögðu [leggia] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+þær líf kuru
+þær [sá] -> pronoun feminine plural nominative : xPD gF nP cN
+líf [líf] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+kuru [kjósa] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+alda börnum
+alda [ǫld] -> common noun feminine plural genitive indefinite : xNC gF nP cG sI
+börnum [barn] -> common noun neuter plural dative indefinite : xNC gN nP cD sI
+
+
+örlög seggja .
+örlög [ørlǫg] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+seggja [seggr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+Það man hon fólkvíg
+Það [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+man [muna] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+hon [hon] -> pronoun neuter : xPD cN
+fólkvíg [folkvíg] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+
+
+fyrst í heimi
+fyrst [fyrri] -> adjective superlative neuter singular feminine indefinite : xAJ rS gN nS cA sI
+í [í] ->  : xAP yD
+heimi [heimr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+er Gullveig
+er [er] -> conjunction or subjunction : xCU
+Gullveig [Gullveig] -> proper noun feminine singular feminine indefinite : xNP gF nS cA sI
+
+
+geirum studdu
+geirum [geirr] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+studdu [styðia] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+ok í höll Hárs
+ok [ok] -> conjunction or subjunction : xCU
+í [í] ->  : xAP yD
+höll [hǫll] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+Hárs [Hárr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+hána brenndu .
+hána [hon] -> pronoun feminine : xPD cA
+brenndu [brenna] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+þrysvar brenndu
+þrysvar [þrysvar] -> adverb positive : xAV rP
+brenndu [brenna] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+þrysvar borna
+þrysvar [þrysvar] -> adverb positive : xAV rP
+borna [bera] -> verb participle preterite feminine singular feminine indefinite strong : xVB fP tPT gF nS cA sI iST
+
+
+oft ósjaldan
+oft [opt] -> adverb positive : xAV rP
+ósjaldan [ósialdan] -> adverb positive : xAV rP
+
+
+þó hon enn lifir .
+þó [þó] -> adverb positive : xAV rP
+hon [hon] -> pronoun neuter : xPD cN
+enn [enn] -> adverb positive : xAV rP
+lifir [lifa] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+
+
+Heiði hana hétu
+Heiði [Heiðr] -> proper noun feminine singular feminine indefinite : xNP gF nS cA sI
+hana [hon] -> pronoun feminine : xPD cA
+hétu [heita] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+
+
+hvar til húsa kom
+hvar [hvar] -> adverb positive : xAV rP
+til [til] ->  : xAP yG
+húsa [hús] -> common noun neuter plural genitive indefinite : xNC gN nP cG sI
+kom [koma] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+völu velspá
+völu [vǫlva] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+velspá [velspár] -> adjective positive feminine singular feminine definite : xAJ rP gF nS cA sD
+
+
+vitti hon ganda
+vitti [vitta] -> verb finite preterite indicative third active weak : xVB fF tPT mIN p3 vA iWK
+hon [hon] -> pronoun neuter : xPD cN
+ganda [gandr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+seið hon kunni
+seið [seiðr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+hon [hon] -> pronoun neuter : xPD cN
+kunni [kunna] -> verb finite preterite indicative third singular active preterito-present : xVB fF tPT mIN p3 nS vA iPP
+
+
+seið hon leikinn
+seið [síða] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+leikinn [leika] -> verb participle preterite masculine singular feminine indefinite strong : xVB fP tPT gM nS cA sI iST
+
+
+æ var hon angan
+æ [ǽ] -> adverb positive : xAV rP
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+angan [angan] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+
+
+illrar brúðar .
+illrar [illr] -> adjective positive feminine singular genitive indefinite : xAJ rP gF nS cG sI
+brúðar [brúðr] -> common noun feminine singular genitive indefinite : xNC gF nS cG sI
+
+
+Þá gengu regin öll
+Þá [þá] -> adverb positive : xAV rP
+gengu [ganga] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+regin [regin] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+öll [allr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+
+
+á rökstóla
+á [á] ->  : xAP yA
+rökstóla [rǫkstóll] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+ginnheilög goð
+ginnheilög [ginnheilagr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+goð [goð] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+
+
+ok um það gættuz
+ok [ok] -> conjunction or subjunction : xCU
+um [um] ->  : xAP yA
+það [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+gættuz [gæta] -> verb finite preterite indicative third plural reflexive weak : xVB fF tPT mIN p3 nP vR iWK
+
+
+hvárt skyldu æsir
+hvárt [hvárt] -> adverb positive : xAV rP
+skyldu [skulu] -> verb finite preterite subjunctive third plural active preterito-present : xVB fF tPT mSU p3 nP vA iPP
+æsir [áss] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+afráð gjalda
+afráð [afráð] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+gjalda [gialda] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+eða skyldu goðin öll
+eða [eða] -> conjunction or subjunction : xCU
+skyldu [skulu] -> verb finite preterite subjunctive third plural active preterito-present : xVB fF tPT mSU p3 nP vA iPP
+goðin [goð] -> common noun neuter plural nominative definite : xNC gN nP cN sD
+öll [allr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+
+
+gildi eiga .
+gildi [gildi] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+eiga [eiga] -> verb infinite present active preterito-present : xVB fI tPS vA iPP
+
+
+Fleygði Óðinn
+Fleygði [fleygia] -> verb finite preterite indicative third singular active weak : xVB fF tPT mIN p3 nS vA iWK
+Óðinn [Óðinn] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+ok í fólk um skaut
+ok [ok] -> conjunction or subjunction : xCU
+í [í] ->  : xAP yA
+fólk [folk] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+um [um] -> adverb positive : xAV rP
+skaut [skióta] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+það var enn fólkvíg
+það [sá] -> pronoun neuter singular nominative : xPD gN nS cN
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+enn [enn] -> adverb positive : xAV rP
+fólkvíg [folkvíg] -> common noun neuter singular nominative indefinite : xNC gN nS cN sI
+
+
+fyrst í heimi
+fyrst [fyrri] -> adjective superlative neuter singular nominative indefinite : xAJ rS gN nS cN sI
+í [í] ->  : xAP yD
+heimi [heimr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+brotinn var borðvegr
+brotinn [brióta] -> verb participle preterite masculine singular nominative indefinite strong : xVB fP tPT gM nS cN sI iST
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+borðvegr [borðvegr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+borgar ása
+borgar [borg] -> common noun feminine singular genitive indefinite : xNC gF nS cG sI
+ása [áss] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+knáttu Vanir vígspá
+knáttu [knega] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+Vanir [vanr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+vígspá [vígspá] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+
+
+völlu sporna .
+völlu [vǫllr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+sporna [sporna] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+Þá gengu regin öll
+Þá [þá] -> adverb positive : xAV rP
+gengu [ganga] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+regin [regin] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+öll [allr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+
+
+á rökstóla
+á [á] ->  : xAP yA
+rökstóla [rǫkstóll] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+ginnheilög goð
+ginnheilög [ginnheilagr] -> adjective positive neuter plural nominative definite : xAJ rP gN nP cN sD
+goð [goð] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+
+
+ok um það gættuz
+ok [ok] -> conjunction or subjunction : xCU
+um [um] ->  : xAP yA
+það [sá] -> pronoun neuter singular feminine : xPD gN nS cA
+gættuz [gæta] -> verb finite preterite indicative third plural reflexive weak : xVB fF tPT mIN p3 nP vR iWK
+
+
+hverir hefði loft allt
+hverir [hverr] -> pronoun masculine plural nominative : xPD gM nP cN
+hefði [hafa] -> verb finite preterite subjunctive third plural active weak : xVB fF tPT mSU p3 nP vA iWK
+loft [loft] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+allt [allr] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+
+
+lævi blandit
+lævi [læ] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+blandit [blanda] -> verb participle preterite neuter singular feminine indefinite strong : xVB fP tPT gN nS cA sI iST
+
+
+eða ætt jötuns
+eða [eða] -> conjunction or subjunction : xCU
+ætt [ǽtt] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+jötuns [iǫtunn] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+
+
+Óðs mey gefna .
+Óðs [Óðr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+mey [mær] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+gefna [gefa] -> verb participle preterite feminine singular feminine indefinite strong : xVB fP tPT gF nS cA sI iST
+
+
+Þórr einn þar var
+Þórr [Þórr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+einn [einn] -> pronoun masculine singular nominative : xPD gM nS cN
+þar [þar] -> adverb positive : xAV rP
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+þrunginn móði
+þrunginn [þrøngva] -> verb participle preterite masculine singular nominative indefinite strong : xVB fP tPT gM nS cN sI iST
+móði [móðr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+hann sjaldan sitr
+hann [hann] -> pronoun neuter : xPD cN
+sjaldan [sialdan] -> adverb positive : xAV rP
+sitr [sitia] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+
+
+er hann slíkt um fregn
+er [er] -> conjunction or subjunction : xCU
+hann [hann] -> pronoun neuter : xPD cN
+slíkt [slíkr] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+um [um] -> adverb positive : xAV rP
+fregn [fregna] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+
+
+á genguz eiðar
+á [á] -> adverb positive : xAV rP
+genguz [ganga] -> verb finite preterite indicative third plural reflexive reduplicating : xVB fF tPT mIN p3 nP vR iRD
+eiðar [eiðr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+orð ok særi
+orð [orð] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+ok [ok] -> conjunction or subjunction : xCU
+særi [sǿri] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+
+
+mál öll meginlig
+mál [mál] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+öll [allr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+meginlig [meginligr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+
+
+er á meðal fóru .
+er [er] ->  : xRP
+á [á] -> adverb positive : xAV rP
+meðal [meðal] -> adverb positive : xAV rP
+fóru [fara] -> verb finite preterite indicative third plural active strong : xVB fF tPT mIN p3 nP vA iST
+
+
+Veit hon Heimdalar
+Veit [vita] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+hon [hon] -> pronoun neuter : xPD cN
+Heimdalar [Heimdallr] -> proper noun masculine genitive indefinite : xNP gM cG sI
+
+
+hljóð um fólgið
+hljóð [hlióð] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+um [um] -> adverb positive : xAV rP
+fólgið [fela] -> verb participle preterite neuter singular feminine indefinite : xVB fP tPT gN nS cA sI vA iST
+
+
+undir heiðvönum
+undir [undir] ->  : xAP yD
+heiðvönum [heiðvanr] -> adjective positive masculine singular dative indefinite : xAJ rP gM nS cD sI
+
+
+helgum baðmi .
+helgum [heilagr] -> adjective positive masculine singular dative indefinite : xAJ rP gM nS cD sI
+baðmi [baðmr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Á sér hon ausaz
+Á [á] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+sér [siá] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+ausaz [ausa] -> verb infinite present reflexive strong : xVB fI tPS vR iST
+
+
+aurgum forsi
+aurgum [aurgr] -> adjective positive masculine singular dative indefinite : xAJ rP gM nS cD sI
+forsi [fors] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+af veði Valföðrs
+af [af] ->  : xAP yD
+veði [veð] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+Valföðrs [Valfǫðr] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+
+
+vituð ér enn eða hvat .
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvat [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Ein sat hon úti
+Ein [einn] -> pronoun feminine singular nominative : xPD gF nS cN
+sat [sitia] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+úti [úti] -> adverb positive : xAV rP
+
+
+þá er inn aldni kom
+þá [þá] -> adverb positive : xAV rP
+er [er] -> conjunction or subjunction : xCU
+inn [inn] -> article masculine singular nominative : xAT gM nS cN sI
+aldni [aldinn] -> adjective positive masculine singular nominative definite : xAJ rP gM nS cN sD
+kom [koma] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+yggjungr ása
+yggjungr [Yggiungr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ása [áss] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+ok í augu leit :
+ok [ok] -> conjunction or subjunction : xCU
+í [í] ->  : xAP yA
+augu [auga] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+leit [líta] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+hvers fregnit mik
+hvers [hverr] -> pronoun neuter singular genitive : xPD gN nS cG
+fregnit [fregna] -> verb finite present indicative second plural active strong : xVB fF tPS mIN p2 nP vA iST
+mik [ek] -> pronoun feminine : xPD cA
+
+
+hví freistit mín
+hví [hví] -> adverb positive : xAV rP
+freistit [freista] -> verb finite present indicative second plural active weak : xVB fF tPS mIN p2 nP vA iWK
+mín [ek] -> pronoun genitive : xPD cG
+
+
+allt veit ek Óðinn
+allt [allr] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+veit [vita] -> verb finite present indicative first singular active preterito-present : xVB fF tPS mIN p1 nS vA iPP
+ek [ek] -> pronoun neuter : xPD cN
+Óðinn [Óðinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+hvar þú auga falt
+hvar [hvar] -> adverb positive : xAV rP
+þú [þú] -> pronoun neuter : xPD cN
+auga [auga] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+falt [fela] -> verb finite preterite indicative second singular active strong : xVB fF tPT mIN p2 nS vA iST
+
+
+þitt í inum mæra
+þitt [þinn] -> pronoun neuter singular feminine : xPD gN nS cA
+í [í] ->  : xAP yD
+inum [inn] -> article masculine singular dative : xAT gM nS cD sI
+mæra [mǽrr] -> adjective positive masculine singular dative definite : xAJ rP gM nS cD sD
+
+
+Mímis brunni
+Mímis [Mímir] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+brunni [brunnr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Drekkr mjöð Mímir
+Drekkr [drekka] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+mjöð [miǫðr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+Mímir [Mímir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+morgin hverjan
+morgin [morginn] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+hverjan [hverr] -> pronoun masculine singular feminine : xPD gM nS cA
+
+
+af veði Valföðrs
+af [af] ->  : xAP yD
+veði [veð] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+Valföðrs [Valfǫðr] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+
+
+vituð ér enn eða hvat
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvat [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Valði henni Herföðr
+Valði [velia] -> verb finite preterite indicative third singular active weak : xVB fF tPT mIN p3 nS vA iWK
+henni [hon] -> pronoun dual : xPD cD
+Herföðr [Herfǫðr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+hringa ok men
+hringa [hringr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+ok [ok] -> conjunction or subjunction : xCU
+men [men] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+
+
+fé spjöll spaklig
+fé [fé] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+spjöll [spiall] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+spaklig [spakligr] -> adjective positive neuter plural feminine indefinite : xAJ rP gN nP cA sI
+
+
+ok spáganda
+ok [ok] -> conjunction or subjunction : xCU
+spáganda [spágandr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+sá hon vítt ok um vítt
+sá [siá] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+vítt [víðr] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+ok [ok] -> conjunction or subjunction : xCU
+um [um] -> adverb positive : xAV rP
+vítt [víðr] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+
+
+of veröld hverja .
+of [of] ->  : xAP yA
+veröld [verǫld] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+hverja [hverr] -> pronoun feminine singular feminine : xPD gF nS cA
+
+
+Sá hon valkyrjur
+Sá [siá] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+valkyrjur [valkyrja] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+
+
+vítt um komnar
+vítt [víðr] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+um [um] -> adverb positive : xAV rP
+komnar [koma] -> verb participle preterite feminine plural feminine indefinite strong : xVB fP tPT gF nP cA sI iST
+
+
+görvar að ríða
+görvar [gǫrr] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+að [at] ->  : xIM
+ríða [ríða] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+til goðþjóðar .
+til [til] ->  : xAP yG
+goðþjóðar [goðþióð] -> common noun feminine singular genitive indefinite : xNC gF nS cG sI
+
+
+Skuld helt skildi
+Skuld [Skuld] -> proper noun feminine singular nominative indefinite : xNP gF nS cN sI
+helt [halda] -> verb finite preterite indicative third singular active reduplicating : xVB fF tPT mIN p3 nS vA iRD
+skildi [skiǫldr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+en Skögul önnur
+en [en] -> conjunction or subjunction : xCU
+Skögul [Skǫgul] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+önnur [annarr] -> pronoun feminine singular nominative : xPD gF nS cN
+
+
+Gunnr , Hildr Göndul
+Gunnr [Gunn] -> proper noun feminine singular nominative indefinite : xNP gF nS cN sI
+, [Hildr] -> proper noun feminine singular nominative indefinite : xNP gF nS cN sI
+Hildr [Gǫndul] -> proper noun feminine singular nominative indefinite : xNP gF nS cN sI
+
+
+ok geir skǫgul .
+ok [ok] -> conjunction or subjunction : xCU
+geir [geirr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+skǫgul [Skǫgul] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Nú eru talðar
+Nú [nú] -> adverb positive : xAV rP
+eru [vera] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+talðar [telia] -> verb participle preterite feminine plural nominative indefinite weak : xVB fP tPT gF nP cN sI iWK
+
+
+nönnur Herjans
+nönnur [nanna] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+Herjans [Heriann] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+
+
+görvar að ríða
+görvar [gǫrr] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+að [at] ->  : xIM
+ríða [ríða] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+grund valkyrjur .
+grund [grund] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+valkyrjur [valkyria] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+
+
+Ek sá Baldri
+Ek [ek] -> pronoun neuter : xPD cN
+sá [siá] -> verb finite preterite indicative first singular active strong : xVB fF tPT mIN p1 nS vA iST
+Baldri [Baldr] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+blóðgum tívur
+blóðgum [blóðigr] -> adjective positive masculine singular dative indefinite : xAJ rP gM nS cD sI
+tívur [tívurr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Óðins barni
+Óðins [Óðinn] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+barni [barn] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+or log fólgin
+or [er|or|ór|ór|ǿrr] ->  : xRP|xUA|xAP yD|xAP yU|xAJ rP gF nS cN sI
+log [lǫg|lǫgr] -> common noun neuter plural nominative : xNC gN nP cN sI|xNC gM nS cA sI
+fólgin [fela] -> verb participle preterite masculine singular feminine strong : xVB fP tPT gM nS cA iST
+
+
+stóð um vaxinn
+stóð [standa] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+um [um] -> adverb positive : xAV rP
+vaxinn [vaxa] -> verb participle preterite masculine singular nominative indefinite strong : xVB fP tPT gM nS cN sI iST
+
+
+völlu hæri
+völlu [vǫllr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+hæri [hár] -> adjective comparative masculine singular nominative definite : xAJ rC gM nS cN sD
+
+
+mjór ok mjök fagr
+mjór [miór] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+mjök [miǫk] -> adverb positive : xAV rP
+fagr [fagr] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+
+
+mistilteinn .
+mistilteinn [UNK] -> UNK : UNK
+
+
+Varð af þeim meiði
+Varð [verða] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+af [af] ->  : xAP yD
+þeim [sá] -> pronoun masculine singular dative : xPD gM nS cD
+meiði [meiðr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+er mær sýndiz
+er [er] ->  : xRP
+mær [miór] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+sýndiz [sýna] -> verb finite preterite indicative third singular reflexive weak : xVB fF tPT mIN p3 nS vR iWK
+
+
+harmflaug hættlig
+harmflaug [harmflaug] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+hættlig [hǽttligr] -> adjective positive feminine singular nominative indefinite : xAJ rP gF nS cN sI
+
+
+Höðr nam skjóta .
+Höðr [Hǫðr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+nam [nema] -> verb finite preterite indicative third active strong : xVB fF tPT mIN p3 vA iST
+skjóta [skióta] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+Baldrs bróðir var
+Baldrs [Baldr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+bróðir [bróðir] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+of borinn snemma
+of [of] -> adverb positive : xAV rP
+borinn [bera] -> verb participle preterite masculine singular nominative indefinite strong : xVB fP tPT gM nS cN sI iST
+snemma [snemma] -> adverb positive : xAV rP
+
+
+sá nam Óðins sonr
+sá [sá] -> pronoun masculine singular nominative : xPD gM nS cN
+nam [nema] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+Óðins [Óðinn] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+sonr [sonr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+einnættr vega .
+einnættr [einnǽttr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+vega [vega] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+Þó hann æva hendr
+Þó [þvá] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hann [hann] -> pronoun neuter : xPD cN
+æva [æva] -> adverb positive : xAV rP
+hendr [hǫnd] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+
+
+né höfuð kembði
+né [né] -> conjunction or subjunction : xCU
+höfuð [hǫfuð] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+kembði [kemba] -> verb finite preterite indicative third singular active weak : xVB fF tPT mIN p3 nS vA iWK
+
+
+áðr á bál um bar
+áðr [áðr] -> conjunction or subjunction : xCU
+á [á] ->  : xAP yA
+bál [bál] -> common noun neuter singular feminine indefinite : xNC gN nS cA sI
+um [um] -> adverb positive : xAV rP
+bar [bera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+Baldrs andskota
+Baldrs [Baldr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+andskota [andskoti] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+en Frigg um grét
+en [en] -> conjunction or subjunction : xCU
+Frigg [Frigg] -> proper noun feminine singular nominative indefinite : xNP gF nS cN sI
+um [um] -> adverb positive : xAV rP
+grét [gráta] -> verb finite preterite indicative third singular active reduplicating : xVB fF tPT mIN p3 nS vA iRD
+
+
+í Fensölum
+í [í] ->  : xAP yD
+Fensölum [Fensalir] -> proper noun masculine plural dative indefinite : xNP gM nP cD sI
+
+
+vá Valhallar
+vá [vá] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+Valhallar [Valhǫll] -> proper noun feminine singular genitive indefinite : xNP gF nS cG sI
+
+
+Vituð ér enn eða hvat
+Vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvat [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Haft sá hon liggja
+Haft [haftr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+sá [siá] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+liggja [liggia] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+undir hvera lundi
+undir [undir] ->  : xAP yD
+hvera [hverr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+lundi [lundr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+lægjarns líki
+lægjarns [lǽgiarn] -> adjective positive masculine singular genitive indefinite : xAJ rP gM nS cG sI
+líki [lík] -> common noun neuter singular dative definite : xNC gN nS cD sD
+
+
+Loka áþekkjan .
+Loka [Loki] -> proper noun masculine singular genitive definite : xNP gM nS cG sD
+áþekkjan [áþekkr] -> adjective positive masculine singular feminine indefinite : xAJ rP gM nS cA sI
+
+
+Þar sitr Sigyn
+Þar [þar] -> adverb positive : xAV rP
+sitr [sitia] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+Sigyn [Sigyn] -> proper noun feminine singular nominative indefinite : xNP gF nS cN sI
+
+
+þeygi um sínum
+þeygi [þeygi] -> adverb positive : xAV rP
+um [um] ->  : xAP yD
+sínum [sinn] -> pronoun masculine singular dative : xPD gM nS cD
+
+
+ver velglýjuð
+ver [verr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+velglýjuð [velglýiaðr] -> adjective positive feminine singular nominative indefinite : xAJ rP gF nS cN sI
+
+
+vituð þér enn eða hvat
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+þér [þér] -> pronoun neuter : xPD cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvat [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Á fellr austan
+Á [á] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+fellr [falla] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+austan [austan] -> adverb positive : xAV rP
+
+
+um eitr dala
+um [um] ->  : xAP yA
+eitr [eitr|eitr] -> common noun neuter singular feminine : xNC gN nS cA sI|xNC gN nS cN sI
+dala [dalr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+söxum ok sverðum
+söxum [sax] -> common noun neuter plural dative indefinite : xNC gN nP cD sI
+ok [ok] -> conjunction or subjunction : xCU
+sverðum [sverð] -> common noun neuter plural dative indefinite : xNC gN nP cD sI
+
+
+Slíðr heitir sú .
+Slíðr [Slíðr] -> proper noun feminine singular nominative indefinite : xNP gF nS cN sI
+heitir [heita] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+sú [sá] -> pronoun feminine singular nominative : xPD gF nS cN
+
+
+Stóð fyr norðan
+Stóð [standa] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+fyr [fyr] -> adverb positive : xAV rP
+norðan [norðan] -> adverb positive : xAV rP
+
+
+á Niðavöllum
+á [á] ->  : xAP yD
+Niðavöllum [Niðavellir] -> proper noun masculine plural dative indefinite : xNP gM nP cD sI
+
+
+salur ór gulli
+salur [salr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+ór [ór] ->  : xAP yD
+gulli [gull] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+Sindra ættar
+Sindra [Sindri] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+ættar [ǽtt] -> common noun feminine singular genitive indefinite : xNC gF nS cG sI
+
+
+en annarr stóð
+en [en] -> conjunction or subjunction : xCU
+annarr [annarr] -> pronoun masculine singular nominative : xPD gM nS cN
+stóð [standa] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+
+
+á Ókólni
+á [á] ->  : xAP yD
+Ókólni [Ókolnir] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+bjórsalr jötuns
+bjórsalr [biórsalr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+jötuns [iǫtunn] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+
+
+en sá Brimir heitir .
+en [en] -> conjunction or subjunction : xCU
+sá [sá] -> pronoun masculine singular nominative : xPD gM nS cN
+Brimir [Brimir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+heitir [heita] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+
+
+Sal sá hon standa
+Sal [salr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+sá [siá] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+standa [standa] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+sólu fjarri
+sólu [sól] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+fjarri [fiarri] -> adverb positive : xAV rP
+
+
+náströndu á
+náströndu [nástrǫnd] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+á [á] ->  : xAP yD
+
+
+norðr horfa dyrr .
+norðr [norðr] -> adverb positive : xAV rP
+horfa [horfa] -> verb finite present indicative third plural active weak : xVB fF tPS mIN p3 nP vA iWK
+dyrr [dyrr] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+
+
+Fellu eitrdropar
+Fellu [falla] -> verb finite preterite indicative third plural active reduplicating : xVB fF tPT mIN p3 nP vA iRD
+eitrdropar [eitrdropi] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+inn um ljóra
+inn [inn] -> adverb positive : xAV rP
+um [um] ->  : xAP yA
+ljóra [lióri] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+sá er undinn salr
+sá [sá] -> pronoun masculine singular nominative : xPD gM nS cN
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+undinn [vinda] -> verb participle preterite masculine singular nominative indefinite strong : xVB fP tPT gM nS cN sI iST
+salr [salr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+orma hryggjum .
+orma [ormr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+hryggjum [hryggr] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+
+
+Sá hon þar vaða
+Sá [siá] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+þar [þar] -> adverb positive : xAV rP
+vaða [vaða] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+þunga strauma
+þunga [þungr] -> adjective positive masculine plural feminine indefinite : xAJ rP gM nP cA sI
+strauma [straumr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+menn morðvarga meinsvara ok meinsvara
+menn [maðr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+morðvarga [morðvargr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+meinsvara [meinsvari] -> adjective positive masculine plural feminine indefinite : xAJ rP gM nP cA sI
+ok [ok] -> conjunction or subjunction : xCU
+meinsvara [meinsvari] -> adjective positive masculine plural feminine indefinite : xAJ rP gM nP cA sI
+
+
+ok morðvargar .
+ok [ok] -> conjunction or subjunction : xCU
+morðvargar [morðvargr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+ok þanns annars glepr
+ok [ok] -> conjunction or subjunction : xCU
+þanns [sá] -> pronoun masculine singular feminine : xPD gM nS cA
+annars [annarr] -> pronoun masculine singular genitive : xPD gM nS cG
+glepr [glepia] -> verb present : xVB tPS mIN p3 nS vA iWK
+
+
+eyrarúnu
+eyrarúnu [eyrarúna] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+
+
+þar só Níðhöggr
+þar [þar] -> adverb positive : xAV rP
+só [súga] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+Níðhöggr [Níðhǫggr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+nái framgengna
+nái [nár] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+framgengna [framgenginn] -> adjective positive masculine plural feminine indefinite : xAJ rP gM nP cA sI
+
+
+sleit vargr vera
+sleit [slíta] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+vargr [vargr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+vera [verr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+vituð ér enn eða hvat
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvat [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Austr sat in aldna
+Austr [austr] -> adverb positive : xAV rP
+sat [sitia] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+in [inn] -> article feminine singular nominative : xAT gF nS cN
+aldna [aldinn] -> adjective positive feminine singular nominative definite : xAJ rP gF nS cN sD
+
+
+í Járnviði
+í [í] ->  : xAP yD
+Járnviði [Iárnviðr] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+ok fæddi þar
+ok [ok] -> conjunction or subjunction : xCU
+fæddi [fǿða] -> verb finite preterite indicative third singular active weak : xVB fF tPT mIN p3 nS vA iWK
+þar [þar] -> adverb positive : xAV rP
+
+
+Fenris kindir .
+Fenris [Fenrir] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+kindir [kind] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+
+
+Verðr af þeim öllum
+Verðr [verða] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+af [af] ->  : xAP yD
+þeim [sá] -> pronoun feminine plural dative : xPD gF nP cD
+öllum [allr] -> adjective positive feminine plural dative indefinite : xAJ rP gF nP cD sI
+
+
+einna nokkurr
+einna [einn] -> pronoun masculine plural genitive : xPD gM nP cG
+nokkurr [nǫkkurr] -> pronoun masculine singular nominative : xPD gM nS cN
+
+
+tungls tjúgari
+tungls [tungl] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+tjúgari [tiúgari] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+í  trolls hami .
+í  [í] ->  : xAP yD
+trolls [troll] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+hami [hamr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Fylliz fjörvi
+Fylliz [fylla] -> verb finite present indicative third singular reflexive weak : xVB fF tPS mIN p3 nS vR iWK
+fjörvi [fjǫr] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+feigra manna
+feigra [feigr] -> adjective positive masculine plural genitive indefinite : xAJ rP gM nP cG sI
+manna [maðr] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+rýðr ragna sjöt
+rýðr [rióða] -> verb finite present indicative third singular reflexive strong : xVB fF tPS mIN p3 nS vR iST
+ragna [regin] -> common noun neuter plural genitive indefinite : xNC gN nP cG sI
+sjöt [siǫt] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+
+
+rauðum dreyra
+rauðum [rauðr] -> adjective positive masculine singular dative indefinite : xAJ rP gM nS cD sI
+dreyra [dreyri] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+svart var þá sólskin
+svart [svartr] -> adjective positive neuter singular nominative indefinite : xAJ rP gN nS cN sI
+var [vera] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+þá [þá] -> adverb positive : xAV rP
+sólskin [sólskin] -> common noun neuter singular nominative indefinite : xNC gN nS cN sI
+
+
+of sumur eftir
+of [of] ->  : xAP yA
+sumur [sumar] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+eftir [eptir] -> adverb positive : xAV rP
+
+
+veðr öll válynd
+veðr [veðr] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+öll [allr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+válynd [vályndr] -> adjective positive neuter plural nominative indefinite : xAJ rP gN nP cN sI
+
+
+vituð ér enn eða hvat
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvat [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Sat þar á haugi
+Sat [sitia] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+þar [þar] -> adverb positive : xAV rP
+á [á] ->  : xAP yD
+haugi [haugr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+ok sló hörpu
+ok [ok] -> conjunction or subjunction : xCU
+sló [slá] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+hörpu [harpa] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+
+
+gýgjar hirðir
+gýgjar [gýgr] -> common noun feminine singular genitive indefinite : xNC gF nS cG sI
+hirðir [hirðir] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+glaðr Eggþér .
+glaðr [glaðr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+Eggþér [Eggþér] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Gól um hánum
+Gól [gala] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+um [um] -> adverb positive : xAV rP
+hánum [hann] -> pronoun dual : xPD cD
+
+
+í gaglviði
+í [í] ->  : xAP yD
+gaglviði [gaglviðr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+fagrrauðr hani
+fagrrauðr [fagrrauðr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+hani [hani] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+sá er Fjalarr heitir .
+sá [sá] -> pronoun masculine singular nominative : xPD gM nS cN
+er [er] ->  : xRP
+Fjalarr [Fialarr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+heitir [heita] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+
+
+Gól um ásum
+Gól [gala] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+um [um] -> adverb positive : xAV rP
+ásum [áss] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+
+
+Gullinkambi
+Gullinkambi [Gullinkambi] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+sá vekr hölða
+sá [sá] -> pronoun masculine singular nominative : xPD gM nS cN
+vekr [vekia] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+hölða [hǫldr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+að Herjaföðrs .
+að [at] ->  : xAP yG
+Herjaföðrs [Heriafǫðr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+en annarr gelr
+en [en] -> conjunction or subjunction : xCU
+annarr [annarr] -> pronoun masculine singular nominative : xPD gM nS cN
+gelr [gala] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+
+
+fyr jörð neðan
+fyr [fyr] ->  : xAP yA
+jörð [iǫrð] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+neðan [neðan] -> adverb positive : xAV rP
+
+
+sótrauðr hani
+sótrauðr [sótrauðr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+hani [hani] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+að sölum heljar .
+að [at] ->  : xAP yD
+sölum [salr] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+heljar [hel] -> common noun feminine singular genitive indefinite : xNC gF nS cG sI
+
+
+Geyr Garmr mjök
+Geyr [geyia] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+Garmr [Garmr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+mjök [miǫk] -> adverb positive : xAV rP
+
+
+fyr Gnipahelli
+fyr [fyr] ->  : xAP yD
+Gnipahelli [Gnipahellir] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+festr mun slitna
+festr [festr] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+slitna [slitna] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+en Freki renna
+en [en] -> conjunction or subjunction : xCU
+Freki [Freki] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+renna [renna] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+fjölð veit hon fræða
+fjölð [fiǫlð] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+veit [vita] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+hon [hon] -> pronoun neuter : xPD cN
+fræða [frǿði] -> common noun neuter plural genitive indefinite : xNC gN nP cG sI
+
+
+fram sé ek lengra
+fram [fram] -> adverb positive : xAV rP
+sé [siá] -> verb finite present indicative first singular active strong : xVB fF tPS mIN p1 nS vA iST
+ek [ek] -> pronoun neuter : xPD cN
+lengra [langr] -> adverb comparative : xAV rC
+
+
+um ragnarök
+um [um] ->  : xAP yA
+ragnarök [ragnarǫk] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+
+
+römm sigtíva .
+römm [rammr] -> adjective positive neuter plural feminine indefinite : xAJ rP gN nP cA sI
+sigtíva [sigtívar] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+Bræðr munu berjaz
+Bræðr [bróðir] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+munu [munu] -> verb finite present indicative third plural active preterito-present : xVB fF tPS mIN p3 nP vA iPP
+berjaz [beria] -> verb infinite present reflexive weak : xVB fI tPS vR iWK
+
+
+ok að bönum verða
+ok [ok] -> conjunction or subjunction : xCU
+að [at] ->  : xAP yD
+bönum [bani] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+verða [verða] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+munu systrungar
+munu [munu] -> verb finite present indicative third plural active preterito-present : xVB fF tPS mIN p3 nP vA iPP
+systrungar [systrungr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+sifjum spilla
+sifjum [sif] -> common noun feminine plural dative indefinite : xNC gF nP cD sI
+spilla [spilla] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+hart er í heimi
+hart [harðr] -> adjective positive neuter singular nominative indefinite : xAJ rP gN nS cN sI
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+í [í] ->  : xAP yD
+heimi [heimr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+hórdómr mikill
+hórdómr [hórdómr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+mikill [mikill] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+
+
+skeggöld skálmöld
+skeggöld [skeggǫld] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+skálmöld [skalmǫld] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+
+
+skildir eru klofnir
+skildir [skiǫldr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+eru [vera] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+klofnir [kliúfa] -> verb participle preterite masculine plural nominative indefinite strong : xVB fP tPT gM nP cN sI iST
+
+
+vindöld vargöld
+vindöld [vindǫld] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+vargöld [vargǫld] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+
+
+áðr veröld steypiz
+áðr [áðr] -> conjunction or subjunction : xCU
+veröld [verǫld] -> common noun feminine singular nominative definite : xNC gF nS cN sD
+steypiz [steypa] -> verb finite present indicative third singular reflexive weak : xVB fF tPS mIN p3 nS vR iWK
+
+
+mun engi maðr
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+engi [engi] -> pronoun masculine singular nominative : xPD gM nS cN
+maðr [maðr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+öðrum þyrma .
+öðrum [annarr] -> pronoun masculine singular dative : xPD gM nS cD
+þyrma [þyrma] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+Leika Míms synir
+Leika [leika] -> verb finite present indicative third plural active reduplicating : xVB fF tPS mIN p3 nP vA iRD
+Míms [Mímir] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+synir [sonr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+en mjötuðr kyndiz
+en [en] -> conjunction or subjunction : xCU
+mjötuðr [mjǫtuðr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+kyndiz [kynda] -> verb finite present indicative third singular reflexive weak : xVB fF tPS mIN p3 nS vR iWK
+
+
+að en galla
+að [at] -> adverb positive : xAV rP
+en [en] -> conjunction or subjunction : xCU
+galla [gallr] -> adjective positive neuter singular dative definite : xAJ rP gN nS cD sD
+
+
+Gjallarhorni
+Gjallarhorni [giallarhorn] -> common noun neuter singular nominative indefinite : xNC gN nS cN sI
+
+
+hátt blés Heimdallr
+hátt [hár] -> adjective positive neuter singular feminine indefinite : xAJ rP gN nS cA sI
+blés [blása] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+Heimdallr [Heimdallr] -> proper noun masculine nominative indefinite : xNP gM cN sI
+
+
+horn er á lofti
+horn [horn] -> common noun neuter singular nominative indefinite : xNC gN nS cN sI
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+á [á] ->  : xAP yD
+lofti [lopt] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+mælir Óðinn
+mælir [mǽla] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+Óðinn [Óðinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+við Míms höfuð
+við [við] ->  : xAP yA
+Míms [Mímir] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+höfuð [hǫfuð] -> common noun neuter singular nominative indefinite : xNC gN nS cN sI
+
+
+skelfr Yggdrasils
+skelfr [skialfa] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+Yggdrasils [Yggdrasill] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+askr standandi .
+askr [askr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+standandi [standa] -> verb participle present masculine singular nominative indefinite strong : xVB fP tPS gM nS cN sI iST
+
+
+Geyr nú Garmr mjök
+Geyr [geyia] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+nú [nú] -> adverb positive : xAV rP
+Garmr [Garmr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+mjök [miǫk] -> adverb positive : xAV rP
+
+
+fyr Gnipahelli
+fyr [fyr] ->  : xAP yD
+Gnipahelli [Gnipahellir] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+festr mun slitna
+festr [festr] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+slitna [slitna] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+en Freki renna
+en [en] -> conjunction or subjunction : xCU
+Freki [Freki] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+renna [renna] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+fjölð veit hon fræða
+fjölð [fiǫlð] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+veit [vita] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+hon [hon] -> pronoun neuter : xPD cN
+fræða [frǿði] -> common noun neuter plural genitive indefinite : xNC gN nP cG sI
+
+
+fram sé ek lengra
+fram [fram] -> adverb positive : xAV rP
+sé [siá] -> verb finite present indicative first singular active strong : xVB fF tPS mIN p1 nS vA iST
+ek [ek] -> pronoun neuter : xPD cN
+lengra [langr] -> adverb comparative : xAV rC
+
+
+um ragnarök
+um [um] ->  : xAP yA
+ragnarök [ragnarǫk] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+
+
+römm sigtíva .
+römm [rammr] -> adjective positive neuter plural feminine indefinite : xAJ rP gN nP cA sI
+sigtíva [sigtívar] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+Hrymr ekr austan
+Hrymr [Hrymr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ekr [aka] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+austan [austan] -> adverb positive : xAV rP
+
+
+hefiz lind fyr
+hefiz [hafa] -> verb finite present indicative third singular reflexive weak : xVB fF tPS mIN p3 nS vR iWK
+lind [lind] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+fyr [fyr] -> adverb positive : xAV rP
+
+
+snýz Jörmungandr
+snýz [snúa] -> verb finite present indicative third singular reflexive reduplicating : xVB fF tPS mIN p3 nS vR iRD
+Jörmungandr [Iǫrmungandr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+í jötunmóði .
+í [í] ->  : xAP yD
+jötunmóði [iǫtunmóðr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Ormr knýr unnir
+Ormr [ormr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+knýr [knýia] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+unnir [unnr] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+
+
+en ari hlakkar
+en [en] -> conjunction or subjunction : xCU
+ari [ari] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+hlakkar [hlakka] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+
+
+slítr nái neffölr
+slítr [slíta] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+nái [nár] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+neffölr [neffǫlr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+
+
+Naglfar losnar .
+Naglfar [Naglfar] -> proper noun neuter singular nominative indefinite : xNP gN nS cN sI
+losnar [losna] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+
+
+Kjóll ferr austan
+Kjóll [kióll] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+ferr [fara] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+austan [austan] -> adverb positive : xAV rP
+
+
+koma munu Muspellz
+koma [koma] -> verb infinite present active strong : xVB fI tPS vA iST
+munu [munu] -> verb finite present indicative third plural active preterito-present : xVB fF tPS mIN p3 nP vA iPP
+Muspellz [Múspell] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+um lög lýðir
+um [um] ->  : xAP yA
+lög [lǫgr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+lýðir [lýðr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+en Loki stýrir
+en [en] -> conjunction or subjunction : xCU
+Loki [Loki] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+stýrir [stýra] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+
+
+fara fífls megir
+fara [fara] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+fífls [fífl] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+megir [mǫgr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+með freka allir
+með [með] ->  : xAP yD
+freka [freki] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+allir [allr] -> adjective positive masculine plural nominative indefinite : xAJ rP gM nP cN sI
+
+
+þeim er bróðir
+þeim [sá] -> pronoun masculine plural dative : xPD gM nP cD
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+bróðir [bróðir] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+Býleipz í för .
+Býleipz [Býleistr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+í [í] ->  : xAP yD
+för [fǫr] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+
+
+Hvat er með ásum
+Hvat [hvat] -> pronoun neuter nominative : xPD gN cN
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+með [með] ->  : xAP yD
+ásum [áss] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+
+
+hvat er með álfum
+hvat [hvat] -> pronoun neuter nominative : xPD gN cN
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+með [með] ->  : xAP yD
+álfum [alfr] -> common noun masculine plural dative indefinite : xNC gM nP cD sI
+
+
+gnýr allr Jötunheimr
+gnýr [gnýia] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+allr [allr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+Jötunheimr [Iǫtunheimr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+æsir eru á þingi
+æsir [áss] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+eru [vera] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+á [á] ->  : xAP yD
+þingi [þing] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+stynja dvergar
+stynja [stynia] -> verb finite present indicative third plural active weak : xVB fF tPS mIN p3 nP vA iWK
+dvergar [dvergr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+fyr steindurum
+fyr [fyr] ->  : xAP yD
+steindurum [steindyrr] -> common noun feminine plural dative indefinite : xNC gF nP cD sI
+
+
+veggbergs vísir
+veggbergs [veggberg] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+vísir [víss] -> adjective positive masculine plural nominative indefinite : xAJ rP gM nP cN sI
+
+
+vituð ér enn eða hvat
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvat [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Surtr ferr sunnan
+Surtr [Surtr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ferr [fara] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+sunnan [sunnan] -> adverb positive : xAV rP
+
+
+með sviga lævi
+með [með] ->  : xAP yD
+sviga [svigi] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+lævi [læ] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+skínn af sverði
+skínn [skína] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+af [af] ->  : xAP yD
+sverði [sverð] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+sól valtíva .
+sól [sól] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+valtíva [valtívar] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+grjótbjörg gnata
+grjótbjörg [griótbiarg] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+gnata [gnata] -> verb finite present indicative third plural active weak : xVB fF tPS mIN p3 nP vA iWK
+
+
+en gífr rata
+en [en] -> conjunction or subjunction : xCU
+gífr [gífr] -> common noun neuter plural nominative indefinite : xNC gN nP cN sI
+rata [rata] -> verb finite present indicative third plural active weak : xVB fF tPS mIN p3 nP vA iWK
+
+
+troða halir helveg
+troða [troða] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+halir [halr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+helveg [helvegr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+en himinn klofnar .
+en [en] -> conjunction or subjunction : xCU
+himinn [himinn] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+klofnar [klofna] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+
+
+Þá kjömr Hlínar
+Þá [þá] -> adverb positive : xAV rP
+kjömr [koma] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+Hlínar [Hlín] -> proper noun feminine singular genitive indefinite : xNP gF nS cG sI
+
+
+harmr annarr fram
+harmr [harmr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+annarr [annarr] -> pronoun masculine singular nominative : xPD gM nS cN
+fram [fram] -> adverb positive : xAV rP
+
+
+er Óðinn ferr
+er [er] -> conjunction or subjunction : xCU
+Óðinn [Óðinn] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ferr [fara] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+
+
+við úlf vega
+við [við] ->  : xAP yA
+úlf [ulfr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+vega [vega] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+en bani Belja
+en [en] -> conjunction or subjunction : xCU
+bani [bani] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+Belja [Beli] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+bjartr að Surti
+bjartr [biartr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+að [at] ->  : xAP yD
+Surti [Surtr] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+þá mun Friggjar
+þá [þá] -> adverb positive : xAV rP
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+Friggjar [Frigg] -> proper noun feminine singular genitive indefinite : xNP gF nS cG sI
+
+
+falla angantýr .
+falla [falla] -> verb infinite present active reduplicating : xVB fI tPS vA iRD
+angantýr [angantýr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+Þá kjömr inn mikli
+Þá [þá] -> adverb positive : xAV rP
+kjömr [koma] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+inn [inn] -> article masculine singular nominative : xAT gM nS cN sI
+mikli [mikill] -> adjective positive masculine singular nominative definite : xAJ rP gM nS cN sD
+
+
+mögr Sigföður
+mögr [mǫgr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+Sigföður [Sigfaðir] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+Víðarr vega
+Víðarr [Víðarr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+vega [vega] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+að valdýri .
+að [at] ->  : xAP yD
+valdýri [valdýr] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+Lætr hann megi Hveðrungs
+Lætr [láta] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+hann [hann] -> pronoun neuter : xPD cN
+megi [mǫgr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+Hveðrungs [Hveðrungr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+mund um standa
+mund [mund] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+um [um] -> adverb positive : xAV rP
+standa [standa] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+hjör til hjarta
+hjör [hiǫrr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+til [til] ->  : xAP yG
+hjarta [hiarta] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+
+
+þá er hefnt föður .
+þá [þá] -> adverb positive : xAV rP
+er [vera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+hefnt [hefna] -> verb participle preterite active weak : xVB fP tPT vA iWK
+föður [faðir] -> common noun masculine singular genitive indefinite : xNC gM nS cG sI
+
+
+Þá kjömr inn mæri
+Þá [þá] -> adverb positive : xAV rP
+kjömr [koma] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+inn [inn] -> article masculine singular nominative : xAT gM nS cN sI
+mæri [mǽrr] -> adjective positive masculine singular nominative definite : xAJ rP gM nS cN sD
+
+
+mögr Hlóðynjar
+mögr [mǫgr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+Hlóðynjar [Hlóðyn] -> proper noun feminine singular genitive indefinite : xNP gF nS cG sI
+
+
+gengr Óðins sonr
+gengr [ganga] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+Óðins [Óðinn] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+sonr [sonr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+við  úlf vega
+við  [við] ->  : xAP yA
+úlf [ulfr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+vega [vega] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+drepr hann af mæði
+drepr [drepa] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+hann [hann] -> pronoun neuter : xPD cN
+af [af] ->  : xAP yD
+mæði [móðr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+Miðgarðs véurr
+Miðgarðs [Miðgarðr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+véurr [véurr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+munu halir allir
+munu [munu] -> verb finite present indicative third plural active preterito-present : xVB fF tPS mIN p3 nP vA iPP
+halir [halr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+allir [allr] -> adjective positive masculine plural nominative indefinite : xAJ rP gM nP cN sI
+
+
+heimstöð ryðja
+heimstöð [heimstǫð] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+ryðja [ryðia] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+gengr fet níu
+gengr [ganga] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+fet [fet] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+níu [níu] -> cardinal unspecified unspecified unspecified unspecified : xNA gU nU cU sU
+
+
+Fjörgynjar burr
+Fjörgynjar [Fiǫrgyn] -> proper noun feminine singular genitive indefinite : xNP gF nS cG sI
+burr [burr] -> common noun masculine singular nominative definite : xNC gM nS cN sD
+
+
+neppr frá naðri
+neppr [neppr] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+frá [frá] ->  : xAP yD
+naðri [naðr] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+níðs ókvíðnum .
+níðs [níð] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+ókvíðnum [ókvíðinn] -> adjective positive masculine singular dative indefinite : xAJ rP gM nS cD sI
+
+
+Sól tér sortna
+Sól [sól] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+tér [tiá] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+sortna [sortna] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+sígr fold í mar
+sígr [síga] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+fold [fold] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+í [í] ->  : xAP yA
+mar [marr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+hverfa af himni
+hverfa [hverfa] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+af [af] ->  : xAP yD
+himni [himinn] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+heiðar stjörnur .
+heiðar [heiðr] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+stjörnur [stjarna] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+
+
+geisar eimi
+geisar [geisa] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+eimi [eimi] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+við aldrnara
+við [við] ->  : xAP yA
+aldrnara [aldrnari] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+leikr hár hiti
+leikr [leika] -> verb finite present indicative third singular active reduplicating : xVB fF tPS mIN p3 nS vA iRD
+hár [hár] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+hiti [hiti] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+
+
+við himin sjálfan .
+við [við] ->  : xAP yA
+himin [himinn] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+sjálfan [sialfr] -> adjective positive masculine singular feminine indefinite : xAJ rP gM nS cA sI
+
+
+Geyr nú Garmr mjök
+Geyr [geyia] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+nú [nú] -> adverb positive : xAV rP
+Garmr [Garmr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+mjök [miǫk] -> adverb positive : xAV rP
+
+
+fyr Gnipahelli
+fyr [fyr] ->  : xAP yD
+Gnipahelli [Gnipahellir] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+festr mun slitna
+festr [festr] -> common noun feminine singular nominative indefinite : xNC gF nS cN sI
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+slitna [slitna] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+en freki renna
+en [en] -> conjunction or subjunction : xCU
+freki [freki] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+renna [renna] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+fjölð veit hon fræða
+fjölð [fiǫlð] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+veit [vita] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+hon [hon] -> pronoun neuter : xPD cN
+fræða [frǿði] -> common noun neuter plural genitive indefinite : xNC gN nP cG sI
+
+
+fram  sé ek lengra
+fram  [fram] -> adverb positive : xAV rP
+sé [siá] -> verb finite present indicative first singular active strong : xVB fF tPS mIN p1 nS vA iST
+ek [ek] -> pronoun neuter : xPD cN
+lengra [langr] -> adverb comparative : xAV rC
+
+
+um ragnarök
+um [um] ->  : xAP yA
+ragnarök [ragnarǫk] -> common noun neuter plural feminine indefinite : xNC gN nP cA sI
+
+
+römm sigtíva .
+römm [rammr] -> adjective positive neuter plural feminine indefinite : xAJ rP gN nP cA sI
+sigtíva [sigtívar] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+
+
+Sér hon upp koma
+Sér [siá] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+upp [upp] -> adverb positive : xAV rP
+koma [koma] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+öðru sinni
+öðru [annarr] -> pronoun neuter singular dative : xPD gN nS cD
+sinni [sinni] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+jörð ór ægi
+jörð [iǫrð] -> common noun feminine singular feminine indefinite : xNC gF nS cA sI
+ór [ór] ->  : xAP yD
+ægi [ǽgir] -> common noun masculine singular dative indefinite : xNC gM nS cD sI
+
+
+iðjagræna .
+iðjagræna [iðiagrǿnn] -> adjective positive feminine singular feminine indefinite : xAJ rP gF nS cA sI
+
+
+Falla forsar
+Falla [falla] -> verb finite present indicative third plural active strong : xVB fF tPS mIN p3 nP vA iST
+forsar [fors] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+flýgr örn yfir
+flýgr [fliúga] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+örn [ǫrn] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+yfir [yfir] -> adverb positive : xAV rP
+
+
+sá er á fjalli
+sá [sá] -> pronoun masculine singular nominative : xPD gM nS cN
+er [er] ->  : xRP
+á [á] ->  : xAP yD
+fjalli [fiall] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+fiska veiðir .
+fiska [fiskr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+veiðir [veiða] -> verb finite present indicative third singular active weak : xVB fF tPS mIN p3 nS vA iWK
+
+
+Finnaz æsir
+Finnaz [finna] -> verb finite present indicative third plural reflexive strong : xVB fF tPS mIN p3 nP vR iST
+æsir [áss] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+á Iðavelli
+á [á] ->  : xAP yD
+Iðavelli [Iðavǫllr] -> proper noun masculine singular dative indefinite : xNP gM nS cD sI
+
+
+ok um moldþinur
+ok [ok] -> conjunction or subjunction : xCU
+um [um] ->  : xAP yA
+moldþinur [moldþinurr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+
+
+mátkan dæma
+mátkan [máttigr] -> adjective positive masculine singular feminine indefinite : xAJ rP gM nS cA sI
+dæma [dǿma] -> verb finite present indicative third plural active weak : xVB fF tPS mIN p3 nP vA iWK
+
+
+ok á Fimbultýs
+ok [ok] -> conjunction or subjunction : xCU
+á [á] ->  : xAP yA
+Fimbultýs [Fimbultýr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+
+
+fornar rúnar .
+fornar [forn] -> adjective positive feminine plural feminine indefinite : xAJ rP gF nP cA sI
+rúnar [rún] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+
+
+Þar munu eftir
+Þar [þar] -> adverb positive : xAV rP
+munu [munu] -> verb finite present indicative third plural active preterito-present : xVB fF tPS mIN p3 nP vA iPP
+eftir [eptir] -> adverb positive : xAV rP
+
+
+undrsamligar
+undrsamligar [undrsamligr] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+
+
+gullnar töflur
+gullnar [gullinn] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+töflur [tafla] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+
+
+í grasi finnaz ,
+í [í] ->  : xAP yD
+grasi [gras] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+finnaz [finna] -> verb finite present indicative third plural reflexive strong : xVB fF tPS mIN p3 nP vR iST
+
+
+þærs í árdaga
+þærs [sá] -> pronoun feminine plural nominative : xPD gF nP cN
+í [í] ->  : xAP yA
+árdaga [árdagr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+áttar höfðu .
+áttar [eiga] -> verb participle preterite feminine plural feminine indefinite preterito-present : xVB fP tPT gF nP cA sI iPP
+höfðu [hafa] -> verb finite preterite indicative third plural active weak : xVB fF tPT mIN p3 nP vA iWK
+
+
+Munu ósánir
+Munu [munu] -> verb finite present indicative third plural active preterito-present : xVB fF tPS mIN p3 nP vA iPP
+ósánir [ósáinn] -> adjective positive masculine plural nominative indefinite : xAJ rP gM nP cN sI
+
+
+akrar vaxa
+akrar [akr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+vaxa [vaxa] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+böls mun allz batna
+böls [bǫl] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+allz [allr] -> adjective positive neuter singular genitive indefinite : xAJ rP gN nS cG sI
+batna [batna] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+Baldr mun koma .
+Baldr [Baldr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+koma [koma] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+búa þeir Höðr ok Baldr
+búa [búa] -> verb infinite present active reduplicating : xVB fI tPS vA iRD
+þeir [sá] -> pronoun masculine plural nominative : xPD gM nP cN
+Höðr [Hǫðr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+ok [ok] -> conjunction or subjunction : xCU
+Baldr [Baldr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+Hrofts sigtóftir
+Hrofts [Hroftr] -> proper noun masculine singular genitive indefinite : xNP gM nS cG sI
+sigtóftir [sigtóft] -> common noun feminine plural feminine indefinite : xNC gF nP cA sI
+
+
+vel valtívar
+vel [vel] -> adverb positive : xAV rP
+valtívar [valtívar] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+
+
+vituð ér enn eða hvað
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvað [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Þá kná Hænir
+Þá [þá] -> adverb positive : xAV rP
+kná [knega] -> verb finite preterite indicative third singular active strong : xVB fF tPT mIN p3 nS vA iST
+Hænir [Hǿnir] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+
+
+hlautvið kjósa
+hlautvið [hlautviðr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+kjósa [kiósa] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+ok byrir byggja
+ok [ok] -> conjunction or subjunction : xCU
+byrir [burr] -> common noun masculine plural nominative indefinite : xNC gM nP cN sI
+byggja [byggia] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+bræðra tveggja .
+bræðra [bróðir] -> common noun masculine plural genitive indefinite : xNC gM nP cG sI
+tveggja [tveir] -> cardinal masculine plural genitive indefinite : xNA gM nP cG sI
+
+
+Vindheim víðan
+Vindheim [vindheimr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+víðan [víðr] -> adjective positive masculine singular feminine indefinite : xAJ rP gM nS cA sI
+
+
+vituð ér enn eða hvað
+vituð [vita] -> verb finite present indicative second plural active preterito-present : xVB fF tPS mIN p2 nP vA iPP
+ér [ér] -> pronoun second unspecified plural nominative : xPD p2 gU nP cN
+enn [enn] -> adverb positive : xAV rP
+eða [eða] -> conjunction or subjunction : xCU
+hvað [hvat] -> pronoun neuter feminine : xPD gN cA
+
+
+Sal sér hon standa
+Sal [salr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+sér [siá] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+hon [hon] -> pronoun neuter : xPD cN
+standa [standa] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+sólu fegra
+sólu [sól] -> common noun feminine singular dative indefinite : xNC gF nS cD sI
+fegra [fagr] -> adjective comparative masculine singular feminine definite : xAJ rC gM nS cA sD
+
+
+gulli þakðan
+gulli [gull] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+þakðan [þekia] -> verb participle preterite masculine singular feminine indefinite weak : xVB fP tPT gM nS cA sI iWK
+
+
+á Gimlé .
+á [á] ->  : xAP yD
+Gimlé [Gimlé] -> common noun neuter singular dative indefinite : xNC gN nS cD sI
+
+
+Þar skulu dyggvar
+Þar [þar] -> adverb positive : xAV rP
+skulu [skulu] -> verb finite present indicative third plural active preterito-present : xVB fF tPS mIN p3 nP vA iPP
+dyggvar [dyggr] -> adjective positive feminine plural nominative indefinite : xAJ rP gF nP cN sI
+
+
+dróttir byggja
+dróttir [drótt] -> common noun feminine plural nominative indefinite : xNC gF nP cN sI
+byggja [byggia] -> verb infinite present active weak : xVB fI tPS vA iWK
+
+
+ok um aldrdaga
+ok [ok] -> conjunction or subjunction : xCU
+um [um] ->  : xAP yA
+aldrdaga [aldrdagr] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+ynðis njóta .
+ynðis [ynði] -> common noun neuter singular genitive indefinite : xNC gN nS cG sI
+njóta [nióta] -> verb infinite present active strong : xVB fI tPS vA iST
+
+
+Þar kjömr inn dimmi
+Þar [þar] -> adverb positive : xAV rP
+kjömr [koma] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+inn [inn] -> article masculine singular nominative : xAT gM nS cN sI
+dimmi [dimmr] -> adjective positive masculine singular nominative definite : xAJ rP gM nS cN sD
+
+
+dreki fljúgandi
+dreki [dreki] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+fljúgandi [fliúga] -> verb participle present masculine singular nominative indefinite strong : xVB fP tPS gM nS cN sI iST
+
+
+naðr fránn neðan
+naðr [naðr] -> common noun masculine singular nominative indefinite : xNC gM nS cN sI
+fránn [fránn] -> adjective positive masculine singular nominative indefinite : xAJ rP gM nS cN sI
+neðan [neðan] -> adverb positive : xAV rP
+
+
+nepp frá Niðafjöllum .
+nepp [UNK] -> UNK : UNK
+frá [UNK] -> UNK : UNK
+Niðafjöllum [Niðafiǫll] -> proper noun neuter plural dative indefinite : xNP gN nP cD sI
+
+
+Berr sér í fjöðrum
+Berr [bera] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+sér [sik] -> pronoun dual : xPD cD
+í [í] ->  : xAP yD
+fjöðrum [fiǫðr] -> common noun feminine plural dative indefinite : xNC gF nP cD sI
+
+
+flýgr völl yfir
+flýgr [fliúga] -> verb finite present indicative third singular active strong : xVB fF tPS mIN p3 nS vA iST
+völl [vǫllr] -> common noun masculine singular feminine indefinite : xNC gM nS cA sI
+yfir [yfir] ->  : xAP yA
+
+
+Níðhöggr nái
+Níðhöggr [Níðhǫggr] -> proper noun masculine singular nominative indefinite : xNP gM nS cN sI
+nái [nár] -> common noun masculine plural feminine indefinite : xNC gM nP cA sI
+
+
+nú mun hon sökkvaz
+nú [nú] -> adverb positive : xAV rP
+mun [munu] -> verb finite present indicative third singular active preterito-present : xVB fF tPS mIN p3 nS vA iPP
+hon [hon] -> pronoun neuter : xPD cN
+sökkvaz [søkkva] -> verb infinite present reflexive strong : xVB fI tPS vR iST
+

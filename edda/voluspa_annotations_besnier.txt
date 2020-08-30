@@ -1,0 +1,3750 @@
+1
+1 [UNK] ->  : TA
+
+
+Hljóðs bið ek allar
+Hljóðs [HLJÓÐ] -> noun neuter singular genitive : NHEE
+bið [BIÐJA] -> verb indicative active first singular past : SFG1EÞ
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+allar [ALLR] -> adjective feminine plural accusative strong positive : LVFOSF
+
+
+helgar kindir ,
+helgar [HELGR] -> adjective feminine plural accusative strong positive : LVFOSF
+kindir [KIND] -> noun feminine plural accusative : NVFO
+, [,] -> punctuation : P
+
+
+meiri ok minni
+meiri [MJÖK] -> adjective feminine plural accusative weak comparative : LVFOVM
+ok [OK] -> conjunction : CC
+minni [LÍTILL] -> adjective feminine plural accusative weak comparative : LVFOVM
+
+
+mögu Heimdallar ;
+mögu [MÖGR] -> noun masculine plural accusative : NKFO
+Heimdallar [HEIMDALLR] -> noun masculine singular genitive person : NKEEM
+; [;] -> punctuation : P
+
+
+viltu at ek , Valföðr ,
+viltu [VILJA] -> verb indicative active second singular present : SFG2EN
+at [AT] -> conjunction : CN
+ek [EK] -> pronoun personal first singular  : FP1EM
+, [,] -> punctuation : P
+Valföðr [VALFÖÐR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+vel fyr telja
+vel [VEL] -> adverb no case  : AA
+fyr [FYR] -> conjunction : CN
+telja [TELJA] -> verb infinitive active infinitive active : SNG
+
+
+forn spjöll fira ,
+forn [FORN] -> adjective neuter plural accusative strong positive : LHFOSF
+spjöll [SPJALL] -> noun neuter plural accusative : NHFO
+fira [FIRAR] -> noun masculine plural genitive : NKFE
+, [,] -> punctuation : P
+
+
+þau er fremst of man .
+þau [ÞAU] ->  : FA
+er [ER] -> conjunction : CT
+fremst [FRAMR] -> adverb no case  : AA
+of [OF] -> adverb no case  : AA
+man [MUNA] -> verb indicative active first singular present : SFG1EN
+. [.] -> punctuation : P
+
+
+2
+2 [UNK] ->  : TA
+
+
+Ek man jötna
+Ek [EK] -> pronoun personal first singular nominative : FP1EN
+man [MUNA] -> verb indicative active first singular present : SFG1EN
+jötna [JÖTUNN] -> noun masculine plural genitive : NKFE
+
+
+ár of borna ,
+ár [ÁR] -> adverb no case  : AA
+of [OF] -> adverb no case  : AA
+borna [BERA] ->  : SÞ
+, [,] -> punctuation : P
+
+
+þá er forðum mik
+þá [ÞÁ] -> adverb no case  : AA
+er [ER] -> conjunction : CT
+forðum [FORÐUM] -> adverb no case  : AA
+mik [EK] -> pronoun personal first singular accusative : FP1EO
+
+
+fædda höfðu ;
+fædda [FŒÐA] -> verb past participle active feminine singular accusative : SÞGVEO
+höfðu [HAFA] -> verb indicative active third plural past : SFG3FÞ
+; [;] -> punctuation : P
+
+
+níu man ek heima ,
+níu [NÍU] -> numeral cardinal  plural  : TFXFX
+man [MUNA] -> verb indicative active  singular present : SFGSEN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+heima [HEIMR] -> noun masculine plural genitive : NKFE
+, [,] -> punctuation : P
+
+
+níu íviðjur ,
+níu [NÍU] -> numeral cardinal  plural  : TFXFX
+íviðjur [ÍVIÐI] -> noun neuter plural genitive : NHFE
+, [,] -> punctuation : P
+
+
+mjötvið mæran
+mjötvið [MJÖTVIÐR] -> noun masculine singular accusative : NKEO
+mæran [MÆR] -> adjective masculine singular accusative strong positive : LKEOSF
+
+
+fyr mold neðan .
+fyr [FYR] -> adverb accusative : AO
+mold [MOLD] -> noun feminine singular accusative : NVEO
+neðan [NEÐAN] -> adverb : A?
+. [.] -> punctuation : P
+
+
+3
+3 [UNK] ->  : TA
+
+
+Ár var alda ,
+Ár [ÁR] -> adverb no case  : AA
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+alda [ÖLD] -> noun feminine plural genitive : NVFE
+, [,] -> punctuation : P
+
+
+þat er ekki var ,
+þat [ÞAT] -> pronoun personal neuter singular nominative : FPHEN
+er [ER] -> conjunction : CT
+ekki [EKKI] -> adverb no case  : AA
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+vara sandr né sær
+vara [VARA] -> adverb no case  : AA
+sandr [SANDR] -> noun masculine singular nominative : NKEN
+né [NÉ] -> adverb no case  : AA
+sær [SÆR] -> noun masculine singular nominative : NKEN
+
+
+né svalar unnir ;
+né [NÉ] -> adverb no case  : AA
+svalar [SVALR] -> adjective feminine plural nominative strong positive : LVFNSF
+unnir [UNNR] -> noun feminine plural nominative : NVFN
+; [;] -> punctuation : P
+
+
+jörð fannsk æva
+jörð [JÖRÐ] -> noun feminine singular nominative : NVEN
+fannsk [FINNA] -> verb subjunctive middle third singular past : SVM3EÞ
+æva [ÆVA] -> adverb no case  : AA
+
+
+né upphiminn ,
+né [NÉ] -> adverb no case  : AA
+upphiminn [UPPHIMINN] -> noun masculine singular nominative : NKEN
+, [,] -> punctuation : P
+
+
+gap var ginnunga
+gap [GAP] -> noun neuter singular nominative : NHEN
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+ginnunga [GINNUNGR] -> noun masculine singular nominative : NKEN
+
+
+en gras hvergi .
+en [EN] -> conjunction : CC
+gras [GRAS] -> noun neuter singular nominative : NHEN
+hvergi [HVERGI] -> adverb no case  : AA
+. [,] -> punctuation : P
+
+
+4
+4 [UNK] ->  : TA
+
+
+Áðr Burs synir
+Áðr [ÁÐR] -> adverb no case  : AA
+Burs [BURR] -> noun masculine singular genitive person : NKEEM
+synir [SONR] -> noun masculine plural nominative : NKFN
+
+
+bjöðum of yppðu ,
+bjöðum [BJÖÐ] -> noun feminine plural dative : NVFÞ
+of [OF] -> adverb no case  : AA
+yppðu [YPPA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+þeir er Miðgarð
+þeir [ÞEIR] -> pronoun personal masculine plural nominative : FPKFN
+er [ER] -> conjunction : CT
+Miðgarð [MIÐGARÐR] -> noun masculine singular accusative place : NKEOÖ
+
+
+mæran skópu ;
+mæran [MÆRAN] ->  : LKEOS
+skópu [SKAPA] -> verb indicative active third plural past : SFG3FÞ
+; [;] -> punctuation : P
+
+
+sól skein sunnan
+sól [SÓL] -> noun neuter singular nominative : NHEN
+skein [SKÍNA] -> verb indicative active third singular past : SFG3EÞ
+sunnan [SUNNAN] -> adverb no case  : AA
+
+
+á salar steina ,
+á [Á] -> adverb accusative : AO
+salar [SALR] -> noun masculine singular genitive : NKEE
+steina [STEINN] -> noun masculine singular accusative : NKEO
+, [,] -> punctuation : P
+
+
+þá var grund gróin
+þá [ÞÁ] -> UNK : UNK
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+grund [GRUND] -> noun feminine singular nominative : NVEN
+gróin [GRÓA] ->  : SÞVEN
+
+
+grænum lauki .
+grænum [GRÆNN] ->  : LKEÞ
+lauki [LAUK] -> noun masculine singular dative : NKEÞ
+. [.] -> punctuation : P
+
+
+5
+5 [UNK] ->  : TA
+
+
+Sól varp sunnan ,
+Sól [SÓL] -> noun neuter singular nominative : NHEN
+varp [VERPA] ->  : VFG3EÞ
+sunnan [SUNNAN] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+sinni mána ,
+sinni [SINN] -> pronoun indefinite demonstrative masculine singular dative : FBKEÞ
+mána [MÁNI] -> noun masculine singular dative : NKEÞ
+, [,] -> punctuation : P
+
+
+hendi inni hægri
+hendi [HÖND] -> noun feminine singular dative : NVEÞ
+inni [INN] -> article masculine singular dative : GKEÞ
+hægri [HÆGR] ->  : LVEÞ
+
+
+um himinjöður ;
+um [UM] -> adverb dative : AÞ
+himinjöður [HIMINJÖÐURR] -> noun masculine singular dative : NKEÞ
+; [;] -> punctuation : P
+
+
+sól þat né vissi ,
+sól [SÓL] -> noun masculine singular nominative : NKEN
+þat [ÞAT] -> pronoun personal neuter singular nominative : FPHEN
+né [NÉ] -> adverb no case  : AA
+vissi [VITA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+hvar hon sali átti ,
+hvar [HVAR] -> adverb no case  : AA
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+sali [SALR] -> noun masculine singular dative : NKEÞ
+átti [EIGA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+máni þat né vissi ,
+máni [MÁNI] -> noun masculine singular nominative : NKEN
+þat [ÞAT] -> pronoun personal neuter singular nominative : FPHEN
+né [NÉ] -> adverb no case  : AA
+vissi [VITA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+hvat hann megins átti ,
+hvat [HVAT] -> pronoun interrogative neuter singular nominative : FSHEN
+hann [HANN] -> pronoun personal masculine singular nominative : FPKEN
+megins [MEGIN] -> noun neuter singular genitive : NHEE
+átti [EIGA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+stjörnur þat né vissu
+stjörnur [STJARNA] -> noun neuter plural nominative : NHFN
+þat [ÞAT] -> pronoun personal neuter singular nominative : FPHEN
+né [NÉ] -> adverb no case  : AA
+vissu [VITA] -> verb indicative active third plural past : SFG3FÞ
+
+
+hvar þær staði áttu .
+hvar [HVAR] -> adverb no case  : AA
+þær [ÞÆR] -> pronoun personal feminine plural nominative : FPVFN
+staði [STAÐR] -> noun masculine singular dative : NKEÞ
+áttu [EIGA] -> verb indicative active third plural past : SFG3FÞ
+. [.] -> punctuation : P
+
+
+6
+6 [UNK] -> UNK : UNK
+
+
+Þá gengu regin öll
+Þá [ÞÁ] -> adverb no case  : AA
+gengu [GANGA] -> verb indicative active third plural past : SFG3FÞ
+regin [REGIN] -> noun neuter  nominative : NHGN
+öll [ALLR] -> adjective neuter plural nominative strong positive : LHFNSF
+
+
+á rökstóla ,
+á [Á] -> adverb accusative : AO
+rökstóla [RØKSTÓLAR] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+ginnheilög goð ,
+ginnheilög [GINHEILAGR] -> adjective neuter plural nominative strong positive : LHFNSF
+goð [GOÐ] -> noun neuter plural nominative : NHFN
+, [,] -> punctuation : P
+
+
+ok um þat gættusk ;
+ok [OK] -> conjunction : CC
+um [UM] -> adverb accusative : AO
+þat [ÞAT] -> pronoun personal neuter singular accusative : FPHEO
+gættusk [GÆTA] -> verb indicative middle third singular past : SFM3EÞ
+; [;] -> punctuation : P
+
+
+nótt ok niðjum
+nótt [NÓTT] -> noun feminine singular nominative : NVEN
+ok [OK] -> conjunction : CC
+niðjum [NIÐR] -> noun masculine plural dative : NKFÞ
+
+
+nöfn of gáfu ,
+nöfn [NAFN] -> noun neuter plural nominative : NHFN
+of [OF] -> adverb no case  : AA
+gáfu [GEFA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+morgin hétu
+morgin [MORGINN] -> noun masculine singular accusative : NKEO
+hétu [HEITA] -> verb indicative active third plural past : SFG3FÞ
+
+
+ok miðjan dag ,
+ok [OK] -> conjunction : CC
+miðjan [MIÐR] -> adjective masculine singular accusative strong positive : LKEOSF
+dag [DAGR] -> noun masculine singular accusative : NKEO
+, [,] -> punctuation : P
+
+
+undorn ok aftan ,
+undorn [UNDORN] -> noun masculine singular accusative : NKEO
+ok [OK] -> conjunction : CC
+aftan [APTANN] -> noun masculine singular accusative : NKEO
+, [,] -> punctuation : P
+
+
+árum at telja .
+árum [ÁR] -> noun neuter plural dative : NHFÞ
+at [AT] -> conjunction : CN
+telja [TELJA] -> verb indicative active third plural present : SFG3FN
+. [.] -> punctuation : P
+
+
+7
+7 [UNK] ->  : TA
+
+
+Hittusk æsir
+Hittusk [HITTA] -> verb indicative middle third plural past : SFM3FÞ
+æsir [ÁSS] -> noun masculine plural nominative : NKFN
+
+
+á Iðavelli ,
+á [Á] -> adverb dative : AÞ
+Iðavelli [IÐAVÖLLR] -> noun masculine singular dative person : NKEÞM
+, [,] -> punctuation : P
+
+
+þeir er hörg ok hof
+þeir [ÞEIR] -> UNK : UNK
+er [ER] ->  : FT
+hörg [HÖRGR] -> noun masculine singular accusative : NKEO
+ok [OK] -> conjunction : CC
+hof [HOF] -> noun neuter singular accusative : NHEO
+
+
+há timbruðu ;
+há [HÁ] -> noun masculine singular nominative : NKEN
+timbruðu [TIMBRA] -> verb indicative active third plural past : SFG3FÞ
+; [;] -> punctuation : P
+
+
+afla lögðu ,
+afla [AFL] -> noun masculine singular accusative : NKEO
+lögðu [LAGA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+auð smíðuðu ,
+auð [AUÐR] -> noun masculine singular  : NKEA
+smíðuðu [SMÍÐA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+tangir skópu
+tangir [TANGI] -> noun masculine plural accusative : NKFO
+skópu [SKAPA] -> verb indicative active third plural past : SFG3FÞ
+
+
+ok tól gerðu .
+ok [OK] -> conjunction : CC
+tól [TÓL] -> noun masculine plural accusative : NKFO
+gerðu [GØRA] -> verb indicative active third plural past : SFG3FÞ
+. [.] -> punctuation : P
+
+
+8
+8 [UNK] ->  : TA
+
+
+Tefldu í túni ,
+Tefldu [TEFLA] -> verb indicative active third plural past : SFG3FÞ
+í [Í] -> adverb dative : AÞ
+túni [TÚN] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+
+
+teitir váru ,
+teitir [TEITI] -> adjective masculine plural nominative strong positive : LKFNSF
+váru [VERA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+var þeim vettergis
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+þeim [ÞEIR] ->  : FPKFAÞ
+vettergis [VÆTTKI] -> noun neuter singular genitive : NHEE
+
+
+vant ór gulli ,
+vant [VINNA] -> adjective neuter singular nominative strong positive : LHENSF
+ór [ÓR] -> adverb dative : AÞ
+gulli [GULLR] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+
+
+uns þrjár kvámu
+uns [UNS] -> conjunction : CC
+þrjár [ÞRÍR] -> numeral  feminine plural nominative : TAVFN
+kvámu [KOMA] -> verb indicative active third plural past : SFG3FÞ
+
+
+þursa meyjar
+þursa [ÞUSS] -> noun feminine plural nominative : NVFN
+meyjar [MEYJA] -> noun feminine plural nominative : NVFN
+
+
+ámáttkar mjök
+ámáttkar [ÁMÁTTIGR] -> adjective neuter plural nominative strong positive : LHFNSF
+mjök [MJÖK] -> adverb no case  : AA
+
+
+ór Jötunheimum .
+ór [ÓR] -> adverb dative : AÞ
+Jötunheimum [JÖTUNHEIMR] -> noun masculine plural dative : NKFÞ
+. [.] -> punctuation : P
+
+
+9
+9 [UNK] -> UNK : UNK
+
+
+Þá gengu regin öll
+Þá [ÞÁ] -> adverb no case  : AA
+gengu [GANGA] -> verb indicative active third plural past : SFG3FÞ
+regin [REGIN] -> noun neuter plural nominative : NHFN
+öll [ALLR] -> adjective neuter plural nominative strong positive : LHFNSF
+
+
+á rökstóla ,
+á [Á] -> adverb accusative : AO
+rökstóla [RØKSTÓLAR] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+ginnheilög goð ,
+ginnheilög [GINHEILAGR] -> adjective neuter plural nominative strong positive : LHFNSF
+goð [GOÐ] -> noun neuter plural nominative : NHFN
+, [,] -> punctuation : P
+
+
+ok um þat gættusk ;
+ok [OK] -> conjunction : CC
+um [UM] -> adverb accusative : AO
+þat [ÞAT] -> pronoun personal neuter singular accusative : FPHEO
+gættusk [GÆTA] -> verb indicative  third singular past : SFN3EÞ
+; [;] -> punctuation : P
+
+
+hverir skyldi dverga
+hverir [HVERR] -> pronoun interrogative masculine plural nominative : FSKFN
+skyldi [SKULU] -> verb subjunctive active third plural past : SVG3FÞ
+dverga [DVERGR] -> noun masculine plural accusative : NKFO
+
+
+dróttir skepja
+dróttir [DRÓTT] -> noun feminine plural accusative : NVFO
+skepja [SKEPJA] -> verb infinitive active infinitive active : SNG
+
+
+ór Brimis blóði
+ór [ÓR] -> adverb dative : AÞ
+Brimis [BRIM] -> noun masculine singular genitive person : NKEEM
+blóði [BLÓÐ] -> noun neuter singular dative : NHEÞ
+
+
+ok ór Bláins leggjum .
+ok [OK] -> conjunction : CC
+ór [ÓR] -> adverb dative : AÞ
+Bláins [BLÁINN] -> noun masculine singular genitive person : NKEEM
+leggjum [LEGGR] -> noun masculine plural dative : NKFÞ
+. [.] -> punctuation : P
+
+
+10
+10 [UNK] -> UNK : UNK
+
+
+Þar var Móðsognir
+Þar [ÞAR] -> adverb no case  : AA
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+Móðsognir [MÓÐSOGNIR] -> noun masculine singular nominative person : NKENM
+
+
+mæztr of orðinn
+mæztr [MÆTTR] -> adjective masculine singular nominative strong superlative : LKENSE
+of [OF] -> adverb no case  : AA
+orðinn [VERÐA] -> verb past participle active masculine singular nominative : SÞGKEN
+
+
+dverga allra ,
+dverga [DVERGR] -> noun masculine plural genitive : NKFE
+allra [ALLR] -> adjective masculine plural genitive strong positive : LKFESF
+, [,] -> punctuation : P
+
+
+en Durinn annarr ;
+en [EN] -> conjunction : CC
+Durinn [DURINN] -> noun masculine singular nominative person : NKENM
+annarr [ANNARR] -> adjective masculine singular nominative strong positive : LKENSF
+; [;] -> punctuation : P
+
+
+þeir mannlíkun
+þeir [ÞEIR] -> pronoun personal masculine plural nominative : FPKFN
+mannlíkun [MANNLÍKAN] -> noun feminine singular accusative : NVEO
+
+
+mörg of gerðu
+mörg [MÖGR] ->  : LVENS
+of [OF] -> adverb no case  : AA
+gerðu [GØRA] -> verb indicative active third plural past : SFG3FÞ
+
+
+dvergar í jörðu ,
+dvergar [DVERGR] -> noun masculine plural nominative : NKFN
+í [Í] -> adverb dative : AÞ
+jörðu [JÖRÐ] -> noun feminine singular dative : NVEÞ
+, [,] -> punctuation : P
+
+
+sem Durinn sagði .
+sem [SEM] -> conjunction : CT
+Durinn [DURINN] -> noun masculine singular nominative person : NKENM
+sagði [SEGJA] -> verb indicative active third singular past : SFG3EÞ
+. [.] -> punctuation : P
+
+
+11
+11 [UNK] -> UNK : UNK
+
+
+Nýi , Niði ,
+Nýi [NÝR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Niði [NIÐR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Norðri , Suðri ,
+Norðri [NORÐR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Suðri [SUÐR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Austri , Vestri ,
+Austri [AUSTR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Vestri [VESTR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Alþjófr , Dvalinn ,
+Alþjófr [ALÞJÓFR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Dvalinn [DVALINN] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Nár ok Náinn
+Nár [NÁR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Náinn [NÁINN] -> noun masculine singular nominative person : NKENM
+
+
+Nípingr , Dáinn
+Nípingr [NÍPINGR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Dáinn [DÁINN] -> noun masculine singular nominative person : NKENM
+
+
+Bívurr , Bávurr ,
+Bívurr [BÍVURR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Bávurr [BÁVURR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Bömburr , Nóri ,
+Bömburr [BÖMBURR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Nóri [NÓRI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Ánn ok Ánarr ,
+Ánn [ÁNN] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Ánarr [ÁNARR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Óinn , Mjöðvitnir .
+Óinn [ÓINN] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Mjöðvitnir [MJÖÐVITNIR] -> noun masculine singular nominative person : NKENM
+. [.] -> punctuation : P
+
+
+12
+12 [UNK] -> UNK : UNK
+
+
+Veggr ok Gandalfr ,
+Veggr [VEGGR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Gandalfr [GANDALFR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Vindalfr , Þorinn ,
+Vindalfr [VINDALFR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Þorinn [ÞORINN] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Þrár ok Þráinn ,
+Þrár [ÞRÁR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Þráinn [ÞRÁINN] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Þekkr , Litr ok Vitr ,
+Þekkr [ÞEKKR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Litr [LITR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Vitr [VITR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Nýr ok Nýráðr ,
+Nýr [NÝR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Nýráðr [NÝRÁÐR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+nú hefi ek dverga ,
+nú [NÚ] -> adverb no case  : AA
+hefi [HAFA] -> verb subjunctive active first singular present : SVG1EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+dverga [DVERGR] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+Reginn ok Ráðsviðr ,
+Reginn [REGINN] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Ráðsviðr [RÁÐSVIÐR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+rétt of talða .
+rétt [RÉTTR] ->  : LHEN
+of [OF] -> adverb no case  : AA
+talða [TELJA] -> verb past participle active masculine plural accusative : SÞGKFO
+. [.] -> punctuation : P
+
+
+13
+13 [UNK] -> UNK : UNK
+
+
+Fíli , Kíli ,
+Fíli [FÍLI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Kíli [KÍLI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Fundinn , Náli ,
+Fundinn [FUNDINN] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Náli [NÁLI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Hefti , Víli ,
+Hefti [HEFTI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Víli [VÍLI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Hannar , Svíurr ,
+Hannar [HANNAR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Svíurr [SVÍURR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Billingr , Brúni ,
+Billingr [BILLINGR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Brúni [BRÚNI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Bíldr ok Buri ,
+Bíldr [BÍLDR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Buri [BURI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Frár , Hornbori ,
+Frár [FRÁR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Hornbori [HORNBORI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Frægr ok Lóni ,
+Frægr [FRÆGR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Lóni [LÓNI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Aurvangr , Jari ,
+Aurvangr [AURVANGR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Jari [JARI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Eikinskjaldi .
+Eikinskjaldi [EIKINSKJALDI] -> noun masculine singular nominative person : NKENM
+. [.] -> punctuation : P
+
+
+14
+14 [UNK] -> UNK : UNK
+
+
+Mál er dverga
+Mál [MÁL] -> noun neuter singular nominative : NHEN
+er [VERA] -> conjunction : CT
+dverga [DVERGR] -> noun masculine plural accusative : NKFO
+
+
+í Dvalins liði
+í [Í] -> adverb dative : AÞ
+Dvalins [DVALINN] -> noun masculine singular genitive person : NKEEM
+liði [LIÐ] -> noun neuter singular dative : NHEÞ
+
+
+ljóna kindum
+ljóna [LJÓNAR] -> noun masculine plural genitive : NKFE
+kindum [KINDR] -> noun feminine plural dative : NVFÞ
+
+
+til Lofars telja ,
+til [TIL] -> adverb genitive : AE
+Lofars [LOFARR] -> noun masculine singular genitive person : NKEEM
+telja [TELJA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+þeir er sóttu
+þeir [ÞEIR] -> pronoun personal masculine plural nominative : FPKFN
+er [ER] -> conjunction : CT
+sóttu [SÖKJA] -> verb indicative active third plural past : SFG3FÞ
+
+
+frá salar steini
+frá [FRÁ] -> adverb dative : AÞ
+salar [SALR] -> noun masculine singular genitive : NKEE
+steini [STEINN] -> noun masculine singular dative : NKEÞ
+
+
+Aurvanga sjöt
+Aurvanga [AURVANGA] -> noun  singular accusative : NXEO
+sjöt [SJÖT] -> noun neuter plural accusative : NHFO
+
+
+til Jöruvalla .
+til [TIL] -> adverb accusative : AO
+Jöruvalla [JÖRUVALLA] -> noun  singular accusative : NXEO
+. [.] -> punctuation : P
+
+
+15
+15 [UNK] -> UNK : UNK
+
+
+Þar var Draupnir
+Þar [ÞAR] -> adverb no case  : AA
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+Draupnir [DRAUPNIR] -> noun masculine singular nominative person : NKENM
+
+
+ok Dolgþrasir ,
+ok [OK] -> conjunction : CC
+Dolgþrasir [DOLGÞRASIR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Hár , Haugspori ,
+Hár [HÁR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Haugspori [HAUGSPORI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Hlévangr , Glóinn ,
+Hlévangr [HLÉVANGR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Glóinn [GLÓINN] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+DóriDóri , Óri
+DóriDóri [DÓRIDÓRI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Óri [ÓRI] -> noun masculine singular nominative person : NKENM
+
+
+Dúfr , Andvari
+Dúfr [DÚFR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Andvari [ANDVARI] -> noun masculine singular nominative person : NKENM
+
+
+Skirfir , Virfir ,
+Skirfir [SKIRFIR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Virfir [VIRFIR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Skáfiðr , Ái .
+Skáfiðr [SKÁFIÐR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+Ái [ÁI] -> noun masculine singular nominative person : NKENM
+. [.] -> punctuation : P
+
+
+16
+16 [UNK] -> UNK : UNK
+
+
+Alfr ok Yngvi ,
+Alfr [ALFR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Yngvi [YNGVI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Eikinskjaldi ,
+Eikinskjaldi [EIKINSKJALDI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Fjalarr ok Frosti ,
+Fjalarr [FJALARR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Frosti [FROSTI] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Finnr ok Ginnarr ;
+Finnr [FINNR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Ginnarr [GINNARR] -> noun masculine singular nominative person : NKENM
+; [;] -> punctuation : P
+
+
+þat mun æ uppi
+þat [ÞAT] -> pronoun personal neuter singular nominative : FPHEN
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+æ [Æ] -> adverb no case  : AA
+uppi [UPPI] -> adverb no case  : AA
+
+
+meðan öld lifir ,
+meðan [MEÐAN] -> adverb no case  : AA
+öld [ÖLD] -> noun feminine singular nominative : NVEN
+lifir [LIFA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+langniðja tal
+langniðja [LANGNIÐJAR] -> noun masculine plural genitive : NKFE
+tal [TAL] -> noun neuter singular nominative : NHEN
+
+
+Lofars hafat .
+Lofars [LOFAR] -> noun masculine singular genitive person : NKEEM
+hafat [HAFA] -> unanalysed : X
+. [.] -> punctuation : P
+
+
+17
+17 [UNK] -> UNK : UNK
+
+
+Unz þrír kvámu
+Unz [UND+ES] -> conjunction : CC
+þrír [ÞRÍR] -> numeral  masculine plural nominative : TAKFN
+kvámu [KOMA] -> verb indicative active third plural past : SFG3FÞ
+
+
+ór því liði
+ór [ÓR] -> adverb dative : AÞ
+því [ÞAÐ] -> pronoun personal neuter singular dative : FPHEÞ
+liði [LIÐ] -> noun neuter singular dative : NHEÞ
+
+
+öflgir ok ástkir
+öflgir [ÖFLUGR] -> adjective masculine plural nominative strong positive : LKFNSF
+ok [OK] -> conjunction : CC
+ástkir [ÁSTIGR] -> adjective masculine plural nominative strong positive : LKFNSF
+
+
+æsir at húsi ,
+æsir [ÁSS] -> noun masculine plural nominative : NKFN
+at [AT] -> adverb dative : AÞ
+húsi [HÚS] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+
+
+fundu á landi
+fundu [FINNA] -> verb indicative active third plural past : SFG3FÞ
+á [Á] -> adverb dative : AÞ
+landi [LAND] -> noun neuter singular dative : NHEÞ
+
+
+lítt megandi
+lítt [LÍTT] -> adverb no case  : AA
+megandi [MEGA] ->  : SEG
+
+
+Ask ok Emblu
+Ask [ASK] -> noun masculine singular accusative person : NKEOM
+ok [OK] -> conjunction : CC
+Emblu [EMBLA] -> noun masculine singular accusative person : NKEOM
+
+
+örlöglausa .
+örlöglausa [ÖRLÖGLAUSS] -> adjective neuter plural accusative strong positive : LHFOSF
+. [.] -> punctuation : P
+
+
+18
+18 [UNK] -> UNK : UNK
+
+
+Önd þau né áttu ,
+Önd [ÖND] -> noun feminine singular nominative : NVEN
+þau [ÞEIR] -> pronoun personal neuter plural nominative : FPHFN
+né [NÉ] -> conjunction : CC
+áttu [EIGA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+óð þau né höfðu ,
+óð [ÓÐR] -> noun masculine singular accusative : NKEO
+þau [ÞEIR] -> pronoun personal neuter plural nominative : FPHFN
+né [NÉ] -> conjunction : CC
+höfðu [HAFA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+lá né læti
+lá [LÁ] -> noun feminine singular accusative : NVEO
+né [NÉ] -> conjunction : CC
+læti [LÆTI] -> noun neuter plural accusative : NHFO
+
+
+né litu góða ;
+né [NÉ] -> conjunction : CC
+litu [LITR] -> noun masculine plural accusative : NKFO
+góða [GÓÐR] -> adjective masculine plural accusative strong positive : LKFOSF
+; [;] -> punctuation : P
+
+
+önd gaf Óðinn ,
+önd [ÖND] -> noun feminine singular accusative : NVEO
+gaf [GEFA] -> verb indicative active third singular past : SFG3EÞ
+Óðinn [ÓÐINN] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+óð gaf Hænir ,
+óð [ÓÐR] -> noun masculine singular accusative : NKEO
+gaf [GEFA] -> verb indicative active third singular past : SFG3EÞ
+Hænir [HÆNIR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+lá gaf Lóðurr
+lá [LÁ] -> noun feminine singular accusative : NVEO
+gaf [GEFA] -> verb indicative active third singular past : SFG3EÞ
+Lóðurr [LÓÐURR] -> noun masculine singular nominative person : NKENM
+
+
+ok litu góða .
+ok [OK] -> conjunction : CC
+litu [LITR] -> noun masculine plural accusative : NKFO
+góða [GÓÐ] -> adjective masculine plural accusative strong positive : LKFOSF
+. [;] -> punctuation : P
+
+
+19
+19 [UNK] -> UNK : UNK
+
+
+Ask veit ek standa ,
+Ask [ASKR] -> noun masculine singular accusative : NKEO
+veit [VITA] -> verb indicative active third singular past : SFG3EÞ
+ek [EK] ->  : FP1E
+standa [STANDA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+heitir Yggdrasill ,
+heitir [HEITA] -> verb indicative active third singular present : SFG3EN
+Yggdrasill [YGGDRASILL] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+hár baðmr , ausinn
+hár [HÁR] -> adjective masculine singular nominative strong positive : LKENSF
+baðmr [BAÐMR] -> noun masculine singular nominative : NKEN
+, [,] -> punctuation : P
+ausinn [AUSINN] ->  : SÞKEN
+
+
+hvíta auri ;
+hvíta [HVÍTR] -> adjective masculine singular dative weak positive : LKEÞVF
+auri [AURR] -> noun masculine singular dative : NKEÞ
+; [;] -> punctuation : P
+
+
+þaðan koma döggvar ,
+þaðan [ÞAÐAN] -> adverb no case  : AA
+koma [KOMA] -> verb indicative active third plural present : SFG3FN
+döggvar [DÖGG] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+þærs í dala falla ,
+þærs [ÞÆR+ES] -> pronoun personal feminine plural nominative : FPVFN
+í [Í] -> adverb accusative : AO
+dala [DALR] -> noun masculine plural accusative : NKFO
+falla [FALLA] -> verb indicative active third plural present : SFG3FN
+, [,] -> punctuation : P
+
+
+stendr æ yfir grænn
+stendr [STANDA] -> verb indicative active third singular present : SFG3EN
+æ [Æ] -> adverb no case  : AA
+yfir [YFIR] -> adverb dative : AÞ
+grænn [GRÆNN] -> adjective masculine singular nominative strong positive : LKENSF
+
+
+Urðarbrunni .
+Urðarbrunni [URÐARBRUNNR] -> noun masculine singular dative person : NKEÞM
+. [.] -> punctuation : P
+
+
+20
+20 [UNK] -> UNK : UNK
+
+
+Þaðan koma meyjar
+Þaðan [ÞAÐAN] -> adverb no case  : AA
+koma [KOMA] -> verb indicative active third plural present : SFG3FN
+meyjar [MEYJA] -> noun feminine plural nominative : NVFN
+
+
+margs vitandi
+margs [MARGR] ->  : LKKEESF
+vitandi [VITA] ->  : SFG
+
+
+þrjár ór þeim sæ ,
+þrjár [ÞRÍR] -> numeral  feminine plural nominative : TAVFN
+ór [ÓR] -> adverb dative : AÞ
+þeim [ÞEIR] -> pronoun personal feminine plural dative : FPVFÞ
+sæ [SÆR] -> noun masculine singular dative : NKEÞ
+, [,] -> punctuation : P
+
+
+er und þolli stendr ;
+er [ER] -> conjunction : CT
+und [UND] -> adverb dative : AÞ
+þolli [ÞOLLR] -> noun masculine singular dative : NKEÞ
+stendr [STANDA] -> verb indicative active third singular present : SFG3EN
+; [;] -> punctuation : P
+
+
+Urð hétu eina ,
+Urð [URÐR] -> noun feminine singular accusative person : NVEOM
+hétu [HEITA] -> pronoun  third singular dative : FG3EÞ
+eina [EINN] -> numeral  feminine singular nominative : TAVEN
+, [,] -> punctuation : P
+
+
+aðra Verðandi ,
+aðra [ANNARR] ->  : FOVO
+Verðandi [VERÐANDI] -> noun feminine singular accusative person : NVEOM
+, [,] -> punctuation : P
+
+
+- skáru á skíði , -
+- [-] -> punctuation : P
+skáru [SKERA] -> verb indicative active third plural past : SFG3FÞ
+á [Á] -> adverb dative : AÞ
+skíði [SKÍÐ] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+- [-] -> punctuation : P
+
+
+Skuld ina þriðju ;
+Skuld [SKULD] -> noun feminine singular accusative person : NVEOM
+ina [INN] -> UNK : UNK
+þriðju [ÞRÍR] -> UNK : UNK
+; [;] -> punctuation : P
+
+
+þær lög lögðu ,
+þær [ÞÆR] -> pronoun personal feminine plural nominative : FPVFN
+lög [LÖG] -> noun neuter plural accusative : NHFO
+lögðu [LEGGJA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+þær líf kuru
+þær [ÞÆR] -> pronoun personal feminine plural nominative : FPVFN
+líf [LÍF] -> UNK : UNK
+kuru [KJÓSA] -> verb indicative active third plural past : SFG3FÞ
+
+
+alda börnum ,
+alda [ÖLD] -> noun masculine plural genitive : NKFE
+börnum [BARN] -> noun neuter plural dative : NHFÞ
+, [,] -> punctuation : P
+
+
+örlög seggja .
+örlög [ÖRLÖG] -> noun neuter plural accusative : NHFO
+seggja [SEGGJA] -> verb infinitive active infinitive active : SNG
+. [.] -> punctuation : P
+
+
+21
+21 [UNK] -> UNK : UNK
+
+
+Þat man hon folkvíg
+Þat [ÞAR] -> adverb no case  : AA
+man [MUNU] -> verb indicative active third singular present : SFG3EN
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+folkvíg [FOLKVÍGR] -> noun neuter singular accusative : NHEO
+
+
+fyrst í heimi ,
+fyrst [FYRST] ->  : T
+í [Í] -> adverb dative : AÞ
+heimi [HEIMR] -> noun masculine singular dative : NKEÞ
+, [,] -> punctuation : P
+
+
+er Gullveigu
+er [ER] -> conjunction : CC
+Gullveigu [GULLVEIG] -> UNK : UNK
+
+
+geirum studdu
+geirum [GEIRR] -> noun masculine singular dative : NKEÞ
+studdu [STYÐJA] -> verb indicative active third plural past : SFG3FÞ
+
+
+ok í höll Hárs
+ok [OK] -> conjunction : CC
+í [Í] -> adverb dative : AÞ
+höll [HÖLL] -> noun feminine singular dative : NVEÞ
+Hárs [HÁR] -> noun masculine singular genitive person : NKEEM
+
+
+hana brenndu ,
+hana [HON] -> pronoun personal feminine singular accusative : FPVEO
+brenndu [BRENNA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+þrisvar brenndu ,
+þrisvar [ÞRISVAR] -> adverb no case  : AA
+brenndu [BRENNA] -> verb indicative active third plural past : SFG3FÞ
+, [,] -> punctuation : P
+
+
+þrisvar borna ,
+þrisvar [ÞRISVAR] -> adverb no case  : AA
+borna [BERA] -> verb past participle  feminine singular nominative : SÞFVEN
+, [,] -> punctuation : P
+
+
+oft , ósjaldan ,
+oft [OPT] -> adverb no case  : AA
+, [,] -> punctuation : P
+ósjaldan [ÓSJALDAN] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+þó hon enn lifir .
+þó [ÞÓ] -> adverb no case  : AA
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+enn [ENN] -> UNK : UNK
+lifir [LIFA] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
+
+22
+22 [UNK] -> UNK : UNK
+
+
+Heiði hana hétu
+Heiði [HEIÐUR] -> noun feminine singular accusative person : NVEOM
+hana [HON] -> pronoun personal feminine singular accusative : FPVEO
+hétu [HEITA] -> verb indicative active third plural past : SFG3FÞ
+
+
+hvars til húsa kom ,
+hvars [HVAR+ES] -> adverb no case  : AA
+til [TIL] -> adverb genitive : AE
+húsa [HÚS] -> noun neuter plural genitive : NHFE
+kom [KOMA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+völu velspáa ,
+völu [VÖLVA] -> noun feminine singular genitive : NVEE
+velspáa [VELSPÁ] -> noun feminine singular accusative : NVEO
+, [,] -> punctuation : P
+
+
+vitti hon ganda ;
+vitti [VITA] -> verb subjunctive active third singular present : SVG3EN
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+ganda [GANDR] -> noun masculine plural accusative : NKFO
+; [;] -> punctuation : P
+
+
+seið hon , hvars hon kunni ,
+seið [SEIÐR] -> noun masculine singular accusative : NKEO
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+, [,] -> punctuation : P
+hvars [HVAR+ES] -> UNK : UNK
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+kunni [KUNNA] -> verb subjunctive active third singular present : SVG3EN
+, [,] -> punctuation : P
+
+
+seið hon hug leikinn ,
+seið [SEIÐR] -> noun masculine singular accusative : NKEO
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+hug [HUGR] -> noun masculine singular accusative : NKEO
+leikinn [LEIKA] ->  : SÞKEO
+, [,] -> punctuation : P
+
+
+æ var hon angan
+æ [Æ] -> adverb no case  : AA
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+angan [ANGAN] -> noun feminine singular nominative : NVEN
+
+
+illrar brúðar .
+illrar [ILLR] -> adjective feminine plural genitive strong positive : LVFESF
+brúðar [BRÚÐR] -> noun feminine singular genitive : NVEE
+. [.] -> punctuation : P
+
+
+23
+23 [UNK] -> UNK : UNK
+
+
+Þá gengu regin öll
+Þá [ÞÁ] -> adverb no case  : AA
+gengu [GANGA] -> verb indicative active third plural past : SFG3FÞ
+regin [REGIN] -> noun neuter plural nominative : NHFN
+öll [ALLR] -> adjective neuter plural nominative strong positive : LHFNSF
+
+
+á rökstóla ,
+á [Á] -> adverb accusative : AO
+rökstóla [RØKSTÓLAR] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+ginnheilög goð ,
+ginnheilög [GINHEILAGR] -> adjective neuter plural nominative strong positive : LHFNSF
+goð [GOÐ] -> noun neuter plural nominative : NHFN
+, [,] -> punctuation : P
+
+
+ok um þat gættusk ;
+ok [OK] -> conjunction : CC
+um [UM] -> adverb accusative : AO
+þat [ÞAT] -> pronoun personal neuter singular accusative : FPHEO
+gættusk [GÆTA] -> verb indicative  third singular past : SFN3EÞ
+; [;] -> punctuation : P
+
+
+hvárt skyldu æsir
+hvárt [HVÁRT] -> pronoun interrogative neuter singular nominative : FSHEN
+skyldu [SKYLU] -> verb indicative active third plural past : SFG3FÞ
+æsir [ÁSS] -> noun masculine plural nominative : NKFN
+
+
+afráð gjalda
+afráð [AFRÁÐ] -> noun neuter singular accusative : NHEO
+gjalda [GJALDA] -> verb infinitive active infinitive active : SNG
+
+
+eða skyldu goðin öll
+eða [EÐA] -> conjunction : CC
+skyldu [SKYLU] -> verb indicative active third plural past : SFG3FÞ
+goðin [GOÐ] -> noun neuter plural nominative  : NHFNG
+öll [ALLR] -> adjective neuter plural nominative strong positive : LHFNSF
+
+
+gildi eiga .
+gildi [GILDI] -> noun neuter singular accusative : NHEO
+eiga [EIGA] -> verb infinitive active infinitive active : SNG
+. [.] -> punctuation : P
+
+
+24
+24 [UNK] -> UNK : UNK
+
+
+Fleygði Óðinn
+Fleygði [FLEYGJA] -> verb indicative   singular past : SF3GEÞ
+Óðinn [ÓÐINN] -> noun masculine singular nominative person : NKENM
+
+
+ok í folk of skaut ,
+ok [OK] -> conjunction : CC
+í [Í] -> adverb accusative : AO
+folk [FOLK] -> noun neuter singular accusative : NHEO
+of [OF] -> adverb no case  : AA
+skaut [SKJÓTA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+þat var enn folkvíg
+þat [ÞAT] -> pronoun personal neuter singular nominative : FPHEN
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+enn [EN] -> adverb no case  : AA
+folkvíg [FOLKVÍGR] -> noun neuter singular nominative : NHEN
+
+
+fyrst í heimi ;
+fyrst [FYRST] -> adverb no case  : AA
+í [Í] -> adverb dative : AÞ
+heimi [HEIMR] -> noun masculine singular dative : NKEÞ
+; [;] -> punctuation : P
+
+
+brotinn var borðveggr
+brotinn [BRJÓTA] ->  : SÞKEN
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+borðveggr [BORÐVEGGR] -> noun masculine singular nominative : NKEN
+
+
+borgar ása ,
+borgar [BORG] -> noun feminine singular genitive : NVEE
+ása [ÁSS] -> noun masculine plural genitive : NKFE
+, [,] -> punctuation : P
+
+
+knáttu vanir vígspá
+knáttu [KNÁ] -> verb indicative active third plural past : SFG3FÞ
+vanir [VANIR] -> noun masculine plural nominative : NKFN
+vígspá [VÍGSPÁ] -> noun feminine singular accusative : NVEO
+
+
+völlu sporna .
+völlu [VÖLLR] -> noun masculine plural accusative : NKFO
+sporna [SPORNA] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
+
+25
+25 [UNK] -> UNK : UNK
+
+
+Þá gengu regin öll
+Þá [ÞÁ] -> adverb no case  : AA
+gengu [GANGA] -> verb indicative active third plural past : SFG3FÞ
+regin [REGIN] -> noun neuter plural nominative : NHFN
+öll [ALLR] -> adjective neuter plural nominative strong positive : LHFNSF
+
+
+á rökstóla ,
+á [Á] -> adverb accusative : AO
+rökstóla [RØKSTÓLAR] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+ginnheilög goð ,
+ginnheilög [GINHEILAGR] -> adjective neuter plural nominative strong positive : LHFNSF
+goð [GOÐ] -> noun neuter plural nominative : NHFN
+, [,] -> punctuation : P
+
+
+ok um þat gættusk ;
+ok [OK] -> conjunction : CC
+um [UM] -> adverb accusative : AO
+þat [ÞAT] -> pronoun personal neuter singular accusative : FPHEO
+gættusk [GÆTA] -> verb indicative  third singular past : SFN3EÞ
+; [;] -> punctuation : P
+
+
+hverjir hefði loft allt
+hverjir [HVERR] -> pronoun interrogative masculine plural nominative : FSKFN
+hefði [HAFA] -> verb indicative active third singular past : SFG3EÞ
+loft [LOFA] ->  : SÞHEN
+allt [ALLR] ->  : LHE
+
+
+lævi blandit
+lævi [LÆ] -> noun neuter singular dative : NHEÞ
+blandit [BLANDA] ->  : SÞHEN
+
+
+eða ætt jötuns
+eða [EÐA] -> conjunction : CC
+ætt [ÆTT] -> noun feminine singular nominative : NVEN
+jötuns [JÖTUNN] -> noun masculine singular genitive : NKEE
+
+
+Óðs mey gefna .
+Óðs [ÓÐR] -> noun masculine singular genitive person : NKEEM
+mey [MÆR] -> noun feminine singular accusative : NVEO
+gefna [GEFA] ->  : SÞVEO
+. [.] -> punctuation : P
+
+
+26
+26 [UNK] -> UNK : UNK
+
+
+Þórr einn þar vá
+Þórr [ÞÓRR] -> noun masculine singular nominative person : NKENM
+einn [EINN] ->  : TFEN
+þar [ÞAR] -> adverb no case  : AA
+vá [VEGA] -> verb indicative active third singular past : SFG3EÞ
+
+
+þrunginn móði ,
+þrunginn [ÞRYNGVA] ->  : SÞKEN
+móði [MÓÐR] -> adjective masculine singular dative strong positive : LKEÞSF
+, [,] -> punctuation : P
+
+
+- hann sjaldan sitr -
+- [-] -> punctuation : P
+hann [HANN] -> pronoun personal masculine singular nominative : FPKEN
+sjaldan [SJALDAN] -> adverb no case  : AA
+sitr [SITJA] -> verb indicative active third singular present : SFG3EN
+- [-] -> punctuation : P
+
+
+er hann slíkt of fregn - :
+er [ER] -> conjunction : CT
+hann [HANN] -> pronoun personal masculine singular nominative : FPKEN
+slíkt [SLÍKT] -> adverb no case  : AA
+of [OF] -> adverb no case  : AA
+fregn [FREGN] -> noun masculine singular nominative : NKEN
+- [-] -> punctuation : P
+: [:] -> punctuation : P
+
+
+á gengusk eiðar ,
+á [Á] -> adverb accusative : AO
+gengusk [GANGA] -> verb indicative  third singular past : SFN3EÞ
+eiðar [EIÐR] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+orð ok særi ,
+orð [ORÐ] -> noun neuter plural accusative : NHFO
+ok [OK] -> conjunction : CC
+særi [SŒRI] -> noun neuter plural accusative : NHFO
+, [,] -> punctuation : P
+
+
+mál öll meginlig ,
+mál [MÁL] -> noun neuter singular accusative : NHEO
+öll [ALLR] -> adjective neuter plural nominative strong positive : LHFNSF
+meginlig [MEGINLIGR] -> adjective neuter plural nominative strong positive : LHFNSF
+, [,] -> punctuation : P
+
+
+er á meðal fóru .
+er [ER] -> conjunction : CT
+á [Á] -> adverb accusative : AO
+meðal [MEÐAL] -> adverb genitive : AE
+fóru [FARA] -> verb indicative active third plural past : SFG3FÞ
+. [.] -> punctuation : P
+
+
+27
+27 [UNK] -> UNK : UNK
+
+
+Veit hon Heimdallar
+Veit [VITA] -> verb indicative active third singular present : SFG3EN
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+Heimdallar [HEIMDALLR] -> noun masculine singular genitive person : NKEEM
+
+
+hljóð of folgit
+hljóð [HLJÓÐ] -> noun neuter singular nominative : NHEN
+of [OF] -> adverb no case  : AA
+folgit [FELA] -> verb past participle active neuter singular nominative : SÞGHEN
+
+
+und heiðvönum
+und [UND] -> adverb dative : AÞ
+heiðvönum [HEIÐVANR] -> noun masculine plural dative : NKFÞ
+
+
+helgum baðmi ,
+helgum [HELGR] -> adjective masculine singular dative strong positive : LKEÞSF
+baðmi [BAÐMR] -> noun masculine singular dative : NKEÞ
+, [,] -> punctuation : P
+
+
+á sér hon ausask
+á [Á] -> adverb dative : AÞ
+sér [SIK] ->  : FEÞ
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+ausask [AUSA] -> verb indicative middle third singular present : SFM3EN
+
+
+aurgum forsi
+aurgum [AURIGR] -> adjective masculine plural dative strong positive : LKFÞSF
+forsi [FORS] -> noun neuter singular dative : NHEÞ
+
+
+af veði Valföðrs .
+af [AF] -> adverb dative : AÞ
+veði [VEÐR] -> noun neuter singular dative : NHEÞ
+Valföðrs [VALFÖÐR] -> noun masculine singular genitive : NKEE
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVAT] -> pronoun interrogative neuter singular nominative : FSHEN
+? [?] -> punctuation : P
+
+
+28
+28 [UNK] -> UNK : UNK
+
+
+Ein sat hon úti ,
+Ein [EINN] -> adjective feminine singular nominative strong positive : LVENSF
+sat [SITJA] -> verb indicative active third singular past : SFG3EÞ
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+úti [ÚTI] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+þá er inn aldni kom
+þá [ÞÁ] -> adverb no case  : AA
+er [ER] -> conjunction : CT
+inn [INN] -> article masculine singular nominative : GKEN
+aldni [ALDINN] -> adjective masculine singular nominative weak positive : LKENVF
+kom [KOMA] -> verb indicative active third singular past : SFG3EÞ
+
+
+yggjungr ása
+yggjungr [YGGJUNGR] -> noun masculine singular nominative : NKEN
+ása [ÁSS] -> noun masculine plural genitive : NKFE
+
+
+ok í augu leit .
+ok [OK] -> conjunction : CC
+í [Í] -> adverb accusative : AO
+augu [AUGA] -> noun neuter plural accusative : NHFO
+leit [LÍTA] -> verb indicative active third singular past : SFG3EÞ
+. [.] -> punctuation : P
+
+
+Hvers fregnið mik ?
+Hvers [HVERR] -> pronoun interrogative masculine singular genitive : FSKEE
+fregnið [FREGNA] -> verb indicative active second plural past : SFG2FÞ
+mik [EK] -> pronoun personal first singular accusative : FP1EO
+? [?] -> punctuation : P
+
+
+Hví freistið mín ?
+Hví [HVAT] -> pronoun interrogative neuter singular dative : FSHEÞ
+freistið [FREISTA] -> verb indicative active second plural past : SFG2FÞ
+mín [EK] -> pronoun personal first singular genitive : FP1EE
+? [?] -> punctuation : P
+
+
+Allt veit ek , Óðinn ,
+Allt [ALLR] -> adjective neuter singular nominative strong positive : LHENSF
+veit [VITA] -> verb indicative active third singular present : SFG3EN
+ek [EK] -> pronoun personal masculine singular nominative : FPKEN
+, [,] -> punctuation : P
+Óðinn [ÓÐINN] -> UNK : UNK
+, [,] -> punctuation : P
+
+
+hvar þú auga falt ,
+hvar [HVAR] -> adverb no case  : AA
+þú [ÞÚ] -> pronoun personal second singular nominative : FP2EN
+auga [AUGA] -> noun neuter singular nominative : NHEN
+falt [FELA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+í inum mæra
+í [Í] -> adverb dative : AÞ
+inum [INN] -> article masculine singular dative : GKEÞ
+mæra [MÆRR] -> adjective masculine singular dative weak positive : LKEÞVF
+
+
+Mímisbrunni .
+Mímisbrunni [MÍMISBRUNNR] -> noun masculine singular dative person : NKEÞM
+. [.] -> punctuation : P
+
+
+Drekkr mjöð Mímir
+Drekkr [DREKKA] -> verb indicative active third singular present : SFG3EN
+mjöð [MJÖÐ] -> noun masculine singular accusative : NKEO
+Mímir [MÍMIR] -> noun masculine singular nominative person : NKENM
+
+
+morgun hverjan
+morgun [MORGUN] -> noun feminine singular nominative : NVEN
+hverjan [HVERN] -> adverb no case  : AA
+
+
+af veði Valföðrs .
+af [AF] -> adverb dative : AÞ
+veði [VEÐ] -> noun neuter singular dative : NHEÞ
+Valföðrs [VALFÖÐR] -> noun masculine singular genitive person : NKEEM
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVAT] ->  : FPS
+? [?] -> punctuation : P
+
+
+29
+29 [UNK] -> UNK : UNK
+
+
+Valði henni Herföðr
+Valði [VELJA] -> verb indicative active third singular past : SFG3EÞ
+henni [HON] -> pronoun personal feminine singular dative : FPVEÞ
+Herföðr [HERFÖÐR] -> noun masculine singular nominative person : NKENM
+
+
+hringa ok men ,
+hringa [HRINGR] -> noun masculine plural accusative : NKFO
+ok [OK] -> conjunction : CC
+men [MEN] -> noun neuter plural accusative : NHFO
+, [,] -> punctuation : P
+
+
+fekk spjöll spaklig
+fekk [FÁ] -> verb indicative active third singular past : SFG3EÞ
+spjöll [SPJÖLL] -> noun neuter plural accusative : NHFO
+spaklig [SPAKLIGR] -> adjective neuter plural accusative strong positive : LHFOSF
+
+
+ok spá ganda ,
+ok [OK] -> conjunction : CC
+spá [SPÁ] -> noun feminine singular accusative : NVEO
+ganda [GANDR] -> adjective feminine singular accusative strong positive : LVEOSF
+, [,] -> punctuation : P
+
+
+sá hon vítt ok of vítt
+sá [SJÁ] ->  : SFG3Þ
+hon [HON] -> pronoun personal masculine singular nominative : FPKEN
+vítt [VÍTT] -> adverb no case  : AA
+ok [OK] -> conjunction : CC
+of [OF] -> adverb no case  : AA
+vítt [VÍTT] -> adverb no case  : AA
+
+
+of veröld hverja .
+of [OF] -> adverb no case  : AA
+veröld [VERÖLD] ->  : NVE
+hverja [HVERR] -> pronoun interrogative feminine singular accusative : FSVEO
+. [.] -> punctuation : P
+
+
+30
+30 [UNK] -> UNK : UNK
+
+
+Sá hon valkyrjur
+Sá [SÁ] -> verb indicative active third singular past : SFG3EÞ
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+valkyrjur [VALKYRJA] -> noun feminine plural accusative : NVFO
+
+
+vítt of komnar ,
+vítt [VÍTT] -> adverb no case  : AA
+of [OF] -> adverb no case  : AA
+komnar [KOMA] -> adjective feminine plural accusative strong positive : LVFOSF
+, [,] -> punctuation : P
+
+
+görvar at ríða
+görvar [GÖRR] -> adjective feminine plural accusative strong positive : LVFOSF
+at [AT] -> conjunction : CT
+ríða [RÍÐA] -> verb infinitive active infinitive active : SNG
+
+
+til Goðþjóðar ;
+til [TIL] -> adverb genitive : AE
+Goðþjóðar [GOÐÞJÓÐ] -> noun feminine singular genitive  : NVEEE
+; [;] -> punctuation : P
+
+
+Skuld helt skildi ,
+Skuld [SKULD] -> noun feminine singular nominative person : NVENM
+helt [HALDA] -> verb indicative active third singular past : SFG3EÞ
+skildi [SKULU] -> noun masculine singular dative : NKEÞ
+, [,] -> punctuation : P
+
+
+en Skögul önnur ,
+en [EN] -> conjunction : CC
+Skögul [SKÖGUL] -> noun feminine singular nominative person : NVENM
+önnur [ANNARR] -> pronoun demonstrative feminine plural nominative : FAVFN
+, [,] -> punctuation : P
+
+
+Gunnr , Hildr , Göndul
+Gunnr [GUNNR] -> noun feminine singular nominative person : NVENM
+, [,] -> punctuation : P
+Hildr [HILDR] -> noun feminine singular nominative person : NVENM
+, [,] -> punctuation : P
+Göndul [GÖNDUL] -> noun feminine singular nominative person : NVENM
+
+
+ok Geirskögul .
+ok [OK] -> conjunction : CC
+Geirskögul [GEIRSKÖGUL] -> noun feminine singular nominative person : NVENM
+. [.] -> punctuation : P
+
+
+Nú eru talðar
+Nú [NÚ] -> adverb no case  : AA
+eru [VERA] -> verb indicative active third plural present : SFG3FN
+talðar [TALA] -> verb past participle active feminine plural nominative : SÞGVFN
+
+
+nönnur Herjans ,
+nönnur [UNK] -> UNK : UNK
+Herjans [HERJANS] -> noun masculine singular genitive person : NKEEM
+, [,] -> punctuation : P
+
+
+görvar at ríða
+görvar [GÖRR] -> adjective feminine plural accusative strong positive : LVFOSF
+at [AT] -> conjunction : CT
+ríða [RÍÐA] -> verb infinitive active infinitive active : SNG
+
+
+grund valkyrjur .
+grund [GRUND] -> noun feminine singular accusative : NVEO
+valkyrjur [VALKYRJA] -> noun feminine plural nominative : NVFN
+. [.] -> punctuation : P
+
+
+31
+31 [UNK] -> UNK : UNK
+
+
+Ek sá Baldri ,
+Ek [EK] -> pronoun personal first singular nominative : FP1EN
+sá [SJÁ] -> verb indicative active third singular past : SFG3EÞ
+Baldri [BALDR] -> noun masculine singular accusative person : NKEOM
+, [,] -> punctuation : P
+
+
+blóðgum tívur ,
+blóðgum [BLÓÐIGR] -> noun masculine plural dative  : NKFÞ?
+tívur [TÝR] ->  : ???
+, [,] -> punctuation : P
+
+
+Óðins barni ,
+Óðins [ÓÐINN] -> noun masculine singular genitive person : NKEEM
+barni [BARN] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+
+
+örlög folgin ;
+örlög [ÖRLÖG] -> noun neuter plural nominative : NHFN
+folgin [FELA] -> verb past participle active feminine plural nominative : SÞGVFN
+; [;] -> punctuation : P
+
+
+stóð of vaxinn
+stóð [STANDA] -> verb indicative active third singular past : SFG3EÞ
+of [OF] -> adverb no case  : AA
+vaxinn [VAXA] ->  : SÞKEN
+
+
+völlum hæri
+völlum [VÖLLR] -> noun masculine plural dative : NKFÞ
+hæri [HÁR] -> adjective masculine singular nominative strong comparative : LKENSM
+
+
+mjór ok mjök fagr
+mjór [MJÓR] -> adjective masculine singular nominative strong positive : LKENSF
+ok [OK] -> conjunction : CC
+mjök [MJÖK] -> adverb no case  : AA
+fagr [FAGR] -> adjective masculine singular nominative strong positive : LKENSF
+
+
+mistilteinn .
+mistilteinn [MISTILTEINN] -> noun masculine singular nominative : NKEN
+. [.] -> punctuation : P
+
+
+32
+32 [UNK] -> UNK : UNK
+
+
+Varð af þeim meiði ,
+Varð [VERÐ] -> verb indicative active third singular past : SFG3EÞ
+af [AF] -> adverb dative : AÞ
+þeim [SÁ] -> pronoun demonstrative masculine singular dative : FAKEÞ
+meiði [MEIÐR] -> noun masculine singular dative : NKEÞ
+, [,] -> punctuation : P
+
+
+er mær sýndisk ,
+er [ER] -> conjunction : CT
+mær [MJÓR] -> UNK : UNK
+sýndisk [SÝNA] -> verb indicative middle third singular past : SFM3EÞ
+, [,] -> punctuation : P
+
+
+harmflaug hættlig ,
+harmflaug [HARMFLAUG] -> noun feminine singular nominative : NVEN
+hættlig [HÆTTLIGR] -> adjective feminine singular nominative strong positive : LVENSF
+, [,] -> punctuation : P
+
+
+Höðr nam skjóta ;
+Höðr [HÖÐR] -> noun masculine singular nominative person : NKENM
+nam [NEKA] -> verb indicative active third singular past : SFG3EÞ
+skjóta [SKJÓTA] ->  : L
+; [;] -> punctuation : P
+
+
+Baldrs bróðir var
+Baldrs [BALDR] -> noun masculine singular genitive person : NKEEM
+bróðir [BRÓÐIR] -> noun masculine singular nominative : NKEN
+var [VERA] -> verb indicative active third singular past : SFG3EÞ
+
+
+of borinn snemma ,
+of [OF] -> adverb no case  : AA
+borinn [BERA] -> verb past participle active masculine singular nominative : SÞGKEN
+snemma [SNEMMA] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+sá nam Óðins sonr
+sá [SÁ] -> pronoun demonstrative masculine singular nominative : FAKEN
+nam [NEMA] -> verb indicative active third singular past : SFG3EÞ
+Óðins [ÓÐINN] -> noun masculine singular genitive person : NKEEM
+sonr [SONR] -> noun masculine singular nominative : NKEN
+
+
+einnættr vega .
+einnættr [EINNÆTTR] -> adjective masculine singular nominative strong positive : LKENSF
+vega [VEGA] -> verb infinitive active infinitive active : SNG
+. [.] -> punctuation : P
+
+
+33
+33 [UNK] -> UNK : UNK
+
+
+Þó hann æva hendr
+Þó [ÞÓ] -> adverb no case  : AA
+hann [HANN] -> pronoun personal masculine singular nominative : FPKEN
+æva [ÆVA] -> adverb no case  : AA
+hendr [HENDR] -> noun masculine singular nominative : NKEN
+
+
+né höfuð kembði ,
+né [NÉ] -> adverb no case  : AA
+höfuð [HAFA] -> verb indicative active third plural past : SFG3FÞ
+kembði [KEMBA] -> verb indicative active third singular past : SFG3EÞ
+, [,] -> punctuation : P
+
+
+áðr á bál of bar
+áðr [ÁÐR] -> adverb no case  : AA
+á [Á] -> adverb accusative : AO
+bál [BÁL] -> noun neuter singular accusative : NHEO
+of [OF] -> adverb no case  : AA
+bar [BERA] -> verb indicative active third singular past : SFG3EÞ
+
+
+Baldrs andskota ;
+Baldrs [BALDR] -> noun masculine singular genitive person : NKEEM
+andskota [ANDSKOTI] -> noun masculine singular accusative : NKEO
+; [;] -> punctuation : P
+
+
+en Frigg of grét
+en [EN] -> conjunction : CC
+Frigg [FRIGG] -> noun feminine singular nominative : NVEN
+of [OF] -> adverb no case  : AA
+grét [GRÁTA] -> verb indicative active third singular past : SFG3EÞ
+
+
+í Fensölum
+í [Í] -> adverb dative : AÞ
+Fensölum [FENSALIR] -> noun masculine plural dative person : NKFÞM
+
+
+vá Valhallar .
+vá [VÁ] -> noun feminine singular accusative : NVEO
+Valhallar [VALHÖLL] -> noun feminine singular genitive person : NVEEM
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVERR] ->  : FPS
+? [?] -> punctuation : P
+
+
+34
+34 [UNK] -> UNK : UNK
+
+
+Þá kná Váli
+Þá [ÞÁ] -> adverb no case  : AA
+kná [KNÁ] -> verb indicative active third singular past : SFG3EÞ
+Váli [VÁLI] -> noun masculine singular nominative person : NKENM
+
+
+vígbönd snúa ,
+vígbönd [VÍGBAND] -> noun neuter plural accusative : NHFO
+snúa [SNÚA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+heldr váru harðgör
+heldr [HELDR] -> adverb no case  : AA
+váru [VERA] -> verb indicative active third plural past : SFG3FÞ
+harðgör [HARÐGÖRR] -> adjective feminine plural accusative strong positive : LVFOSF
+
+
+höft ór þörmum .
+höft [HAFT] -> noun neuter plural nominative : NHFN
+ór [ÓR] -> adverb dative : AÞ
+þörmum [ÞARMR] -> noun masculine singular   : NKEFÞ
+. [.] -> punctuation : P
+
+
+35
+35 [UNK] -> UNK : UNK
+
+
+Haft sá hon liggja
+Haft [HAFT] -> noun neuter singular nominative : NHEN
+sá [SJÁ] -> verb indicative active third singular past : SFG3EÞ
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+liggja [LIGGJA] -> verb infinitive active infinitive active : SNG
+
+
+und Hveralundi ,
+und [UND] -> adverb dative : AÞ
+Hveralundi [HVERALUNDR] -> noun masculine singular dative person : NKEÞM
+, [,] -> punctuation : P
+
+
+lægjarns líki
+lægjarns [LÆGJARN] ->  : LKEE
+líki [LÍKI] -> noun neuter singular nominative : NHEN
+
+
+Loka áþekkjan ;
+Loka [LOKI] -> noun masculine singular dative person : NKEÞM
+áþekkjan [ÁÞEKKR] ->  : ÁÞEKKJAN
+; [;] -> punctuation : P
+
+
+þar sitr Sigyn
+þar [ÞAR] -> adverb no case  : AA
+sitr [SITJA] -> verb indicative active third singular present : SFG3EN
+Sigyn [SIGYN] -> noun feminine singular nominative person : NVENM
+
+
+þeygi of sínum
+þeygi [ÞEYGI] -> conjunction : CC
+of [OF] -> adverb no case  : AA
+sínum [SINN] -> UNK : UNK
+
+
+ver vel glýjuð .
+ver [VERR] -> noun masculine singular accusative : NKEO
+vel [VEL] -> adverb no case  : AA
+glýjuð [GLÝJA] -> UNK : UNK
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVERR] ->  : FPS
+? [?] -> punctuation : P
+
+
+36
+36 [UNK] -> UNK : UNK
+
+
+Á fellur austan
+Á [Á] -> adverb accusative : AO
+fellur [FELL] -> UNK : UNK
+austan [AUSTAN] -> adverb no case  : AA
+
+
+um eitrdala
+um [UM] -> adverb dative : AÞ
+eitrdala [EITRDALR] -> noun masculine plural accusative : NKFO
+
+
+söxum ok sverðum ,
+söxum [SAX] -> noun neuter plural dative : NHFÞ
+ok [OK] -> conjunction : CC
+sverðum [SVERÐ] -> noun neuter plural dative : NHFÞ
+, [,] -> punctuation : P
+
+
+Slíðr heitir sú .
+Slíðr [SLÍÐR] -> noun masculine singular nominative person : NKENM
+heitir [HEITA] -> verb indicative active third singular present : SFG3EN
+sú [SÁ] -> pronoun demonstrative feminine singular nominative : FAVEN
+. [.] -> punctuation : P
+
+
+37
+37 [UNK] -> UNK : UNK
+
+
+Stóð fyr norðan
+Stóð [STANDA] -> verb indicative active third singular past : SFG3EÞ
+fyr [FYR] -> adverb no case  : AA
+norðan [NORÐAN] -> adverb no case  : AA
+
+
+á Niðavöllum
+á [Á] -> adverb dative : AÞ
+Niðavöllum [NIÐAVALLR] -> noun masculine plural dative person : NKFÞM
+
+
+salr ór gulli
+salr [SALR] -> noun masculine singular nominative : NKEN
+ór [ÓR] -> adverb dative : AÞ
+gulli [GULLR] -> noun neuter singular dative : NHEÞ
+
+
+Sindra ættar ;
+Sindra [SINDRI] -> noun masculine singular genitive person : NKEEM
+ættar [ÆTT] -> noun feminine singular genitive : NVEE
+; [;] -> punctuation : P
+
+
+en annarr stóð
+en [EN] -> conjunction : CC
+annarr [ANNARR] -> adjective masculine singular nominative strong positive : LKENSF
+stóð [STANDA] -> verb indicative active third singular past : SFG3EÞ
+
+
+á Ókólni
+á [Á] -> adverb dative : AÞ
+Ókólni [ÓKÓLNN] -> noun masculine singular dative person : NKEÞM
+
+
+bjórsalr jötuns ,
+bjórsalr [BJÓRSALR] -> UNK : UNK
+jötuns [JÖTUNN] -> noun masculine singular genitive : NKEE
+, [,] -> punctuation : P
+
+
+en sá Brimir heitir .
+en [EN] -> adverb no case  : AA
+sá [SÁ] -> pronoun demonstrative masculine singular nominative : FAKEN
+Brimir [BRIMIR] -> noun masculine singular nominative person : NKENM
+heitir [HEITA] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
+
+38
+38 [UNK] -> UNK : UNK
+
+
+Sal sá hon standa
+Sal [SALR] -> noun masculine singular accusative : NKEO
+sá [SJÁ] -> verb indicative active third singular past : SFG3EÞ
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+standa [STANDA] -> verb infinitive active infinitive active : SNG
+
+
+sólu fjarri
+sólu [SÓL] -> noun feminine singular dative : NVEÞ
+fjarri [FJARRI] -> adverb no case  : AA
+
+
+Náströndu á ,
+Náströndu [NÁSTRÖND] -> noun feminine singular  : NVEÖ
+á [Á] -> adverb dative : AÞ
+, [,] -> punctuation : P
+
+
+norðr horfa dyrr ;
+norðr [NORÐR] -> noun masculine singular nominative : NKEN
+horfa [HORFA] ->  : SGN
+dyrr [DYRR] -> noun feminine plural nominative : NVFN
+; [;] -> punctuation : P
+
+
+falla eitrdropar
+falla [FALLA] -> verb indicative active third plural present : SFG3FN
+eitrdropar [EITRDROPI] -> noun masculine plural nominative : NKFN
+
+
+inn um ljóra ,
+inn [INN] -> article masculine singular nominative : GKEN
+um [UM] -> adverb dative : AÞ
+ljóra [LJÓRA] -> noun masculine singular dative : NKEÞ
+, [,] -> punctuation : P
+
+
+sá er undinn salr
+sá [SÁ] -> pronoun demonstrative masculine singular nominative : FAKEN
+er [VERA] -> verb indicative active third singular present : SFG3EN
+undinn [VINDA] -> verb past participle active masculine singular nominative : SÞGKEN
+salr [SALR] -> noun masculine singular nominative : NKEN
+
+
+orma hryggjum .
+orma [ORMR] -> noun masculine plural genitive : NKFE
+hryggjum [HRYGGR] -> noun masculine plural dative : NKFÞ
+. [.] -> punctuation : P
+
+
+39
+39 [UNK] -> UNK : UNK
+
+
+Sá hon þar vaða
+Sá [SÁ] -> verb indicative active third singular past : SFG3EÞ
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+þar [ÞAR] -> adverb no case  : AA
+vaða [VAÐA] -> verb infinitive active infinitive active : SNG
+
+
+þunga strauma
+þunga [ÞUNGR] -> adjective masculine plural accusative strong positive : LKFOSF
+strauma [STRAUMR] -> noun masculine plural accusative : NKFO
+
+
+menn meinsvara
+menn [MAÐR] -> noun masculine plural accusative : NKFO
+meinsvara [MEINSVARI] -> adjective masculine plural accusative strong positive : LKFOSF
+
+
+ok morðvarga
+ok [OK] -> conjunction : CC
+morðvarga [MORÐVARGR] -> noun masculine plural accusative : NKFO
+
+
+ok þann er annars glepr
+ok [OK] -> conjunction : CC
+þann [SÁ] -> pronoun demonstrative masculine singular accusative : FAKEO
+er [ER] -> conjunction : CC
+annars [ANNARR] -> noun masculine singular genitive : NKEE
+glepr [GLEPJA] -> verb indicative active third singular present : SFG3EN
+
+
+eyrarúnu ;
+eyrarúnu [EYRARÚNA] -> noun feminine singular accusative : NVEO
+; [;] -> punctuation : P
+
+
+þar saug Niðhöggr
+þar [ÞAR] -> adverb no case  : AA
+saug [SÚGA] -> verb indicative active third singular past : SFG3EÞ
+Niðhöggr [NIÐHÖGGR] -> noun masculine singular nominative person : NKENM
+
+
+nái framgengna ,
+nái [NÁR] -> noun masculine plural accusative : NKFO
+framgengna [FRAMGENGINN] -> verb past participle active masculine plural accusative : SÞGKFO
+, [,] -> punctuation : P
+
+
+sleit vargr vera .
+sleit [SLÍTA] -> verb indicative active third singular past : SFG3EÞ
+vargr [VARGR] -> noun masculine singular nominative : NKEN
+vera [VERR] -> noun masculine singular accusative : NKEO
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVERR] ->  : FPS
+? [?] -> punctuation : P
+
+
+40
+40 [UNK] -> UNK : UNK
+
+
+Austr sat in aldna
+Austr [AUSTR] -> noun masculine singular nominative : NKEN
+sat [SITJA] -> verb indicative active third singular past : SFG3EÞ
+in [IN] -> article feminine singular nominative : GVEN
+aldna [ALDINN] -> adjective feminine singular nominative strong positive : LVENSF
+
+
+í Járnviði
+í [Í] -> adverb dative : AÞ
+Járnviði [JÁRNVIÐR] -> noun masculine singular dative place : NKEÞÖ
+
+
+ok fæddi þar
+ok [OK] -> conjunction : CC
+fæddi [FŒÐA] -> verb indicative active third singular past : SFG3EÞ
+þar [ÞAR] -> adverb no case  : AA
+
+
+Fenris kindir ;
+Fenris [FENRIR] -> noun masculine singular genitive person : NKEEM
+kindir [KIND] -> noun feminine plural accusative : NVFO
+; [;] -> punctuation : P
+
+
+verðr af þeim öllum
+verðr [VERÐA] ->  : SÞKEN
+af [AF] -> adverb dative : AÞ
+þeim [ÞEIR] -> pronoun personal third plural dative : FP3FÞ
+öllum [ALLR] -> adjective masculine plural dative strong positive : LKFÞSF
+
+
+einna nokkurr
+einna [EINN] -> numeral cardinal masculine plural genitive : TFKFE
+nokkurr [NÖKKURR] -> pronoun indefinite masculine singular nominative : FOKEN
+
+
+tungls tjúgari
+tungls [TUNGL] -> noun neuter singular genitive : NHEE
+tjúgari [TJÚGARI] -> noun masculine singular nominative : NKEN
+
+
+í trölls hami .
+í [Í] -> adverb dative : AÞ
+trölls [TRÖLLS] -> noun masculine singular genitive : NKEE
+hami [HAMR] -> noun masculine singular dative : NKEÞ
+. [.] -> punctuation : P
+
+
+41
+41 [UNK] -> UNK : UNK
+
+
+Fyllisk fjörvi
+Fyllisk [FYLLA] -> verb indicative middle third singular present : SFM3EN
+fjörvi [FJÖR] -> noun neuter singular dative : NHEÞ
+
+
+feigra manna ,
+feigra [FEIGR] -> adjective masculine plural genitive strong positive : LKFESF
+manna [MAÐR] -> noun masculine plural genitive : NKFE
+, [,] -> punctuation : P
+
+
+rýðr ragna sjöt
+rýðr [RJÓÐA] -> verb indicative active third singular present : SFG3EN
+ragna [REGIN] -> noun neuter plural genitive : NHFE
+sjöt [SJÖT] -> noun neuter plural accusative : NHFO
+
+
+rauðum dreyra ;
+rauðum [RAUÐR] ->  : LKFÞ
+dreyra [DREYRA] -> verb indicative active third plural present : SFG3FN
+; [;] -> punctuation : P
+
+
+svört verða sólskin
+svört [SVARTR] -> adjective neuter plural nominative strong positive : LHFNSF
+verða [VERÐA] -> verb indicative active third plural present : SFG3FN
+sólskin [SÓLSKIN] -> noun neuter plural nominative : NHFN
+
+
+um sumur eftir ,
+um [UM] -> adverb dative : AÞ
+sumur [SUMUR] -> noun neuter plural accusative : NHFO
+eftir [EFTIR] -> adverb dative : AÞ
+, [,] -> punctuation : P
+
+
+veðr öll válynd .
+veðr [VEÐR] -> noun neuter singular nominative : NHEN
+öll [ALLR] -> adjective neuter singular nominative strong positive : LHENSF
+válynd [VÁLYNDR] ->  : LHEN
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVERR] ->  : FPS
+? [?] -> punctuation : P
+
+
+42
+42 [UNK] -> UNK : UNK
+
+
+Sat þar á haugi
+Sat [SITJA] -> verb indicative active third singular past : SFG3EÞ
+þar [ÞAR] -> adverb no case  : AA
+á [Á] -> adverb dative : AÞ
+haugi [HAUGR] -> noun masculine singular dative : NKEÞ
+
+
+ok sló hörpu
+ok [OK] -> conjunction : CC
+sló [SLÁ] ->  : SFG3E
+hörpu [HARPA] -> noun feminine singular accusative : NVEO
+
+
+gýgjar hirðir ,
+gýgjar [GÝGR] -> noun feminine singular genitive : NVEE
+hirðir [HIRÐIR] -> noun masculine singular nominative : NKEN
+, [,] -> punctuation : P
+
+
+glaðr Eggþér ;
+glaðr [GLAÐR] -> adjective masculine singular nominative strong positive : LKENSF
+Eggþér [EGGÞÉR] -> noun masculine singular nominative person : NKENM
+; [;] -> punctuation : P
+
+
+gól of hánum
+gól [GALA] -> verb indicative active third singular past : SFG3EÞ
+of [OF] -> adverb dative : AÞ
+hánum [HANN] -> pronoun personal masculine singular dative : FPKEÞ
+
+
+í gaglviði
+í [Í] -> adverb dative : AÞ
+gaglviði [GALGVIÐR] -> noun masculine singular dative : NKEÞ
+
+
+fagrrauðr hani ,
+fagrrauðr [FAGRRAUÐR] -> adjective masculine singular nominative strong positive : LKENSF
+hani [HANI] -> noun masculine singular nominative : NKEN
+, [,] -> punctuation : P
+
+
+sá er Fjalarr heitir .
+sá [SÁ] -> pronoun demonstrative masculine singular nominative : FAKEN
+er [ER] -> conjunction : CC
+Fjalarr [FJALARR] -> noun masculine singular nominative person : NKENM
+heitir [HEITA] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
+
+43
+43 [UNK] -> UNK : UNK
+
+
+Gól of ásum
+Gól [GALA] -> verb indicative active third singular past : SFG3EÞ
+of [OF] -> adverb no case  : AA
+ásum [ÁSS] -> noun masculine plural dative : NKFÞ
+
+
+Gullinkambi ,
+Gullinkambi [GULLINKAMBR] -> noun masculine singular dative person : NKEÞM
+, [,] -> punctuation : P
+
+
+sá vekr hölða
+sá [SÁ] -> pronoun demonstrative masculine singular nominative : FAKEN
+vekr [VEKJA] -> verb indicative active third singular present : SFG3EN
+hölða [HÖLDR] -> noun masculine plural accusative : NKFO
+
+
+at Herjaföðrs ;
+at [AT] -> conjunction : CT
+Herjaföðrs [HERJAFÖÐR] -> noun masculine singular genitive person : NKEEM
+; [;] -> punctuation : P
+
+
+en annarr gelr
+en [EN] -> conjunction : CC
+annarr [ANNARR] -> adjective masculine singular nominative strong positive : LKENSF
+gelr [GALA] -> verb indicative active third singular present : SFG3EN
+
+
+fyr jörð neðan
+fyr [FYR] -> adverb accusative : AO
+jörð [JÖRÐ] -> noun feminine singular accusative : NVEO
+neðan [NEÐAN] -> adverb no case  : AA
+
+
+sótrauðr hani
+sótrauðr [SÓTRAUÐR] -> adjective masculine singular nominative strong positive : LKENSF
+hani [HANI] -> noun masculine singular nominative : NKEN
+
+
+at sölum Heljar .
+at [AT] -> conjunction : CT
+sölum [SALA] -> noun feminine plural dative : NVFÞ
+Heljar [HEL] -> noun feminine singular genitive person : NVEEM
+. [.] -> punctuation : P
+
+
+44
+44 [UNK] -> UNK : UNK
+
+
+Geyr nú Garmr mjök
+Geyr [GEYJA] -> verb indicative active third singular present : SFG3EN
+nú [NÚ] -> adverb no case  : AA
+Garmr [GARMR] -> noun masculine singular nominative person : NKENM
+mjök [MJÖK] -> adverb no case  : AA
+
+
+fyr Gnipahelli ,
+fyr [FYR] -> adverb dative : AÞ
+Gnipahelli [GNIPAHELLIR] -> noun masculine singular dative person : NKEÞM
+, [,] -> punctuation : P
+
+
+festr mun slitna ,
+festr [FESTR] -> noun masculine singular nominative : NKEN
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+slitna [SLITNA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+en freki renna ;
+en [EN] -> conjunction : CC
+freki [FREKI] -> noun masculine singular nominative : NKEN
+renna [RENNA] -> verb infinitive active infinitive active : SNG
+; [;] -> punctuation : P
+
+
+fjölð veit ek frœða ,
+fjölð [FJÖLÐ] -> adverb no case  : AA
+veit [VITA] -> verb indicative active third singular present : SFG3EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+frœða [FRŒÐI] -> noun feminine singular accusative : NVEO
+, [,] -> punctuation : P
+
+
+fram sé ek lengra
+fram [FRAM] -> adverb no case  : AA
+sé [SÉ] -> verb indicative active first singular present : SFG1EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+lengra [LENGI] -> adjective neuter singular nominative strong comparative : LHENSM
+
+
+um ragna rök
+um [UM] -> adverb accusative : AO
+ragna [REGIN] -> noun neuter plural genitive : NHFE
+rök [RÖKR] -> noun neuter plural accusative : NHFO
+
+
+römm sigtíva .
+römm [RAMR] -> adjective neuter plural accusative strong positive : LHFOSF
+sigtíva [SIGTÍVAMR] -> noun masculine plural genitive : NKFE
+. [.] -> punctuation : P
+
+
+45
+45 [UNK] -> UNK : UNK
+
+
+Bræðr munu berjask
+Bræðr [BRÓÐIR] -> noun masculine plural nominative : NKFN
+munu [MUNU] -> verb indicative active third plural present : SFG3FN
+berjask [BERJA] -> verb indicative middle third plural present : SFM3FN
+
+
+ok at bönum verðask ,
+ok [OK] -> conjunction : CC
+at [AT] -> conjunction : CT
+bönum [BANI] -> noun masculine plural dative : NKFÞ
+verðask [VERÐA] -> verb indicative middle third plural present : SFM3FN
+, [,] -> punctuation : P
+
+
+munu systrungar
+munu [MUNU] -> verb indicative active third plural present : SFG3FN
+systrungar [SYSTRUNGR] -> noun masculine plural nominative : NKFN
+
+
+sifjum spilla ;
+sifjum [SIFJAR] -> noun feminine plural dative : NVFÞ
+spilla [SPILLA] -> verb infinitive active infinitive active : SNG
+; [;] -> punctuation : P
+
+
+hart er í heimi ,
+hart [HARÐR] -> adjective neuter singular nominative strong positive : LHENSF
+er [VERA] -> verb infinitive active third singular present : SNG3EN
+í [Í] -> adverb dative : AÞ
+heimi [HEIMR] -> noun masculine singular  : NKESPILLA
+, [,] -> punctuation : P
+
+
+hórdómr mikill ,
+hórdómr [HÓRDÓMR] -> noun masculine singular nominative : NKEN
+mikill [MIKILL] -> adjective masculine singular nominative strong positive : LKENSF
+, [,] -> punctuation : P
+
+
+skeggöld , skalmöld ,
+skeggöld [SKEGGÖLD] -> noun feminine singular nominative : NVEN
+, [,] -> punctuation : P
+skalmöld [SKALMÖLD] -> noun feminine singular nominative : NVEN
+, [,] -> punctuation : P
+
+
+skildir ro klofnir ,
+skildir [SKJÖLDR] -> noun masculine plural nominative : NKFN
+ro [VERA] -> verb indicative active third plural present : SFG3FN
+klofnir [KLJÚFA] ->  : SÞKFN
+, [,] -> punctuation : P
+
+
+vindöld , vargöld ,
+vindöld [VINDÖLD] -> noun feminine singular nominative : NVEN
+, [,] -> punctuation : P
+vargöld [VARGÖLD] -> noun feminine singular nominative : NVEN
+, [,] -> punctuation : P
+
+
+áðr veröld steypisk ;
+áðr [ÁÐR] -> adverb no case  : AA
+veröld [VERÖLD] -> noun feminine singular nominative : NVEN
+steypisk [STEYPA] -> verb infinitive middle third singular present : SNM3EN
+; [;] -> punctuation : P
+
+
+mun engi maðr
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+engi [ENGI] -> pronoun indefinite neuter singular nominative : FOHEN
+maðr [MAÐR] -> noun masculine singular nominative : NKEN
+
+
+öðrum þyrma .
+öðrum [ANNARR] -> pronoun indefinite masculine plural dative : FOKFÞ
+þyrma [ÞYRMA] -> verb infinitive active infinitive active : SNG
+. [.] -> punctuation : P
+
+
+46
+46 [UNK] -> UNK : UNK
+
+
+Leika Míms synir ,
+Leika [LEIKA] -> verb indicative active third plural present : SFG3FN
+Míms [MÍMIR] -> noun masculine singular genitive person : NKEEM
+synir [SONR] -> noun masculine plural nominative : NKFN
+, [,] -> punctuation : P
+
+
+en mjötuðr kyndisk
+en [EN] -> conjunction : CC
+mjötuðr [MJÖTUÐR] -> noun masculine singular nominative : NKEN
+kyndisk [KYNDA] -> verb indicative middle third singular present : SFM3EN
+
+
+at inu galla
+at [AT] -> conjunction : CT
+inu [INN] -> article masculine singular dative : GKEÞ
+galla [GALLI] -> noun masculine singular dative : NKEÞ
+
+
+Gjallarhorni ;
+Gjallarhorni [GJALLARHORN] -> noun neuter singular dative person : NHEÞM
+; [;] -> punctuation : P
+
+
+hátt blæss Heimdallr ,
+hátt [HÁR] -> adjective neuter singular nominative strong positive : LHENSF
+blæss [BLÁSA] -> verb indicative active third singular present : SFG3EN
+Heimdallr [HEIMDALLR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+horn er á lofti ,
+horn [HORN] -> noun neuter singular nominative : NHEN
+er [VERA] -> verb indicative active third singular present : SFG3EN
+á [Á] -> adverb dative : AÞ
+lofti [LOFT] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+
+
+mælir Óðinn
+mælir [MÆLA] -> verb indicative active third singular past : SFG3EÞ
+Óðinn [ÓÐINN] -> noun masculine singular nominative person : NKENM
+
+
+við Míms höfuð .
+við [VIÐ] -> adverb accusative : AO
+Míms [MÍMIR] -> noun masculine singular genitive person : NKEEM
+höfuð [HÖFUÐ] -> noun neuter singular accusative : NHEO
+. [.] -> punctuation : P
+
+
+47
+47 [UNK] -> UNK : UNK
+
+
+Skelfr Yggdrasils
+Skelfr [SKJÁLFA] -> verb indicative active third singular present : SFG3EN
+Yggdrasils [YGGDRASILL] -> noun masculine singular genitive person : NKEEM
+
+
+askr standandi ,
+askr [ASKR] -> noun masculine singular nominative : NKEN
+standandi [STANDA] ->  : SL
+, [,] -> punctuation : P
+
+
+ymr it aldna tré ,
+ymr [YMR] -> noun masculine singular nominative : NKEN
+it [INN] -> article neuter singular nominative : GHEN
+aldna [ALDINN] -> adjective neuter singular nominative weak positive : LHENVF
+tré [TRÉ] -> noun neuter singular nominative : NHEN
+, [,] -> punctuation : P
+
+
+en jötunn losnar ;
+en [EN] -> conjunction : CC
+jötunn [JÖTUNN] -> noun masculine singular nominative : NKEN
+losnar [LOSNA] -> verb indicative active third singular present : SFG3EN
+; [;] -> punctuation : P
+
+
+hræðask allir
+hræðask [HRÆÐA] -> verb indicative middle third singular present : SFM3EN
+allir [ALLR] -> adjective masculine plural nominative strong positive : LKFNSF
+
+
+á helvegum
+á [Á] -> adverb dative : AÞ
+helvegum [HELVEGR] -> noun masculine plural dative : NKFÞ
+
+
+áðr Surtar þann
+áðr [ÁÐR] -> adverb no case  : AA
+Surtar [SURTR] -> noun masculine singular genitive person : NKEEM
+þann [ÞANN] -> pronoun demonstrative masculine singular accusative : FAKEO
+
+
+sefi of gleypir .
+sefi [SEFI] -> noun masculine singular nominative : NKEN
+of [OF] -> adverb no case  : AA
+gleypir [GLEYPA] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
+
+48
+48 [UNK] -> UNK : UNK
+
+
+Hvat er með ásum ?
+Hvat [HVAT] ->  : FPS
+er [VERA] -> verb indicative active third singular present : SFG3EN
+með [MEÐ] -> adverb dative : AÞ
+ásum [ÁSS] -> noun masculine plural dative : NKFÞ
+? [?] -> punctuation : P
+
+
+Hvat er með álfum ?
+Hvat [HVAT] ->  : FPS
+er [VERA] -> verb indicative active third singular present : SFG3EN
+með [MEÐ] -> adverb dative : AÞ
+álfum [ÁLFR] -> noun masculine plural dative : NKFÞ
+? [?] -> punctuation : P
+
+
+Gnýr allr Jötunheimr ,
+Gnýr [GNÝJA] -> verb indicative active third singular present : SFG3EN
+allr [ALLR] -> adjective masculine singular nominative strong positive : LKENSF
+Jötunheimr [JÖTUNHEIMR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+æsir ro á þingi ,
+æsir [ÁSS] -> noun masculine plural nominative : NKFN
+ro [VERA] -> verb indicative active third plural present : SFG3FN
+á [Á] -> adverb dative : AÞ
+þingi [ÞINGI] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+
+
+stynja dvergar
+stynja [STYNJA] -> verb indicative active third plural present : SFG3FN
+dvergar [DVERGR] -> noun masculine plural nominative : NKFN
+
+
+fyr steindurum ,
+fyr [FYR] -> adverb dative : AÞ
+steindurum [STEINDYRR] -> noun feminine plural dative : NVFÞ
+, [,] -> punctuation : P
+
+
+veggbergs vísir .
+veggbergs [VEGGBERG] -> noun neuter singular genitive : NHEE
+vísir [VÍSI] -> noun masculine plural nominative : NKFN
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVERR] ->  : FPS
+? [?] -> punctuation : P
+
+
+49
+49 [UNK] -> UNK : UNK
+
+
+Geyr nú Garmr mjök
+Geyr [GEYJA] -> verb indicative active third singular present : SFG3EN
+nú [NÚ] -> adverb no case  : AA
+Garmr [GARMR] -> noun masculine singular nominative person : NKENM
+mjök [MJÖK] -> adverb no case  : AA
+
+
+fyr Gnipahelli ,
+fyr [FYR] -> adverb dative : AÞ
+Gnipahelli [GNIPAHELLIR] -> noun masculine singular dative person : NKEÞM
+, [,] -> punctuation : P
+
+
+festr mun slitna ,
+festr [FESTR] -> noun masculine singular nominative : NKEN
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+slitna [SLITNA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+en freki renna ;
+en [EN] -> conjunction : CC
+freki [FREKI] -> noun masculine singular nominative : NKEN
+renna [RENNA] -> verb infinitive active infinitive active : SNG
+; [;] -> punctuation : P
+
+
+fjölð veit ek frœða ,
+fjölð [FJÖLÐ] -> adverb no case  : AA
+veit [VITA] -> verb indicative active third singular present : SFG3EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+frœða [FRŒÐI] -> noun feminine singular accusative : NVEO
+, [,] -> punctuation : P
+
+
+fram sé ek lengra
+fram [FRAM] -> adverb no case  : AA
+sé [SÉ] -> verb indicative active first singular present : SFG1EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+lengra [LENGI] -> adjective neuter singular nominative strong comparative : LHENSM
+
+
+um ragna rök
+um [UM] -> adverb accusative : AO
+ragna [REGIN] -> noun neuter plural genitive : NHFE
+rök [RÖKR] -> noun neuter plural accusative : NHFO
+
+
+römm sigtíva .
+römm [RAMR] -> adjective neuter plural accusative strong positive : LHFOSF
+sigtíva [SIGTÍVAMR] -> noun masculine plural genitive : NKFE
+. [.] -> punctuation : P
+
+
+50
+50 [UNK] -> UNK : UNK
+
+
+Hrymr ekr austan ,
+Hrymr [HRYMR] -> noun masculine singular nominative person : NKENM
+ekr [AKA] -> verb indicative active third singular present : SFG3EN
+austan [AUSTR] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+hefisk lind fyrir ,
+hefisk [HAFA] -> verb indicative middle third singular present : SFM3EN
+lind [LIND] -> noun feminine singular nominative : NVEN
+fyrir [FYRIR] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+snýsk Jörmungandr
+snýsk [SNÚA] -> verb indicative active third singular present : SFG3EN
+Jörmungandr [JÖRMUNGANDR] -> noun masculine singular nominative person : NKENM
+
+
+í jötunmóði ;
+í [Í] -> adverb dative : AÞ
+jötunmóði [JÖTUNMÓÐR] -> noun masculine singular dative : NKEÞ
+; [;] -> punctuation : P
+
+
+ormr knýr unnir ,
+ormr [ORMR] -> noun masculine singular nominative : NKEN
+knýr [KNÝJA] -> verb indicative active third singular present : SFG3EN
+unnir [UNNR] -> noun feminine plural nominative : NVFN
+, [,] -> punctuation : P
+
+
+en ari hlakkar ,
+en [EN] -> conjunction : CC
+ari [ARI] -> noun masculine singular nominative : NKEN
+hlakkar [HLAKKA] -> verb indicative active third singular present : SFG3EN
+, [,] -> punctuation : P
+
+
+slítr nái niðfölr ,
+slítr [SLÍTA] -> verb indicative active third singular present : SFG3EN
+nái [NÁR] -> noun masculine plural accusative : NKFO
+niðfölr [NIÐFÖLR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Naglfar losnar .
+Naglfar [NAGLFAR] -> noun neuter singular nominative : NHEN
+losnar [LOSNA] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
+
+51
+51 [UNK] -> UNK : UNK
+
+
+Kjóll ferr austan ,
+Kjóll [KJÓLL] -> noun masculine singular nominative : NKEN
+ferr [FARA] -> verb indicative active third singular present : SFG3EN
+austan [AUSTAN] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+koma munu Múspells
+koma [KOMA] -> verb infinitive active infinitive active : SNG
+munu [MUNU] -> verb indicative active third singular present : SFG3EN
+Múspells [MÚSPELL] -> noun masculine singular genitive person : NKEEM
+
+
+of lög lýðir ,
+of [OF] -> adverb no case  : AA
+lög [LÖGR] -> noun masculine singular accusative : NKEO
+lýðir [LÝÐR] -> noun masculine plural nominative : NKFN
+, [,] -> punctuation : P
+
+
+en Loki stýrir ;
+en [EN] -> conjunction : CC
+Loki [LOKI] -> noun masculine singular nominative person : NKENM
+stýrir [STÝRA] -> verb indicative active third singular present : SFG3EN
+; [;] -> punctuation : P
+
+
+fara fíflmegir
+fara [FARA] -> verb indicative active third plural present : SFG3FN
+fíflmegir [FÍFLMEGIR] -> noun masculine plural nominative : NKFN
+
+
+með freka allir ,
+með [MEÐ] -> adverb accusative : AO
+freka [FREKI] -> noun masculine singular dative : NKEÞ
+allir [ALLR] -> adjective masculine plural nominative strong positive : LKFNSF
+, [,] -> punctuation : P
+
+
+þeim er bróðir
+þeim [HANN] -> pronoun personal masculine plural dative : FPKFÞ
+er [VERA] -> verb indicative active third singular present : SFG3EN
+bróðir [BRÓÐIR] -> noun masculine singular nominative : NKEN
+
+
+Býleists í för .
+Býleists [BÝLEISTS] -> noun masculine singular genitive person : NKEEM
+í [Í] -> adverb accusative : AO
+för [FÖR] -> noun feminine singular accusative : NVEO
+. [.] -> punctuation : P
+
+
+52
+52 [UNK] -> UNK : UNK
+
+
+Surtr ferr sunnan
+Surtr [SURTR] -> noun masculine singular nominative person : NKENM
+ferr [FARA] -> verb indicative active third singular present : SFG3EN
+sunnan [SUNNAN] -> adverb no case  : AA
+
+
+með sviga lævi ,
+með [MEÐ] -> adverb dative : AÞ
+sviga [SVIGI] -> noun masculine singular dative : NKEÞ
+lævi [LÆ] -> noun neuter singular dative : NHEÞ
+, [,] -> punctuation : P
+
+
+skínn af sverði
+skínn [SKÍNA] -> verb indicative active third singular present : SFG3EN
+af [AF] -> adverb dative : AÞ
+sverði [SVERÐ] -> noun neuter singular dative : NHEÞ
+
+
+sól valtíva ;
+sól [SÓL] -> noun feminine singular nominative : NVEN
+valtíva [VALTIVAR] -> noun masculine plural genitive : NKFE
+; [;] -> punctuation : P
+
+
+grjótbjörg gnata ,
+grjótbjörg [GRJÓTBJÖRG] -> noun neuter plural nominative : NHFN
+gnata [GNATA] -> verb indicative active third plural present : SFG3FN
+, [,] -> punctuation : P
+
+
+en gífr rata ,
+en [EN] -> conjunction : CC
+gífr [GÍFR] -> noun neuter singular nominative : NHEN
+rata [RATA] -> verb   third plural present : SGF3FN
+, [,] -> punctuation : P
+
+
+troða halir helveg ,
+troða [TROÐA] -> verb indicative active third plural present : SFG3FN
+halir [HALI] -> noun masculine plural nominative : NKFN
+helveg [HELVEGR] -> noun masculine singular accusative : NKEO
+, [,] -> punctuation : P
+
+
+en himinn klofnar .
+en [EN] -> conjunction : CC
+himinn [HIMINN] -> noun masculine singular nominative : NKEN
+klofnar [KLOFNA] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
+
+53
+53 [UNK] -> UNK : UNK
+
+
+Þá kemr Hlínar
+Þá [ÞÁ] -> adverb no case  : AA
+kemr [KOMA] -> verb indicative active third singular present : SFG3EN
+Hlínar [HLÍN] -> noun feminine singular genitive person : NVEEM
+
+
+harmr annarr fram ,
+harmr [HARMR] -> noun masculine singular nominative : NKEN
+annarr [ANNARR] -> adjective masculine singular nominative strong positive : LKENSF
+fram [FRAM] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+er Óðinn ferr
+er [ER] -> conjunction : CT
+Óðinn [ÓÐINN] -> noun masculine singular nominative person : NKENM
+ferr [FARA] -> verb indicative active third singular present : SFG3EN
+
+
+við ulf vega ,
+við [VIÐ] -> adverb accusative : AO
+ulf [ULFR] -> noun masculine singular accusative : NKEO
+vega [VEGR] -> noun masculine plural accusative : NKFO
+, [,] -> punctuation : P
+
+
+en bani Belja
+en [EN] -> conjunction : CC
+bani [BANI] -> noun masculine singular nominative : NKEN
+Belja [BELI] -> noun masculine singular genitive person : NKEEM
+
+
+bjartr at Surti ;
+bjartr [BJARTR] -> adjective masculine singular nominative strong positive : LKENSF
+at [AT] -> conjunction : CT
+Surti [SURTR] -> noun masculine singular dative person : NKEÞM
+; [;] -> punctuation : P
+
+
+þá mun Friggjar
+þá [ÞÁ] -> adverb no case  : AA
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+Friggjar [FRIGG] -> noun feminine singular genitive person : NVEEM
+
+
+falla angan .
+falla [FALLA] -> verb infinitive active infinitive active : SNG
+angan [ANGAN] -> noun feminine singular nominative : NVEN
+. [.] -> punctuation : P
+
+
+54
+54 [UNK] -> UNK : UNK
+
+
+Geyr nú Garmr mjök
+Geyr [GEYJA] -> verb indicative active third singular present : SFG3EN
+nú [NÚ] -> adverb no case  : AA
+Garmr [GARMR] -> noun masculine singular nominative person : NKENM
+mjök [MJÖK] -> adverb no case  : AA
+
+
+fyr Gnipahelli ,
+fyr [FYR] -> adverb dative : AÞ
+Gnipahelli [GNIPAHELLIR] -> noun masculine singular dative person : NKEÞM
+, [,] -> punctuation : P
+
+
+festr mun slitna ,
+festr [FESTR] -> noun masculine singular nominative : NKEN
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+slitna [SLITNA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+en freki renna ;
+en [EN] -> conjunction : CC
+freki [FREKI] -> noun masculine singular nominative : NKEN
+renna [RENNA] -> verb infinitive active infinitive active : SNG
+; [;] -> punctuation : P
+
+
+fjölð veit ek frœða ,
+fjölð [FJÖLÐ] -> adverb no case  : AA
+veit [VITA] -> verb indicative active third singular present : SFG3EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+frœða [FRŒÐI] -> noun feminine singular accusative : NVEO
+, [,] -> punctuation : P
+
+
+fram sé ek lengra
+fram [FRAM] -> adverb no case  : AA
+sé [SÉ] -> verb indicative active first singular present : SFG1EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+lengra [LENGI] -> adjective neuter singular nominative strong comparative : LHENSM
+
+
+um ragna rök
+um [UM] -> adverb accusative : AO
+ragna [REGIN] -> noun neuter plural genitive : NHFE
+rök [RÖKR] -> noun neuter plural accusative : NHFO
+
+
+römm sigtíva .
+römm [RAMR] -> adjective neuter plural accusative strong positive : LHFOSF
+sigtíva [SIGTÍVAMR] -> noun masculine plural genitive : NKFE
+. [.] -> punctuation : P
+
+
+55
+55 [UNK] -> UNK : UNK
+
+
+Þá kemr inn mikli
+Þá [ÞÁ] -> adverb no case  : AA
+kemr [KOMA] -> verb indicative active third singular present : SFG3EN
+inn [INN] -> article masculine singular nominative : GKEN
+mikli [MIKILL] -> adjective masculine singular nominative weak positive : LKENVF
+
+
+mögr Sigföður ,
+mögr [MÖGR] -> noun masculine singular nominative : NKEN
+Sigföður [SIGFÖÐUR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+
+
+Víðarr , vega
+Víðarr [VÍÐARR] -> noun masculine singular nominative person : NKENM
+, [,] -> punctuation : P
+vega [VEGA] -> verb infinitive active infinitive active : SNG
+
+
+at valdýri .
+at [AT] -> conjunction : CT
+valdýri [VALDÝR] -> noun neuter singular dative : NHEÞ
+. [.] -> punctuation : P
+
+
+Lætr hann megi Hveðrungs
+Lætr [LÁTA] -> verb indicative active third singular present : SFG3EN
+hann [HANN] -> pronoun personal masculine singular nominative : FPKEN
+megi [MÖGR] -> noun masculine singular dative : NKEÞ
+Hveðrungs [HVEÐRUNGR] -> noun masculine singular genitive person : NKEEM
+
+
+mundum standa
+mundum [MUND] -> noun feminine singular dative : NVEÞ
+standa [STANDA] -> verb infinitive active infinitive active : SNG
+
+
+hjör til hjarta ,
+hjör [HJÖRR] -> noun masculine singular accusative : NKEO
+til [TIL] -> adverb genitive : AE
+hjarta [HJARTA] -> noun neuter singular accusative : NHEO
+, [,] -> punctuation : P
+
+
+þá er hefnt föður .
+þá [ÞÁ] -> adverb no case  : AA
+er [VERA] -> verb indicative active third singular present : SFG3EN
+hefnt [HEFNA] ->  : SÞHEN
+föður [NKEN] -> noun masculine singular nominative : NKEN
+. [.] -> punctuation : P
+
+
+56
+56 [UNK] -> UNK : UNK
+
+
+Þá kemr inn mæri
+Þá [ÞÁ] -> adverb no case  : AA
+kemr [KOMA] -> verb indicative active third singular present : SFG3EN
+inn [INN] -> article masculine singular nominative : GKEN
+mæri [MÆRR] -> adjective masculine singular nominative weak positive : LKENVF
+
+
+mögr Hlóðynjar ,
+mögr [MÖGR] -> noun masculine singular nominative : NKEN
+Hlóðynjar [HLÓÐYN] -> noun masculine singular genitive person : NKEEM
+, [,] -> punctuation : P
+
+
+gengr Óðins sonr
+gengr [GANGA] -> verb indicative active third singular present : SFG3EN
+Óðins [ÓÐINN] -> noun masculine singular genitive person : NKEEM
+sonr [SONR] -> noun masculine singular nominative : NKEN
+
+
+við orm vega ,
+við [VIÐ] -> adverb accusative : AO
+orm [ORMR] -> noun masculine singular accusative : NKEO
+vega [VEGA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+drepr af móði
+drepr [DREPA] -> verb indicative active third singular present : SFG3EN
+af [AF] -> adverb dative : AÞ
+móði [MÓÐR] -> noun masculine singular dative : NKEÞ
+
+
+Miðgarðs véurr ,
+Miðgarðs [MIÐGARÐR] -> noun masculine singular genitive person : NKEEM
+véurr [VÉURR] -> noun masculine singular nominative : NKEN
+, [,] -> punctuation : P
+
+
+munu halir allir
+munu [MUNU] -> verb indicative active third plural present : SFG3FN
+halir [HALR] -> noun masculine plural nominative : NKFN
+allir [LKFNSF] ->  : ALLR
+
+
+heimstöð ryðja ;
+heimstöð [HEIMSTÖÐ] -> noun feminine singular accusative : NVEO
+ryðja [RYÐJA] -> verb infinitive active infinitive active : SNG
+; [;] -> punctuation : P
+
+
+gengr fet níu
+gengr [GANGA] -> noun    : NFG3EN
+fet [FET] -> noun neuter plural nominative : NHFN
+níu [NÍU] ->  : F
+
+
+Fjörgynjar burr
+Fjörgynjar [FJÖRGYN] -> noun masculine singular genitive person : NKEEM
+burr [BURR] -> noun masculine singular nominative : NKEN
+
+
+neppr frá naðri
+neppr [NEPPR] -> adjective masculine singular nominative strong positive : LKENSF
+frá [FRÁ] -> adverb dative : AÞ
+naðri [NAÐR] -> noun masculine singular dative : NKEÞ
+
+
+níðs ókvíðnum .
+níðs [NÍÐ] -> noun neuter singular genitive : NHEE
+ókvíðnum [ÓKVÍÐ] -> noun masculine singular dative : NKEÞ
+. [.] -> punctuation : P
+
+
+57
+57 [UNK] -> UNK : UNK
+
+
+Sól tér sortna ,
+Sól [SÓL] -> noun feminine singular nominative : NVEN
+tér [TJÁ] -> verb indicative active third singular present : SFG3EN
+sortna [SORTNA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+sígr fold í mar ,
+sígr [SÍGA] -> verb indicative active third singular present : SFG3EN
+fold [FOLD] -> noun feminine singular nominative : NVEN
+í [Í] -> adverb accusative : AO
+mar [MARR] -> noun masculine singular accusative : NKEO
+, [,] -> punctuation : P
+
+
+hverfa af himni
+hverfa [HVERFA] -> verb indicative active third plural present : SFG3FN
+af [AF] -> adverb dative : AÞ
+himni [HIMINN] -> noun masculine singular dative : NKEÞ
+
+
+heiðar stjörnur ;
+heiðar [HEIÐR] -> adjective feminine plural nominative strong positive : LVFNSF
+stjörnur [STJARNA] -> noun feminine plural nominative : NVFN
+; [;] -> punctuation : P
+
+
+geisar eimi
+geisar [GEISA] -> verb indicative active third singular present : SFG3EN
+eimi [EINR] -> noun masculine singular dative : NKEÞ
+
+
+ok aldrnari ,
+ok [OK] -> conjunction : CC
+aldrnari [ALDRNARI] -> noun masculine singular nominative : NKEN
+, [,] -> punctuation : P
+
+
+leikr hár hiti
+leikr [LEIKA] -> verb indicative active third singular present : SFG3EN
+hár [HÁR] -> adjective masculine singular nominative strong positive : LKENSF
+hiti [HITI] -> noun masculine singular nominative : NKEN
+
+
+við himin sjalfan .
+við [VIÐ] -> adverb accusative : AO
+himin [HIMINN] -> noun masculine singular accusative : NKEO
+sjalfan [SJALFAN] -> adverb no case  : AA
+. [.] -> punctuation : P
+
+
+58
+58 [UNK] -> UNK : UNK
+
+
+Geyr nú Garmr mjök
+Geyr [GEYJA] -> verb indicative active third singular present : SFG3EN
+nú [NÚ] -> adverb no case  : AA
+Garmr [GARMR] -> noun masculine singular nominative person : NKENM
+mjök [MJÖK] -> adverb no case  : AA
+
+
+fyr Gnipahelli ,
+fyr [FYR] -> adverb dative : AÞ
+Gnipahelli [GNIPAHELLIR] -> noun masculine singular dative person : NKEÞM
+, [,] -> punctuation : P
+
+
+festr mun slitna ,
+festr [FESTR] -> noun masculine singular nominative : NKEN
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+slitna [SLITNA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+en freki renna ;
+en [EN] -> conjunction : CC
+freki [FREKI] -> noun masculine singular nominative : NKEN
+renna [RENNA] -> verb infinitive active infinitive active : SNG
+; [;] -> punctuation : P
+
+
+fjölð veit ek frœða ,
+fjölð [FJÖLÐ] -> adverb no case  : AA
+veit [VITA] -> verb indicative active third singular present : SFG3EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+frœða [FRŒÐI] -> noun feminine singular accusative : NVEO
+, [,] -> punctuation : P
+
+
+fram sé ek lengra
+fram [FRAM] -> adverb no case  : AA
+sé [SÉ] -> verb indicative active first singular present : SFG1EN
+ek [EK] -> pronoun personal first singular nominative : FP1EN
+lengra [LENGI] -> adjective neuter singular nominative strong comparative : LHENSM
+
+
+um ragna rök
+um [UM] -> adverb accusative : AO
+ragna [REGIN] -> noun neuter plural genitive : NHFE
+rök [RÖKR] -> noun neuter plural accusative : NHFO
+
+
+römm sigtíva .
+römm [RAMR] -> adjective neuter plural accusative strong positive : LHFOSF
+sigtíva [SIGTÍVAMR] -> noun masculine plural genitive : NKFE
+. [.] -> punctuation : P
+
+
+59
+59 [UNK] -> UNK : UNK
+
+
+Sér hon upp koma
+Sér [SJÁ] -> verb indicative active third singular present : SFG3EN
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+upp [UPP] -> adverb no case  : AA
+koma [KOMA] -> verb infinitive active infinitive active : SNG
+
+
+öðru sinni
+öðru [ANNARR] -> pronoun indefinite masculine singular dative : FOKEÞ
+sinni [SINN] -> noun neuter singular dative : NHEÞ
+
+
+jörð ór ægi
+jörð [JÖRÐ] -> noun feminine singular accusative : NVEO
+ór [ÓR] -> adverb accusative : AO
+ægi [ÆGIR] -> noun feminine singular accusative : NVEO
+
+
+iðjagræna ;
+iðjagræna [IÐJAGRÆN] -> adjective feminine singular accusative strong positive : LVEOSF
+; [;] -> punctuation : P
+
+
+falla forsar ,
+falla [FALLA] -> verb infinitive active third singular present : SNG3EN
+forsar [FORSI] -> noun neuter plural nominative : NHFN
+, [,] -> punctuation : P
+
+
+flýgr örn yfir ,
+flýgr [FLÝGJA] -> verb infinitive active third singular present : SNG3EN
+örn [ÖRN] -> noun masculine singular nominative : NKEN
+yfir [YFIR] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+sá er á fjalli
+sá [SÁ] -> pronoun demonstrative masculine singular nominative : FAKEN
+er [ER] -> conjunction : CT
+á [Á] -> adverb dative : AÞ
+fjalli [FJALL] -> noun neuter singular dative : NHEÞ
+
+
+fiska veiðir .
+fiska [FISKR] -> noun masculine plural accusative : NKFO
+veiðir [VEIÐA] -> verb infinitive active third singular present : SNG3EN
+. [.] -> punctuation : P
+
+
+60
+60 [UNK] -> UNK : UNK
+
+
+Finnask æsir
+Finnask [FINNA] -> verb indicative middle third plural present : SFM3FN
+æsir [ÁSS] -> noun masculine plural nominative : NKFN
+
+
+á Iðavelli
+á [Á] -> adverb dative : AÞ
+Iðavelli [IÐAVÖLLR] -> noun masculine singular dative person : NKEÞM
+
+
+ok um moldþinur
+ok [OK] -> conjunction : CC
+um [UM] -> adverb no case  : AA
+moldþinur [MOLDÞINNUR] -> noun masculine singular accusative : NKEO
+
+
+máttkan dæma
+máttkan [MÁTTIGR] -> adjective masculine singular accusative strong positive : LKEOSF
+dæma [DÆMA] -> verb indicative active third plural present : SFG3FN
+
+
+ok minnask þar
+ok [OK] -> conjunction : CC
+minnask [MINNA] -> verb indicative middle third plural present : SFM3FN
+þar [ÞAR] -> adverb no case  : AA
+
+
+á megindóma
+á [Á] ->  : A
+megindóma [MEGINDÓMAR] -> noun masculine plural genitive : NKFE
+
+
+ok á Fimbultýs
+ok [OK] -> conjunction : CC
+á [Á] -> adverb genitive : AE
+Fimbultýs [FIMBULTÝR] -> noun masculine singular genitive : NKEE
+
+
+fornar rúnir .
+fornar [FORN] -> adjective feminine plural accusative strong positive : LVFOSF
+rúnir [RÚNAR] -> noun feminine plural accusative : NVFO
+. [.] -> punctuation : P
+
+
+61
+61 [UNK] -> UNK : UNK
+
+
+Þar munu eftir
+Þar [ÞAR] -> adverb no case  : AA
+munu [MUNU] -> verb indicative active third plural present : SFG3FN
+eftir [EFTIR] -> adverb no case  : AA
+
+
+undrsamligar
+undrsamligar [UNDRSAMLIGR] -> adjective feminine plural accusative strong positive : LVFOSF
+
+
+gullnar töflur
+gullnar [GULLINN] -> adjective feminine plural accusative strong positive : LVFOSF
+töflur [TAFLA] -> noun feminine plural accusative : NVFO
+
+
+í grasi finnask ,
+í [Í] -> adverb dative : AÞ
+grasi [GRAS] -> noun masculine singular dative : NKEÞ
+finnask [FINNA] -> verb indicative middle third singular present : SFM3EN
+, [,] -> punctuation : P
+
+
+þærs í árdaga
+þærs [SÁ+ER] -> pronoun demonstrative feminine plural nominative : FAVFN
+í [Í] -> adverb accusative : AO
+árdaga [ÁRDAGR] -> noun masculine plural accusative : NKFO
+
+
+áttar höfðu .
+áttar [ÁTT] -> noun feminine plural nominative : NVFN
+höfðu [HAFA] -> verb indicative active third plural past : SFG3FÞ
+. [.] -> punctuation : P
+
+
+62
+62 [UNK] -> UNK : UNK
+
+
+Munu ósánir
+Munu [MUNU] -> verb indicative active third plural present : SFG3FN
+ósánir [SÁ] -> verb past participle active masculine plural nominative : SÞGKFN
+
+
+akrar vaxa ,
+akrar [AKR] -> noun masculine plural nominative : NKFN
+vaxa [VAXA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+böls mun alls batna ,
+böls [BÖL] -> noun neuter singular genitive : NHEE
+mun [MUNU] -> verb indicative active third singular present : SFG3EN
+alls [ALLR] -> adjective neuter singular genitive strong positive : LHEESF
+batna [BATNA] -> verb infinitive active infinitive active : SNG
+, [,] -> punctuation : P
+
+
+Baldr mun koma ;
+Baldr [BALDR] -> noun masculine singular nominative person : NKENM
+mun [MUNA] -> verb indicative active third singular present : SFG3EN
+koma [KOMA] -> verb infinitive active infinitive active : SNG
+; [;] -> punctuation : P
+
+
+búa þeir Höðr ok Baldr
+búa [BÚA] -> verb infinitive active infinitive active : SNG
+þeir [ÞEIR] -> pronoun personal masculine plural nominative : FPKFN
+Höðr [HÖÐR] -> noun masculine singular nominative person : NKENM
+ok [OK] -> conjunction : CC
+Baldr [BALDR] -> noun masculine singular nominative person : NKENM
+
+
+Hrofts sigtoftir ,
+Hrofts [HROFT] -> noun masculine singular genitive : NKEE
+sigtoftir [SIGTOFTIR] -> noun feminine plural accusative : NVFO
+, [,] -> punctuation : P
+
+
+vé valtíva .
+vé [VÉ] -> noun neuter plural nominative : NHFN
+valtíva [VALTÍVAR] -> noun masculine plural genitive : NKFE
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVAT] ->  : FPS
+? [?] -> punctuation : P
+
+
+63
+63 [UNK] -> UNK : UNK
+
+
+Þá kná Hænir
+Þá [ÞÁ] -> adverb no case  : AA
+kná [KNÁ] -> verb indicative active third singular present : SFG3EN
+Hænir [HÆNIR] -> noun masculine singular nominative person : NKENM
+
+
+hlautvið kjósa
+hlautvið [HLAUTVIÐR] -> noun masculine singular accusative : NKEO
+kjósa [KJÓSA] -> verb infinitive active infinitive active : SNG
+
+
+ok burir byggja
+ok [OK] -> conjunction : CC
+burir [BURR] -> noun masculine plural nominative : NKFN
+byggja [BYGGJA] -> noun    : NFG3FN
+
+
+bræðra tveggja
+bræðra [BRÓÐIR] -> noun masculine plural genitive : NKFE
+tveggja [TVEIR] -> numeral cardinal masculine plural genitive : TFKFE
+
+
+vindheim víðan .
+vindheim [VINDHEIMR] -> noun masculine singular accusative : NKEO
+víðan [VÍÐR] -> adjective masculine singular accusative strong positive : LKEOSF
+. [.] -> punctuation : P
+
+
+Vituð ér enn - eða hvat ?
+Vituð [VITA] -> verb indicative active second plural past : SFG2FÞ
+ér [ÉR] -> pronoun personal second plural nominative : FP2FN
+enn [ENN] -> adverb no case  : AA
+- [-] -> punctuation : P
+eða [EÐA] -> conjunction : CC
+hvat [HVERR] ->  : FPS
+? [?] -> punctuation : P
+
+
+64
+64 [UNK] -> UNK : UNK
+
+
+Sal sér hon standa
+Sal [SAL] -> noun masculine singular accusative : NKEO
+sér [SJÁ] -> verb indicative active third singular present : SFG3EN
+hon [HON] -> pronoun personal feminine singular nominative : FPVEN
+standa [STANDA] -> verb infinitive active infinitive active : SNG
+
+
+sólu fegra ,
+sólu [SÓL] -> noun feminine singular dative : NVEÞ
+fegra [FEGR] -> adjective masculine singular accusative strong comparative : LKEOSM
+, [,] -> punctuation : P
+
+
+gulli þakðan
+gulli [GULL] -> noun neuter singular dative : NHEÞ
+þakðan [ÞEKJA] ->  : SÞKEO
+
+
+á Gimléi ;
+á [Á] -> adverb dative : AÞ
+Gimléi [GIMLÉ] -> noun masculine singular dative person : NKEÞM
+; [;] -> punctuation : P
+
+
+þar skulu dyggvar
+þar [ÞAR] -> adverb no case  : AA
+skulu [SKULA] -> verb indicative active third plural present : SFG3FN
+dyggvar [DYGGR] -> adjective feminine plural nominative strong positive : LVFNSF
+
+
+dróttir byggja
+dróttir [DRÓTT] -> noun feminine plural nominative : NVFN
+byggja [BYGGJA] -> verb infinitive active infinitive active : SNG
+
+
+ok um aldrdaga
+ok [OK] -> conjunction : CC
+um [UM] -> adverb no case  : AA
+aldrdaga [ALDRDAGR] -> noun masculine plural genitive : NKFE
+
+
+ynðis njóta .
+ynðis [YNDI] -> noun neuter singular genitive : NHEE
+njóta [NJÓTA] -> verb infinitive active infinitive active : SNG
+. [.] -> punctuation : P
+
+
+65
+65 [UNK] -> UNK : UNK
+
+
+Þá kemr inn ríki
+Þá [ÞÁ] -> adverb no case  : AA
+kemr [KOMA] -> verb indicative active third singular present : SFG3EN
+inn [INN] -> article masculine singular nominative : GKEN
+ríki [RÍKR] -> adjective masculine singular nominative weak positive : LKENVF
+
+
+at regindómi
+at [AT] -> conjunction : CT
+regindómi [REGINDÓMR] -> noun masculine singular dative : NKEÞ
+
+
+öflugr ofan ,
+öflugr [ÖFLUGR] -> adjective masculine singular nominative strong positive : LKENSF
+ofan [OFAN] -> adverb no case  : AA
+, [,] -> punctuation : P
+
+
+sá er öllu ræðr .
+sá [SÁ] -> pronoun demonstrative masculine singular nominative : FAKEN
+er [ER] -> conjunction : CT
+öllu [ALLR] -> adjective masculine singular dative strong positive : LKEÞSF
+ræðr [RÆÐR] -> verb indicative active third singular present : SFG3EN
+. [.] -> punctuation : P
+
